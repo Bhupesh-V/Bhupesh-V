@@ -34,6 +34,6 @@ I use following mediums regularly. Feel free to reach out
 
 - 😄 Pronouns: (He/Him)
 - ⚡ Fun fact: I make & share memes, want to see some ?
-- Also I am looking for some remote job opportunities (going to graduate in 2020 hopefully)
+- Also I am looking for some remote job/contract work opportunities (going to graduate in 2020 hopefully)
 
 ---
