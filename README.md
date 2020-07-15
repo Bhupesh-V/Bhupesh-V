@@ -25,7 +25,7 @@ I use following mediums regularly. Feel free to reach out
 
 ### Recent Works
 <details>
-  <summary align="center">Projects</summary>
+  <summary>🌟 Projects 🌟</summary>
   <table>
     <tr>
       <td><samp><h4 align="center">defe</h4></samp>
