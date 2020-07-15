@@ -23,6 +23,27 @@ I use following mediums regularly. Feel free to reach out
 
 ⬅️ there is my email, if you are an old schooler :)
 
+### Recent Works
+<details>
+  <summary align="center">Projects</summary>
+  <table>
+    <tr>
+      <td><samp><h4 align="center">defe</h4></samp>
+        <p align="center">
+        <img align="center" src="https://raw.githubusercontent.com/Bhupesh-V/defe/2836e20d0416a4232e7d7f81a7988250e1d6718d/static/images/logodefe.svg" width="100">
+        </p>
+        <a align="center" href="https://github.com/Bhupesh-V/defe"><b> A tech feed aggregator for Developers</b></a>
+      </td>
+      <td><samp><h4 align="center">Memer Action</h4></samp>
+        <p align="center">
+           <img align="center" src="https://github.com/Bhupesh-V/memer-action/blob/master/images/header.png?raw=true" width="178">
+        </p>
+        <a align="center" href="https://github.com/Bhupesh-V/memer-action"><b>A GitHub Action for Programmer Memes xD</b></a>
+      </td>
+    </tr>
+  </table>
+</details>
+
 ### What is Bhupesh upto nowadays 👀
 
 - 🌱 I’m currently learning ...
