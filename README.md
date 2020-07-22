@@ -1,7 +1,7 @@
 <img align="left" src="https://gist.github.com/Bhupesh-V/0246a3f681d2533d21efb1206d1ba9d4/raw/af7d53bfdbf30f725ef7ade206200086820739fd/AboutMe.gif" height="180px"> 
 <div>
   <h3 align="right">Helloo :wave: <i>GitHubers</i> :relaxed:</h3>
-  <p align="right">I'm a Backend Developer and FOSS Enthusiast. I got interested in programming when I understood how a <code>for</code> loop works 😮 in 2016 and since then I got interested in CS and have never looked back. Right now I write (and work) with Python, Go, C++, Bash &amp; Javascript (in that order). I am a side-project guy, and love 💜 to be a part of programming &amp; Open-Source communities.</p>
+  <p align="right">I'm a Backend Developer and FOSS Enthusiast. I got interested in programming when I learned how a <code>for</code> loop works 😮 in 2016 and since then I got interested in CS and have never looked back. Right now I write (and work) with Python, Go, C++, Bash &amp; Javascript (in that order). I am a side-project guy, and love 💜 to be a part of programming &amp; Open-Source communities.</p>
 </div>
 
 
@@ -28,6 +28,12 @@ I use following mediums regularly. Feel free to reach out
   <summary>🌟 Projects 🌟</summary>
   <table>
     <tr>
+      <td><samp><h4 align="center">dotman</h4></samp>
+        <p align="center">
+        <img align="center" src="https://github.com/Bhupesh-V/dotman/blob/master/assets/dotman-logo.png" width="200">
+        </p>
+        <a align="center" href="https://github.com/Bhupesh-V/dotman"><b> dotman is a simple &amp; elegant dotfiles manager</b></a>
+      </td>
       <td><samp><h4 align="center">defe</h4></samp>
         <p align="center">
         <img align="center" src="https://raw.githubusercontent.com/Bhupesh-V/defe/2836e20d0416a4232e7d7f81a7988250e1d6718d/static/images/logodefe.svg" width="100">
