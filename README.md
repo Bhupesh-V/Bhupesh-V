@@ -46,11 +46,11 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details><summary>Just</summary>
+<details><summary>Debugging</summary>
 
-> **Just**
-![Just](https://i.redd.it/y60gcgjoqkd51.png)
-<sub>ℹ️ <a href="found">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</sub>
+> **Debugging**
+![Debugging](https://i.redd.it/ae1y41d13ld51.jpg)
+<sub>ℹ️ <a href="goes">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</sub>
 </details>
 
 ### What is Bhupesh upto nowadays 👀
