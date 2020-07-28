@@ -12,10 +12,6 @@ jobs:
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
     - name: Run Memer Action
       uses: Bhupesh-V/memer-action@master
       with:
@@ -25,6 +21,10 @@ jobs:
         echo "${{ steps.selftest.outputs.meme }}"
         echo "${{ steps.selftest.outputs.title }}"
         echo "${{ steps.selftest.outputs.source }}"
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
     - name: Update README
       run: |-
         python build_readme.py ${{ steps.selftest.outputs.meme }} ${{ steps.selftest.outputs.title }} ${{ steps.selftest.outputs.source }}
