@@ -16,7 +16,7 @@ jobs:
       uses: Bhupesh-V/memer-action@master
       with:
         filter: new
-    - name: Check outputs
+    - name: Check Memer Action Outputs
         run: |
           echo "${{ steps.selftest.outputs.meme }}"
           echo "${{ steps.selftest.outputs.title }}"
@@ -27,9 +27,9 @@ jobs:
         python-version: 3.8
     - name: Update README
       run: |-
-        python build_readme.py ${{ steps.selftest.outputs.meme }} ${{ steps.selftest.outputs.title }} ${{ steps.selftest.outputs.source }}
+        python build_readme.py "${{ steps.selftest.outputs.meme }}" "${{ steps.selftest.outputs.title }}" "${{ steps.selftest.outputs.source }}"
         cat README.md
-    - name: Commit and push if changed
+    - name: Commit & Push
       run: |-
         git diff
         git config --global user.email "varshneybhupesh@gmail.com"

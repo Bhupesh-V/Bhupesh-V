@@ -3,8 +3,8 @@ import sys
 HEADER = """
 <img align="left" src="https://gist.github.com/Bhupesh-V/0246a3f681d2533d21efb1206d1ba9d4/raw/af7d53bfdbf30f725ef7ade206200086820739fd/AboutMe.gif" height="180px"> 
 <div>
-  <h3 align="right">Helloo :wave: <i>GitHubers</i> :relaxed:</h3>
-  <p align="right">I'm a Backend Developer and FOSS Enthusiast. I got interested in programming when I learned how a <code>for</code> loop works 😮 in 2016 and since then I got interested in CS and have never looked back. Right now I write (and work) with Python, Go, C++, Bash &amp; Javascript (in that order). I am a side-project guy, and love 💜 to be a part of programming &amp; Open-Source communities.</p>
+  <h3 align="right">wassup nerds 🖖</h3>
+  <p align="right">I'm a Backend Developer and FOSS Enthusiast. I got interested in programming when I learned how a <code>for</code> loop works 😮 in 2015 and since then I got interested in CS and have never looked back. Right now I write (and work) with Python, Go, C++, Bash &amp; Javascript (in that order). I am a side-project guy, and love 💜 to be a part of programming &amp; opensource communities.</p>
 </div>
 
 
@@ -71,10 +71,13 @@ def main(todays_meme):
         file.write(HEADER)
         file.write("### Today's Meme \\( ﾟヮﾟ)/\n\n")
         file.write(
-            "<details><summary>{0}</summary>\n\n".format(todays_meme[1]))
-        file.write("""> **{title}**\n![{title}]({meme})\n<sub>ℹ️ <a href="{source}">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</sub>""".
-                   format(title=todays_meme[1], meme=todays_meme[0], source=todays_meme[2]))
-        file.write("\n</details>\n")
+            "<details open><summary><b>{0}</b></summary>\n\n".format(todays_meme[1]))
+        file.write("""<table>\n<tr>\n<th valign="top" width="50%">\n""")
+        file.write("""<img alt="{title}" src="{meme}" height="50%"><br>\n""".format(
+            title=todays_meme[1], meme=todays_meme[0]))
+        file.write(
+            """<sub><strong>ℹ️ <a href="{source}">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>""".format(source=todays_meme[2]))
+        file.write("\n</th>\n</tr>\n</table>\n</details>\n")
         file.write(FOOTER)
 
 
