@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '32 * * * *'
+    - cron:  '60 * * * *'
 
 jobs:
   build:
@@ -17,10 +17,10 @@ jobs:
       with:
         filter: new
     - name: Check outputs
-        run: |
-          echo "${{ steps.selftest.outputs.meme }}"
-          echo "${{ steps.selftest.outputs.title }}"
-          echo "${{ steps.selftest.outputs.source }}"
+      run: |
+        echo "${{ steps.selftest.outputs.meme }}"
+        echo "${{ steps.selftest.outputs.title }}"
+        echo "${{ steps.selftest.outputs.source }}"
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
