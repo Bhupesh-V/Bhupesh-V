@@ -18,8 +18,8 @@ jobs:
         python-version: 3.8
     - name: Run Memer Action
       uses: Bhupesh-V/memer-action@master
-        with:
-          filter: "new"
+      with:
+        filter: "new"
     - name: Check outputs
       run: |
         echo "${{ steps.selftest.outputs.meme }}"
