@@ -15,12 +15,14 @@ jobs:
 
       uses: Bhupesh-V/memer-action@master
       with:
-        filter: new
+        filter: "new"
+  
     - name: Check outputs
       run: |
         echo "${{ steps.selftest.outputs.meme }}"
         echo "${{ steps.selftest.outputs.title }}"
         echo "${{ steps.selftest.outputs.source }}"
+
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
