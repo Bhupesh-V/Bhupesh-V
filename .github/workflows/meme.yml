@@ -12,6 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Run Memer Action
+      id: selftest
 
       uses: Bhupesh-V/memer-action@master
       with:
