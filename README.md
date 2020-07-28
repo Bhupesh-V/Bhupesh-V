@@ -46,24 +46,16 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<<<<<<< HEAD
-<details open><summary><b>meme-title</b></summary>
+<details open><summary><b>(_-_---__-G-_-_-__o-___--_T_--_o:) [But why?]</b></summary>
 
 <table>
 <tr>
-<th valign="top" width="33%">
-<img alt="meme-title" src="https://link.xyz" height="50%"><br>
-<sub><strong>ℹ️ <a href="meme-source">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<th valign="top" width="50%">
+<img alt="(_-_---__-G-_-_-__o-___--_T_--_o:) [But why?]" src="https://i.redd.it/fdgwqninuld51.png" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzf9be/g_o_t_o_but_why/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
-=======
-<details><summary>Debugging</summary>
-
-> **Debugging**
-![Debugging](https://i.redd.it/ae1y41d13ld51.jpg)
-<sub>ℹ️ <a href="goes">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</sub>
->>>>>>> 3b1d0cf2dc206d69dcba48ef9869d92e9bce0ed3
 </details>
 
 ### What is Bhupesh upto nowadays 👀
