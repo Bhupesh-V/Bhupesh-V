@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Everything depends on point of view</b></summary>
+<details open><summary><b>Some part of me is in this picture and I don't like it</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Everything depends on point of view" src="https://i.redd.it/js3ggxi0mnd51.png" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzlshq/everything_depends_on_point_of_view/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="Some part of me is in this picture and I don't like it" src="https://i.redd.it/s44qhog97od51.jpg" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzo1ax/some_part_of_me_is_in_this_picture_and_i_dont/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
