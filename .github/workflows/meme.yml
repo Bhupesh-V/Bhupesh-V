@@ -1,0 +1,30 @@
+name: Build README
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '32 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Update README
+      run: |-
+        python build_readme.py
+        cat README.md
+    - name: Commit and push if changed
+      run: |-
+        git diff
+        git config --global user.email "varshneybhupesh@gmail.com"
+        git config --global user.name "Bhupesh-V"
+        git add -A
+        git commit -m "Updated content"
+        git push
