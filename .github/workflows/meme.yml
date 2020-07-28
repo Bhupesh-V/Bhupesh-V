@@ -16,9 +16,18 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
+    - name: Run Memer Action
+      uses: Bhupesh-V/memer-action@master
+        with:
+          filter: "new"
+    - name: Check outputs
+      run: |
+        echo "${{ steps.selftest.outputs.meme }}"
+        echo "${{ steps.selftest.outputs.title }}"
+        echo "${{ steps.selftest.outputs.source }}"
     - name: Update README
       run: |-
-        python build_readme.py
+        python build_readme.py ${{ steps.selftest.outputs.meme }} ${{ steps.selftest.outputs.title }} ${{ steps.selftest.outputs.source }}
         cat README.md
     - name: Commit and push if changed
       run: |-
