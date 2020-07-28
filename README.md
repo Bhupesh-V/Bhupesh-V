@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Crosspost from r/HistoryMemes</b></summary>
+<details open><summary><b>import matplotlib as scapegoat</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Crosspost from r/HistoryMemes" src="https://i.redd.it/26kys9ihdmd51.jpg" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzh2gu/crosspost_from_rhistorymemes/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="import matplotlib as scapegoat" src="https://i.redd.it/dtfduhk1emd51.jpg" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzh4uv/import_matplotlib_as_scapegoat/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
