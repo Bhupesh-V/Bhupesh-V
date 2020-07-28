@@ -15,13 +15,6 @@
 - [ ] Start A Newsletter 🗞️ for my [blog](https://bhupesh.codes).
 - [ ] Write more stuff to share my experiences 🤔 & learning (hopefully on freeCodeCamp & HackerNoon)
 
-### How to reach me 📫
-
-I use following mediums regularly. Feel free to reach out
-- 🐦 [Twitter: **@bhupeshimself**](https://www.twitter.com/bhupeshimself)
-- 📩 [Telegram: **@bhupeshimself**](https://t.me/bhupeshimself)
-
-⬅️ there is my email, if you are an old schooler :)
 
 ### Recent Works
 <details>
