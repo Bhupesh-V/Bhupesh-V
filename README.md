@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>(_-_---__-G-_-_-__o-___--_T_--_o:) [But why?]</b></summary>
+<details open><summary><b>.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="(_-_---__-G-_-_-__o-___--_T_--_o:) [But why?]" src="https://i.redd.it/fdgwqninuld51.png" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzf9be/g_o_t_o_but_why/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="." src="https://i.redd.it/e4bxyvn7zld51.jpg" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzfny6/_/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
