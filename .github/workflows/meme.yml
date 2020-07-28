@@ -36,5 +36,5 @@ jobs:
         git config --global user.email "varshneybhupesh@gmail.com"
         git config --global user.name "Bhupesh-V"
         git add -A
-        git commit -m "Updated content"
+        git commit -m "🤖 Automated Commit - add new meme"
         git push
