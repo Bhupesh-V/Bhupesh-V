@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>An exclusive, inside look into the genius behind TikTok’s algorithm</b></summary>
+<details open><summary><b>Everything depends on point of view</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="An exclusive, inside look into the genius behind TikTok’s algorithm" src="https://i.redd.it/9p2jq4geand51.jpg" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzkjr1/an_exclusive_inside_look_into_the_genius_behind/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="Everything depends on point of view" src="https://i.redd.it/js3ggxi0mnd51.png" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzlshq/everything_depends_on_point_of_view/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
