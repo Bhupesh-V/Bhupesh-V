@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Ah yes, the level of joy, indeed goes through the roof..</b></summary>
+<details open><summary><b>An exclusive, inside look into the genius behind TikTok’s algorithm</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Ah yes, the level of joy, indeed goes through the roof.." src="https://i.redd.it/wx4a8hczomd51.jpg" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzib7w/ah_yes_the_level_of_joy_indeed_goes_through_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="An exclusive, inside look into the genius behind TikTok’s algorithm" src="https://i.redd.it/9p2jq4geand51.jpg" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzkjr1/an_exclusive_inside_look_into_the_genius_behind/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
