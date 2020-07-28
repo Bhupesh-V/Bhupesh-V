@@ -46,6 +46,7 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
+<<<<<<< HEAD
 <details open><summary><b>meme-title</b></summary>
 
 <table>
@@ -56,6 +57,13 @@
 </th>
 </tr>
 </table>
+=======
+<details><summary>Debugging</summary>
+
+> **Debugging**
+![Debugging](https://i.redd.it/ae1y41d13ld51.jpg)
+<sub>ℹ️ <a href="goes">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</sub>
+>>>>>>> 3b1d0cf2dc206d69dcba48ef9869d92e9bce0ed3
 </details>
 
 ### What is Bhupesh upto nowadays 👀
