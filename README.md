@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>My bugs are saved for 1000 years.</b></summary>
+<details open><summary><b>why not?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="My bugs are saved for 1000 years." src="https://i.redd.it/ozb7xlgozsd51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i019pv/my_bugs_are_saved_for_1000_years/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="why not?" src="https://i.redd.it/j8gljudhatd51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i029y4/why_not/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
