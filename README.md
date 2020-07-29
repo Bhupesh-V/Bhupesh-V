@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>The little joys in a programmer life</b></summary>
+<details open><summary><b>It just me or is RxJS syntax vaguely sexual?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="The little joys in a programmer life" src="https://i.redd.it/q7olk5x13vd51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i08sby/the_little_joys_in_a_programmer_life/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="It just me or is RxJS syntax vaguely sexual?" src="https://i.redd.it/wcuzvhetcvd51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i09rc7/it_just_me_or_is_rxjs_syntax_vaguely_sexual/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
