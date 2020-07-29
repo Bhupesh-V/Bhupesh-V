@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Passionate developers</b></summary>
+<details open><summary><b>Behavioral questions out to get ya too</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Passionate developers" src="https://i.redd.it/7veowjcoqrd51.jpg" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzxygi/passionate_developers/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="Behavioral questions out to get ya too" src="https://i.redd.it/z7okpqzftrd51.jpg" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzy4r5/behavioral_questions_out_to_get_ya_too/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
