@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Looks familiar))) Not mine, but reminds myself_)</b></summary>
+<details open><summary><b>insecure too</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Looks familiar))) Not mine, but reminds myself_)" src="https://i.redd.it/crpq18dd7rd51.jpg" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzwsb5/looks_familiar_not_mine_but_reminds_myself/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="insecure too" src="https://i.redd.it/l2p78w0derd51.jpg" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzx750/insecure_too/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
