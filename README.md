@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>FIFA Code Got Leaked</b></summary>
+<details open><summary><b>And they only write the examples in one language</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="FIFA Code Got Leaked" src="https://i.redd.it/gke853y8sod51.png" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzq16l/fifa_code_got_leaked/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="And they only write the examples in one language" src="https://i.redd.it/hn7nj051zod51.jpg" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzqnf7/and_they_only_write_the_examples_in_one_language/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
