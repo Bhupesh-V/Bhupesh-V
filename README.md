@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>i guess i’ll just undo everything i just did</b></summary>
+<details open><summary><b>if (toilet_paper_left == null) { let wipe_butt_with_hand = True }</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="i guess i’ll just undo everything i just did" src="https://i.redd.it/9as4fm2n2sd51.jpg" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzypsd/i_guess_ill_just_undo_everything_i_just_did/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="if (toilet_paper_left == null) { let wipe_butt_with_hand = True }" src="https://i.redd.it/gvwwjcr8fsd51.png" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzzmvk/if_toilet_paper_left_null_let_wipe_butt_with_hand/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
