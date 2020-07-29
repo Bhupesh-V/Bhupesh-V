@@ -82,7 +82,7 @@ def main(todays_meme):
         file.write("""<img alt="{title}" src="{meme}" height="50%"><br>\n""".format(
             title=todays_meme[1], meme=todays_meme[0]))
         file.write(
-            """<sub><strong>ℹ️ <a href="{source}">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>""".format(source=todays_meme[2]))
+            """<p><strong>ℹ️ <a href="{source}">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>""".format(source=todays_meme[2]))
         file.write("\n</th>\n</tr>\n</table>\n</details>\n")
         file.write(FOOTER)
 
