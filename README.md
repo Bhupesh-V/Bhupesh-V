@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>if (toilet_paper_left == null) { let wipe_butt_with_hand = True }</b></summary>
+<details open><summary><b>Not recommended</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="if (toilet_paper_left == null) { let wipe_butt_with_hand = True }" src="https://i.redd.it/gvwwjcr8fsd51.png" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzzmvk/if_toilet_paper_left_null_let_wipe_butt_with_hand/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="Not recommended" src="https://i.redd.it/87b06y6hpsd51.jpg" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i00emc/not_recommended/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
