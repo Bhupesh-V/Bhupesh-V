@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Feels good man!</b></summary>
+<details open><summary><b>I know many people go the other way around, but I just never got used to developing on Windows</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Feels good man!" src="https://i.redd.it/ufo0v2znypd51.jpg" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hztnyb/feels_good_man/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="I know many people go the other way around, but I just never got used to developing on Windows" src="https://i.redd.it/hlws929u9qd51.png" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzuk0c/i_know_many_people_go_the_other_way_around_but_i/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
