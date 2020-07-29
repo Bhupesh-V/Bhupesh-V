@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Behavioral questions out to get ya too</b></summary>
+<details open><summary><b>i guess i’ll just undo everything i just did</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Behavioral questions out to get ya too" src="https://i.redd.it/z7okpqzftrd51.jpg" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzy4r5/behavioral_questions_out_to_get_ya_too/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="i guess i’ll just undo everything i just did" src="https://i.redd.it/9as4fm2n2sd51.jpg" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzypsd/i_guess_ill_just_undo_everything_i_just_did/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
