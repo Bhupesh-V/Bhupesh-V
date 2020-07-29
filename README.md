@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>import Queen.Elizabeth;</b></summary>
+<details open><summary><b>Linux always on top</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="import Queen.Elizabeth;" src="https://i.redd.it/2qqrou3cltd51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i039f6/import_queenelizabeth/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Linux always on top" src="https://i.redd.it/wy7reg7lutd51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i045o6/linux_always_on_top/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
