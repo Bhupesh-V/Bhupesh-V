@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Invention of Javascript..</b></summary>
+<details open><summary><b>Feels good man!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Invention of Javascript.." src="https://i.redd.it/t3rzpmgoopd51.jpg" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzsuos/invention_of_javascript/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="Feels good man!" src="https://i.redd.it/ufo0v2znypd51.jpg" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hztnyb/feels_good_man/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
