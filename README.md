@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>insecure too</b></summary>
+<details open><summary><b>Passionate developers</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="insecure too" src="https://i.redd.it/l2p78w0derd51.jpg" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzx750/insecure_too/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="Passionate developers" src="https://i.redd.it/7veowjcoqrd51.jpg" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzxygi/passionate_developers/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
@@ -64,11 +64,17 @@
    - Go (Golang)
 - 🔭 I’m currently working on ...
     - All of my pinned projects below 👇 (& more hidden ones)
+- _Also I am looking for some remote job/contract work opportunities (going to graduate in 2020 hopefully)_
 
-### What else ❔
 
-- 😄 Pronouns: (He/Him)
-- ⚡ Fun fact: I make & share memes, want to see some ?
-- Also I am looking for some remote job/contract work opportunities (going to graduate in 2020 hopefully)
+### ☺️ Support
+If you like my work, consider supporting me
+
+<a href="https://liberapay.com/bhupesh/donate">
+  <img title="librepay/bhupesh" alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" width="100">
+</a>
+<a href="https://ko-fi.com/bhupesh">
+  <img title="ko-fi/bhupesh" alt="Support on ko-fi" src="https://user-images.githubusercontent.com/34342551/88784787-12507980-d1ae-11ea-82fe-f55753340168.png" width="185">
+</a>
 
 ---
