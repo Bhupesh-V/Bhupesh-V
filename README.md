@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Linux always on top</b></summary>
+<details open><summary><b>Anybody know why this happens?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Linux always on top" src="https://i.redd.it/wy7reg7lutd51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i045o6/linux_always_on_top/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Anybody know why this happens?" src="https://i.redd.it/w4uryu5x6ud51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i05fdn/anybody_know_why_this_happens/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
