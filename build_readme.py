@@ -54,12 +54,18 @@ FOOTER = """
    - Go (Golang)
 - 🔭 I’m currently working on ...
     - All of my pinned projects below 👇 (& more hidden ones)
+- _Also I am looking for some remote job/contract work opportunities (going to graduate in 2020 hopefully)_
 
-### What else ❔
 
-- 😄 Pronouns: (He/Him)
-- ⚡ Fun fact: I make & share memes, want to see some ?
-- Also I am looking for some remote job/contract work opportunities (going to graduate in 2020 hopefully)
+### ☺️ Support
+If you like my work, consider supporting me
+
+<a href="https://liberapay.com/bhupesh/donate">
+  <img title="librepay/bhupesh" alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" width="100">
+</a>
+<a href="https://ko-fi.com/bhupesh">
+  <img title="ko-fi/bhupesh" alt="Support on ko-fi" src="https://user-images.githubusercontent.com/34342551/88784787-12507980-d1ae-11ea-82fe-f55753340168.png" width="185">
+</a>
 
 ---
 """
