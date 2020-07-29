@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>And they only write the examples in one language</b></summary>
+<details open><summary><b>Librarians Command a Dangerous Power</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="And they only write the examples in one language" src="https://i.redd.it/hn7nj051zod51.jpg" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzqnf7/and_they_only_write_the_examples_in_one_language/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="Librarians Command a Dangerous Power" src="https://i.redd.it/kmdcvnp58pd51.jpg" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzrg6a/librarians_command_a_dangerous_power/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
