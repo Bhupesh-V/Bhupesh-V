@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>I’m a test dev</b></summary>
+<details open><summary><b>The little joys in a programmer life</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="I’m a test dev" src="https://i.redd.it/khjvnbxnrud51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i07ltg/im_a_test_dev/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="The little joys in a programmer life" src="https://i.redd.it/q7olk5x13vd51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i08sby/the_little_joys_in_a_programmer_life/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
