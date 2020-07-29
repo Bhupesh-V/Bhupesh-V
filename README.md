@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>I know many people go the other way around, but I just never got used to developing on Windows</b></summary>
+<details open><summary><b>Me after 10 years of programming experience...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="I know many people go the other way around, but I just never got used to developing on Windows" src="https://i.redd.it/hlws929u9qd51.png" height="50%"><br>
-<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzuk0c/i_know_many_people_go_the_other_way_around_but_i/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
+<img alt="Me after 10 years of programming experience..." src="https://i.redd.it/zaby2ykakqd51.png" height="50%"><br>
+<sub><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/hzva8b/me_after_10_years_of_programming_experience/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></sub>
 </th>
 </tr>
 </table>
