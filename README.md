@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Hello World needs much more attention!</b></summary>
+<details open><summary><b>Zero-bytes are not needed in IP-Adresses</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Hello World needs much more attention!" src="https://i.redd.it/6c05pq1txxd51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0ha5o/hello_world_needs_much_more_attention/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Zero-bytes are not needed in IP-Adresses" src="https://i.redd.it/7nbad5jvkyd51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0ioc3/zerobytes_are_not_needed_in_ipadresses/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
