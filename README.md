@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Ain't that the truth</b></summary>
+<details open><summary><b>The story of my life.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Ain't that the truth" src="https://i.redd.it/33ixkmrp4xd51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0fadg/aint_that_the_truth/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="The story of my life." src="https://i.redd.it/s8lnubcldxd51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0fy8s/the_story_of_my_life/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
