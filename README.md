@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Soon to be another job posting at Salesforce!</b></summary>
+<details open><summary><b>Turn the gun on yourself</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Soon to be another job posting at Salesforce!" src="https://i.redd.it/ddhuza7ljzd51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0kx1f/soon_to_be_another_job_posting_at_salesforce/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Turn the gun on yourself" src="https://i.redd.it/fk8f0pwxpzd51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0ldut/turn_the_gun_on_yourself/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
