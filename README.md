@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Typical thoughts while enjoying sunset on the beach</b></summary>
+<details open><summary><b>I work on both btw</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Typical thoughts while enjoying sunset on the beach" src="https://i.redd.it/ud17kiwbh2e51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0v794/typical_thoughts_while_enjoying_sunset_on_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="I work on both btw" src="https://i.redd.it/yyclc3lgq2e51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0w3da/i_work_on_both_btw/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
