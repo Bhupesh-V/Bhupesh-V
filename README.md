@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>No 4 are the most talented......</b></summary>
+<details open><summary><b>But it works!!!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="No 4 are the most talented......" src="https://i.redd.it/lfl3rbra50e51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0monu/no_4_are_the_most_talented/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="But it works!!!" src="https://i.redd.it/n0qums41d1e51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0r2ld/but_it_works/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
