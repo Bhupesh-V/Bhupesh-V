@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>But it works!!!</b></summary>
+<details open><summary><b>I used svn today</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="But it works!!!" src="https://i.redd.it/n0qums41d1e51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0r2ld/but_it_works/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="I used svn today" src="https://i.redd.it/bk1hrg4hl1e51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0ryhp/i_used_svn_today/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
