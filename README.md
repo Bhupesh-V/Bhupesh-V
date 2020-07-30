@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Disk 1 of 2639</b></summary>
+<details open><summary><b>Hello World needs much more attention!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Disk 1 of 2639" src="https://i.redd.it/7fyws58loxd51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0gosl/disk_1_of_2639/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Hello World needs much more attention!" src="https://i.redd.it/6c05pq1txxd51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0ha5o/hello_world_needs_much_more_attention/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
