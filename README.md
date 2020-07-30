@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>linux_irl</b></summary>
+<details open><summary><b>Ain't that the truth</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="linux_irl" src="https://i.redd.it/qc5iwmej2wd51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0c5a6/linux_irl/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Ain't that the truth" src="https://i.redd.it/33ixkmrp4xd51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0fadg/aint_that_the_truth/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
