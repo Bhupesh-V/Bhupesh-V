@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>;)</b></summary>
+<details open><summary><b>Looked at the description and I'm dying.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt=";)" src="https://i.redd.it/10f25shbj4e51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i11j76/_/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Looked at the description and I'm dying." src="https://i.redd.it/v0y5w9hcv4e51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i12cnb/looked_at_the_description_and_im_dying/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
