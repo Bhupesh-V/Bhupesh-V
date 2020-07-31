@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>I hope this helps. Doesn't work for big numbers though</b></summary>
+<details open><summary><b>When users do ConsoleLog(), thank you !</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="I hope this helps. Doesn't work for big numbers though" src="https://i.redd.it/r6z4o3j0u7e51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1a1op/i_hope_this_helps_doesnt_work_for_big_numbers/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="When users do ConsoleLog(), thank you !" src="https://i.redd.it/2lgdfhf0e8e51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1c3qw/when_users_do_consolelog_thank_you/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
