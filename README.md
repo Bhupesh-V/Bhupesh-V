@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>IsEven</b></summary>
+<details open><summary><b>Thanks Guys :')</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="IsEven" src="https://i.redd.it/51igm1sqa6e51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i15h4d/iseven/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Thanks Guys :')" src="https://i.redd.it/oe8x3fv7k6e51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i163aa/thanks_guys/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
