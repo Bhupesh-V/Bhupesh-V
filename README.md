@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>A langur == full stack dev !</b></summary>
+<details open><summary><b>Actually I am</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="A langur == full stack dev !" src="https://i.redd.it/nxkh8ck465e51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1318k/a_langur_full_stack_dev/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Actually I am" src="https://i.redd.it/zaga8k8an5e51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i14277/actually_i_am/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
