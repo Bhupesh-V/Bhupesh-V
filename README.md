@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>You are Hired!!</b></summary>
+<details open><summary><b>After programming all day, my brain at 3AM</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="You are Hired!!" src="https://i.redd.it/27hoee8573e51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0xmsy/you_are_hired/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="After programming all day, my brain at 3AM" src="https://i.redd.it/a8uclmffd3e51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0y4xy/after_programming_all_day_my_brain_at_3am/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
