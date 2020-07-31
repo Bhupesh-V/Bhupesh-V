@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>This has a triple entendre. Not a repost</b></summary>
+<details open><summary><b>Windows Blue screen incoming in 3..2..1</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="This has a triple entendre. Not a repost" src="https://i.redd.it/q73m3drkq8e51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1dg6b/this_has_a_triple_entendre_not_a_repost/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Windows Blue screen incoming in 3..2..1" src="https://i.redd.it/d3csdx8s09e51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1ef32/windows_blue_screen_incoming_in_321/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
