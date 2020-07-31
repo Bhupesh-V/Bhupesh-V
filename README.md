@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Threat is real ???</b></summary>
+<details open><summary><b>The original SSR before it was cool</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Threat is real ???" src="https://i.redd.it/ayjvgipea7e51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i18658/threat_is_real/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="The original SSR before it was cool" src="https://i.redd.it/cngofiycj7e51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i18z8x/the_original_ssr_before_it_was_cool/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
