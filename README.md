@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>great_meme.jpg</b></summary>
+<details open><summary><b>We'll have to learn about them anyways..</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="great_meme.jpg" src="https://i.redd.it/3xx9v7cdc9e51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1flgm/great_memejpg/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="We'll have to learn about them anyways.." src="https://i.redd.it/l3obxudkl9e51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1gh1h/well_have_to_learn_about_them_anyways/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
