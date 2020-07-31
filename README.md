@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Explain this, I need a new pasta</b></summary>
+<details open><summary><b>Real programmers understand</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Explain this, I need a new pasta" src="https://i.redd.it/lq2lolc5k3e51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0yq91/explain_this_i_need_a_new_pasta/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Real programmers understand" src="https://i.redd.it/awnxgk7kz3e51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0zzzo/real_programmers_understand/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
