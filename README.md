@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Real programmers understand</b></summary>
+<details open><summary><b>Anybody else create their own bugs so they can have a job next year?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Real programmers understand" src="https://i.redd.it/awnxgk7kz3e51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0zzzo/real_programmers_understand/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Anybody else create their own bugs so they can have a job next year?" src="https://i.redd.it/34okjxfal3e51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0ytco/anybody_else_create_their_own_bugs_so_they_can/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
