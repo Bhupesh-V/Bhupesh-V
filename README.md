@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>After programming all day, my brain at 3AM</b></summary>
+<details open><summary><b>Explain this, I need a new pasta</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="After programming all day, my brain at 3AM" src="https://i.redd.it/a8uclmffd3e51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0y4xy/after_programming_all_day_my_brain_at_3am/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Explain this, I need a new pasta" src="https://i.redd.it/lq2lolc5k3e51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i0yq91/explain_this_i_need_a_new_pasta/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
