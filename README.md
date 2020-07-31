@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>When users do ConsoleLog(), thank you !</b></summary>
+<details open><summary><b>This has a triple entendre. Not a repost</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="When users do ConsoleLog(), thank you !" src="https://i.redd.it/2lgdfhf0e8e51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1c3qw/when_users_do_consolelog_thank_you/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="This has a triple entendre. Not a repost" src="https://i.redd.it/q73m3drkq8e51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1dg6b/this_has_a_triple_entendre_not_a_repost/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
