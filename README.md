@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>And that’s the story of how I broke my monitor.</b></summary>
+<details open><summary><b>A proper Sysadmin Day</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="And that’s the story of how I broke my monitor." src="https://i.redd.it/qh4x0pv9vce51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1p64p/and_thats_the_story_of_how_i_broke_my_monitor/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="A proper Sysadmin Day" src="https://i.redd.it/1i6wgngb5de51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1prc3/a_proper_sysadmin_day/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
