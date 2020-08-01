@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>jQuery.</b></summary>
+<details open><summary><b>MEME</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="jQuery." src="https://i.redd.it/l6ox4qcb8be51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1lf7o/jquery/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="MEME" src="https://i.redd.it/ui3qqao4mbe51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1mgrt/meme/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
