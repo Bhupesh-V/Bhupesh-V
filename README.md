@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Hours I'll never get back</b></summary>
+<details open><summary><b>10 ways Management Makes your life hell.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Hours I'll never get back" src="https://i.redd.it/k8suq7lrfge51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1zoex/hours_ill_never_get_back/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="10 ways Management Makes your life hell." src="https://i.redd.it/wwqpsyl62he51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i21qug/10_ways_management_makes_your_life_hell/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
