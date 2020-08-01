@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>this is a js thing right</b></summary>
+<details open><summary><b>Nobody in this sub talks about kotlin</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="this is a js thing right" src="https://i.redd.it/3tc4didsoee51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1tltv/this_is_a_js_thing_right/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Nobody in this sub talks about kotlin" src="https://i.redd.it/8m7jco5ebfe51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1voc0/nobody_in_this_sub_talks_about_kotlin/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
