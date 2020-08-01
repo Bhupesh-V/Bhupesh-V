@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>She will fly, if the input is already sorted</b></summary>
+<details open><summary><b></b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="She will fly, if the input is already sorted" src="https://i.redd.it/5coi8s44fee51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1ssgg/she_will_fly_if_the_input_is_already_sorted/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="" src="" height="50%"><br>
+<p><strong>ℹ️ <a href="">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
