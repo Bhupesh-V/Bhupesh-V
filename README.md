@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>I've sinned.  to anyone who can tell exactly what it does</b></summary>
+<details open><summary><b>Behold my high tech mac</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="I've sinned.  to anyone who can tell exactly what it does" src="https://i.redd.it/254het9uvfe51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1xn40/ive_sinned_5_to_anyone_who_can_tell_exactly_what/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Behold my high tech mac" src="https://i.redd.it/thsoqbh25ge51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1ynu3/behold_my_high_tech_mac/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
