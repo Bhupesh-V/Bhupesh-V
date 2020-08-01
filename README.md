@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Words don't mean anything anymore</b></summary>
+<details open><summary><b>What did he do again?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Words don't mean anything anymore" src="https://i.redd.it/04d2d2mjgae51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1j8mw/words_dont_mean_anything_anymore/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="What did he do again?" src="https://i.redd.it/oklrsjna5be51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1l76o/what_did_he_do_again/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
