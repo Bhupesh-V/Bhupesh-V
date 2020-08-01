@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Why?</b></summary>
+<details open><summary><b>Life of a Python programmer</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Why?" src="https://i.redd.it/928wn8x3ude51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1r89b/why/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Life of a Python programmer" src="https://i.redd.it/sys041yk3ee51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1rwf3/life_of_a_python_programmer/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
