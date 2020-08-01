@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Angry programmer meme template</b></summary>
+<details open><summary><b>try catch throw finally</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Angry programmer meme template" src="https://i.redd.it/zwh89o6h1ce51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1nhzi/angry_programmer_meme_template/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="try catch throw finally" src="https://i.redd.it/zriq1b67cce51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1o43e/try_catch_throw_finally/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
