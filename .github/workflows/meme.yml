@@ -33,8 +33,8 @@ jobs:
     - name: Commit & Push
       run: |-
         git diff
-        git config --global user.email "varshneybhupesh@gmail.com"
-        git config --global user.name "Bhupesh-V"
+        git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        git config --global user.name "${GITHUB_ACTOR}"
         git add -A
         git commit -m "🤖 Automated Commit - add new meme"
         git push
