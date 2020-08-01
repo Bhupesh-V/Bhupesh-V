@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>MEME</b></summary>
+<details open><summary><b>Angry programmer meme template</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="MEME" src="https://i.redd.it/ui3qqao4mbe51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1mgrt/meme/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Angry programmer meme template" src="https://i.redd.it/zwh89o6h1ce51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1nhzi/angry_programmer_meme_template/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
