@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Mavis Beacon teaches typing</b></summary>
+<details open><summary><b>this is a js thing right</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Mavis Beacon teaches typing" src="https://i.redd.it/3sdu6xmwmee51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1tg0u/mavis_beacon_teaches_typing/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="this is a js thing right" src="https://i.redd.it/3tc4didsoee51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1tltv/this_is_a_js_thing_right/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
