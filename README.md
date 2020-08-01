@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Microsoft 365 Errors : Please contact the System Administrator</b></summary>
+<details open><summary><b>Why?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Microsoft 365 Errors : Please contact the System Administrator" src="https://i.redd.it/ffpmnfkngde51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1qe24/microsoft_365_errors_please_contact_the_system/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Why?" src="https://i.redd.it/928wn8x3ude51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1r89b/why/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
