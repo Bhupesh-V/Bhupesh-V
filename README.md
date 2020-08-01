@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>try catch throw finally</b></summary>
+<details open><summary><b>And that’s the story of how I broke my monitor.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="try catch throw finally" src="https://i.redd.it/zriq1b67cce51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1o43e/try_catch_throw_finally/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="And that’s the story of how I broke my monitor." src="https://i.redd.it/qh4x0pv9vce51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i1p64p/and_thats_the_story_of_how_i_broke_my_monitor/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
