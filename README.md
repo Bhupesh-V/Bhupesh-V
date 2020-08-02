@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>vandal html programmer</b></summary>
+<details open><summary><b>Story of robots.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="vandal html programmer" src="https://i.redd.it/814rr3opfme51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2fk5d/vandal_html_programmer/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Story of robots." src="https://i.redd.it/ew3kfzelome51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2gelp/story_of_robots/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
