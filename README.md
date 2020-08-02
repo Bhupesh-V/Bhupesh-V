@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Surviving Skills!</b></summary>
+<details open><summary><b>The best way to create a website</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Surviving Skills!" src="https://i.redd.it/wzcb5m70eje51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i27ui0/surviving_skills/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="The best way to create a website" src="https://i.redd.it/zy3mxl5kqje51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i28kkh/the_best_way_to_create_a_website/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
