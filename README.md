@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>The future is now</b></summary>
+<details open><summary><b>Happens everytime</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="The future is now" src="https://i.redd.it/h30yezhnvhe51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i243ei/the_future_is_now/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Happens everytime" src="https://i.redd.it/6pzsmza29ie51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i253ph/happens_everytime/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
