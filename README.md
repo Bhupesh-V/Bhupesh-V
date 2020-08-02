@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>If you know you know</b></summary>
+<details open><summary><b>You wouldn't get it</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="If you know you know" src="https://i.redd.it/d08h50d30ne51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2hk90/if_you_know_you_know/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="You wouldn't get it" src="https://i.redd.it/4bb00tv9bne51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2io8c/you_wouldnt_get_it/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
