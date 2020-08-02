@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>The struggle</b></summary>
+<details open><summary><b>ah yes, java and javascript the same.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="The struggle" src="https://i.redd.it/o4c7yq7o6ke51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i29f42/the_struggle/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="ah yes, java and javascript the same." src="https://i.redd.it/o3q3ljhnxke51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2az61/ah_yes_java_and_javascript_the_same/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
