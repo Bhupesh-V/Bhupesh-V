@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Especially when you think you did okay</b></summary>
+<details open><summary><b>Surviving Skills!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Especially when you think you did okay" src="https://i.redd.it/6uaislam6je51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i27eoh/especially_when_you_think_you_did_okay/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Surviving Skills!" src="https://i.redd.it/wzcb5m70eje51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i27ui0/surviving_skills/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
