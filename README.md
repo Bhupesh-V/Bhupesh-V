@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>The best way to create a website</b></summary>
+<details open><summary><b>The struggle</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="The best way to create a website" src="https://i.redd.it/zy3mxl5kqje51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i28kkh/the_best_way_to_create_a_website/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="The struggle" src="https://i.redd.it/o4c7yq7o6ke51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i29f42/the_struggle/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
