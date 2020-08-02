@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Happens everytime</b></summary>
+<details open><summary><b>Say no more.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Happens everytime" src="https://i.redd.it/6pzsmza29ie51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i253ph/happens_everytime/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Say no more." src="https://i.redd.it/eek6zms2iie51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i25rsv/say_no_more/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
