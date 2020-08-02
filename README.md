@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Tasked to fix a 10 year legacy php code base, wait till you see it</b></summary>
+<details open><summary><b>Especially when you think you did okay</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Tasked to fix a 10 year legacy php code base, wait till you see it" src="https://i.redd.it/zko4pfqauie51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i26n4m/tasked_to_fix_a_10_year_legacy_php_code_base_wait/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Especially when you think you did okay" src="https://i.redd.it/6uaislam6je51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i27eoh/especially_when_you_think_you_did_okay/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
