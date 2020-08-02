@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Story of robots.</b></summary>
+<details open><summary><b>If you know you know</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Story of robots." src="https://i.redd.it/ew3kfzelome51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2gelp/story_of_robots/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="If you know you know" src="https://i.redd.it/d08h50d30ne51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2hk90/if_you_know_you_know/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
