@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>At least I have something to do</b></summary>
+<details open><summary><b>medium article on why senior and junior developer names are bad</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="At least I have something to do" src="https://i.redd.it/6vb32ce8lne51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2jmy6/at_least_i_have_something_to_do/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="medium article on why senior and junior developer names are bad" src="https://i.redd.it/vh3p780a7oe51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2lqv8/medium_article_on_why_senior_and_junior_developer/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
