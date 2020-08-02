@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>ah yes, java and javascript the same.</b></summary>
+<details open><summary><b>Ubuntu Gang. Where ya'll at?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="ah yes, java and javascript the same." src="https://i.redd.it/o3q3ljhnxke51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2az61/ah_yes_java_and_javascript_the_same/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Ubuntu Gang. Where ya'll at?" src="https://i.redd.it/qbdur6868le51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2bpjj/ubuntu_gang_where_yall_at/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
