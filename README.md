@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Say no more.</b></summary>
+<details open><summary><b>Tasked to fix a 10 year legacy php code base, wait till you see it</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Say no more." src="https://i.redd.it/eek6zms2iie51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i25rsv/say_no_more/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Tasked to fix a 10 year legacy php code base, wait till you see it" src="https://i.redd.it/zko4pfqauie51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i26n4m/tasked_to_fix_a_10_year_legacy_php_code_base_wait/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
