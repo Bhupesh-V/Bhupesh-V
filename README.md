@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>10 ways Management Makes your life hell.</b></summary>
+<details open><summary><b>Big Brian Code Comments</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="10 ways Management Makes your life hell." src="https://i.redd.it/wwqpsyl62he51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i21qug/10_ways_management_makes_your_life_hell/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Big Brian Code Comments" src="https://i.redd.it/p49x1ce8fhe51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i22t46/big_brian_code_comments/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
