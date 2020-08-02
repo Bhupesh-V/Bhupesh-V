@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Big Brian Code Comments</b></summary>
+<details open><summary><b>C@ encountered a problem with Windows</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Big Brian Code Comments" src="https://i.redd.it/p49x1ce8fhe51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i22t46/big_brian_code_comments/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="C@ encountered a problem with Windows" src="https://i.redd.it/u4ryjsy6mhe51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i23d1o/c_encountered_a_problem_with_windows/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
