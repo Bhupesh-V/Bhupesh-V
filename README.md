@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>For loop goes brrr</b></summary>
+<details open><summary><b>Manual... Cough, cough, C++... Developers</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="For loop goes brrr" src="https://i.redd.it/f75fhxhsvqe51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2t4hr/for_loop_goes_brrr/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Manual... Cough, cough, C++... Developers" src="https://i.redd.it/pijstk1t5re51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2tp8b/manual_cough_cough_c_developers/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
