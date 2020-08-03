@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Space Station 13 in a nutshell</b></summary>
+<details open><summary><b>Found this in the wild</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Space Station 13 in a nutshell" src="https://i.redd.it/w3mk3yv39qe51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2rpx2/space_station_13_in_a_nutshell/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Found this in the wild" src="https://i.redd.it/crt6hlxtlqe51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2sie0/found_this_in_the_wild/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
