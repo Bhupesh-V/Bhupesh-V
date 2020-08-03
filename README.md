@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>A god</b></summary>
+<details open><summary><b>PyCharm wasn't intended to be used like this</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="A god" src="https://i.redd.it/bo2pmq3d5pe51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2oqqs/a_god/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="PyCharm wasn't intended to be used like this" src="https://i.redd.it/2kytgbb8ype51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2qzbt/pycharm_wasnt_intended_to_be_used_like_this/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
