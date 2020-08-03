@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Press F to pay respect. ＞︿＜</b></summary>
+<details open><summary><b>*click*</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Press F to pay respect. ＞︿＜" src="https://i.redd.it/ywg01btj4ue51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i334vj/press_f_to_pay_respect/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="*click*" src="https://i.redd.it/7nrlbgko0ve51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i36lfq/click/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
