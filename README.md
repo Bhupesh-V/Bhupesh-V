@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Found this in the wild</b></summary>
+<details open><summary><b>For loop goes brrr</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Found this in the wild" src="https://i.redd.it/crt6hlxtlqe51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2sie0/found_this_in_the_wild/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="For loop goes brrr" src="https://i.redd.it/f75fhxhsvqe51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2t4hr/for_loop_goes_brrr/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
