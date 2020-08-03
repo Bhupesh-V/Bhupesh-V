@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>You get the point</b></summary>
+<details open><summary><b>SAP table names be like</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="You get the point" src="https://i.redd.it/2v60wl6wsre51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2v4lc/you_get_the_point/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="SAP table names be like" src="https://i.redd.it/k6xvlyf83se51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2vvl4/sap_table_names_be_like/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
