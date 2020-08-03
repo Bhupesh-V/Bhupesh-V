@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>“Maybe it's time to re-evaluate that years of experience = skill level”</b></summary>
+<details open><summary><b>Magic word</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="“Maybe it's time to re-evaluate that years of experience = skill level”" src="https://i.redd.it/pi35d7oqose51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2xo26/maybe_its_time_to_reevaluate_that_years_of/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Magic word" src="https://i.redd.it/dv91kr9nzse51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2yq3t/magic_word/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
