@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Haker</b></summary>
+<details open><summary><b>My girlfriend recently decided to pick up web development</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Haker" src="https://i.redd.it/vmxhp9ubate51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2zswk/haker/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="My girlfriend recently decided to pick up web development" src="https://i.redd.it/gwr47giugte51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i30i54/my_girlfriend_recently_decided_to_pick_up_web/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
