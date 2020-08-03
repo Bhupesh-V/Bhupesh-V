@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>So many spaces. Please pip-8</b></summary>
+<details open><summary><b>“Maybe it's time to re-evaluate that years of experience = skill level”</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="So many spaces. Please pip-8" src="https://i.redd.it/465wsyj5ese51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2wqqu/so_many_spaces_please_pip8/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="“Maybe it's time to re-evaluate that years of experience = skill level”" src="https://i.redd.it/pi35d7oqose51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2xo26/maybe_its_time_to_reevaluate_that_years_of/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
