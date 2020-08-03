@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Get out of my head, Wikipedia!</b></summary>
+<details open><summary><b>A god</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Get out of my head, Wikipedia!" src="https://i.redd.it/bohexv903pe51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2ojor/get_out_of_my_head_wikipedia/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="A god" src="https://i.redd.it/bo2pmq3d5pe51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2oqqs/a_god/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
