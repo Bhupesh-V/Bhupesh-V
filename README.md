@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Manual... Cough, cough, C++... Developers</b></summary>
+<details open><summary><b>Aaaaaaand REJECTED... that really sucks bro...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Manual... Cough, cough, C++... Developers" src="https://i.redd.it/pijstk1t5re51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2tp8b/manual_cough_cough_c_developers/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Aaaaaaand REJECTED... that really sucks bro..." src="https://i.redd.it/o8ari5lbire51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2ug5z/aaaaaaand_rejected_that_really_sucks_bro/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
