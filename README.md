@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>TIL Private repos are in fact free on GitHub and not a paid feature as I had assumed. It was too late.</b></summary>
+<details open><summary><b>Get out of my head, Wikipedia!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="TIL Private repos are in fact free on GitHub and not a paid feature as I had assumed. It was too late." src="https://i.redd.it/fwhhik1xkoe51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2myl9/til_private_repos_are_in_fact_free_on_github_and/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Get out of my head, Wikipedia!" src="https://i.redd.it/bohexv903pe51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2ojor/get_out_of_my_head_wikipedia/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
