@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Aaaaaaand REJECTED... that really sucks bro...</b></summary>
+<details open><summary><b>You get the point</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Aaaaaaand REJECTED... that really sucks bro..." src="https://i.redd.it/o8ari5lbire51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2ug5z/aaaaaaand_rejected_that_really_sucks_bro/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="You get the point" src="https://i.redd.it/2v60wl6wsre51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i2v4lc/you_get_the_point/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
