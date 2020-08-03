@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>My girlfriend recently decided to pick up web development</b></summary>
+<details open><summary><b>Gotta love those simple mistakes</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="My girlfriend recently decided to pick up web development" src="https://i.redd.it/gwr47giugte51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i30i54/my_girlfriend_recently_decided_to_pick_up_web/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Gotta love those simple mistakes" src="https://i.redd.it/kyua67elste51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i31stp/gotta_love_those_simple_mistakes/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
