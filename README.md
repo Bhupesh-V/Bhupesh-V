@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>We</b></summary>
+<details open><summary><b>How it feels as a C++ programmer looking at Java and C#.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="We" src="https://i.redd.it/1bn1uxh79we51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="will">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="How it feels as a C++ programmer looking at Java and C#." src="https://i.redd.it/gw6khzt6jwe51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3bkdt/how_it_feels_as_a_c_programmer_looking_at_java/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
