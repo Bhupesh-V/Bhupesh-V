@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>May aswell sell it now tbh</b></summary>
+<details open><summary><b>Here’s my email for a resume mathew.ulanowski@gmail.com don’t worry I can’t code apparently but I have memes</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="May aswell sell it now tbh" src="https://i.redd.it/e7xjejx1q0f51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3na85/may_aswell_sell_it_now_tbh/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Here’s my email for a resume mathew.ulanowski@gmail.com don’t worry I can’t code apparently but I have memes" src="https://i.redd.it/bex6jnl8z0f51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3o9ep/heres_my_email_for_a_resume/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
