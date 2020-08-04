@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>*Laughs in junior dev*</b></summary>
+<details open><summary><b>We</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="*Laughs in junior dev*" src="https://i.redd.it/3q8zwvdwuve51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i39gt3/laughs_in_junior_dev/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="We" src="https://i.redd.it/1bn1uxh79we51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="will">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
