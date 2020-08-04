@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Is using emojis in Code the trendy new thing I missed?</b></summary>
+<details open><summary><b>How to save a princess with 8 programming languages</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Is using emojis in Code the trendy new thing I missed?" src="https://i.redd.it/0bsniuy7lye51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3gjzk/is_using_emojis_in_code_the_trendy_new_thing_i/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="How to save a princess with 8 programming languages" src="https://i.redd.it/zrgwyl1msye51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3h1pl/how_to_save_a_princess_with_8_programming/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
