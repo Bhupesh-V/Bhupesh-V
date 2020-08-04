@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>okay</b></summary>
+<details open><summary><b>Some javadoc I was writing.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="okay" src="https://i.redd.it/vi67fhr9ize51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3ixx2/okay/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Some javadoc I was writing." src="https://i.redd.it/w60m5s7mtze51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3jylm/some_javadoc_i_was_writing/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
