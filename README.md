@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>25k in 1968</b></summary>
+<details open><summary><b>Get buff!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="25k in 1968" src="https://i.redd.it/0jpu3ypiqwe51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3c5u5/125k_in_1968/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Get buff!" src="https://i.redd.it/ufro8kdlwwe51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3cmgr/get_buff/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
