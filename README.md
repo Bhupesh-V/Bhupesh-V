@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>How to save a princess with 8 programming languages</b></summary>
+<details open><summary><b>Are you familiar with 4gl? Me neither!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="How to save a princess with 8 programming languages" src="https://i.redd.it/zrgwyl1msye51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3h1pl/how_to_save_a_princess_with_8_programming/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Are you familiar with 4gl? Me neither!" src="https://i.redd.it/cg58fe1v8ze51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3i73z/are_you_familiar_with_4gl_me_neither/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
