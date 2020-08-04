@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Today i learned ligma</b></summary>
+<details open><summary><b>Is using emojis in Code the trendy new thing I missed?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Today i learned ligma" src="https://i.redd.it/pw603icwbye51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3fzbc/today_i_learned_ligma/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Is using emojis in Code the trendy new thing I missed?" src="https://i.redd.it/0bsniuy7lye51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3gjzk/is_using_emojis_in_code_the_trendy_new_thing_i/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
