@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Noice</b></summary>
+<details open><summary><b>When it's 5:20 PM on the west coast and you told your PM your work would be deployed to production today and you're trying to figure out how many times you can ping people without it being considered harassment.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Noice" src="https://i.redd.it/cpq774jtave51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i37m3v/noice/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="When it's 5:20 PM on the west coast and you told your PM your work would be deployed to production today and you're trying to figure out how many times you can ping people without it being considered harassment." src="https://i.redd.it/qyq5vlp3qve51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3921d/when_its_520_pm_on_the_west_coast_and_you_told/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
