@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>You coming or not?</b></summary>
+<details open><summary><b>Where are you drake..</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="You coming or not?" src="https://i.redd.it/txzh7dnq31f51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3oqsp/you_coming_or_not/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Where are you drake.." src="https://i.redd.it/66bzadyy51f51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3ozs8/where_are_you_drake/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
