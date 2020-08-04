@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Are you familiar with 4gl? Me neither!</b></summary>
+<details open><summary><b>okay</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Are you familiar with 4gl? Me neither!" src="https://i.redd.it/cg58fe1v8ze51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3i73z/are_you_familiar_with_4gl_me_neither/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="okay" src="https://i.redd.it/vi67fhr9ize51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3ixx2/okay/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
