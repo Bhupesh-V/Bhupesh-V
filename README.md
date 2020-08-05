@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Where they belong</b></summary>
+<details open><summary><b>Gojek’s fixed bugs song</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Where they belong" src="https://i.redd.it/kdt8250pi3f51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3x5y2/where_they_belong/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Gojek’s fixed bugs song" src="https://i.redd.it/7isoadlhl3f51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3xdpc/gojeks_fixed_bugs_song/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
