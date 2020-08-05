@@ -22,37 +22,37 @@
   <summary>🌟 Projects 🌟</summary>
   <table>
     <tr>
-      <td><samp><h4 align="center">dotman</h4></samp>
+      <td valign="top" width="33%"><samp><h4 align="center">dotman</h4></samp>
         <p align="center">
-        <img align="center" src="https://github.com/Bhupesh-V/dotman/blob/master/assets/dotman-logo.png" width="200">
+        <img align="center" src="https://github.com/Bhupesh-V/dotman/blob/master/assets/dotman-logo.png" width="200"><br><br>
+        <a href="https://github.com/Bhupesh-V/dotman"><b> dotman is a simple, elegant  &amp;  easy to use dotfiles manager</b></a>
         </p>
-        <a align="center" href="https://github.com/Bhupesh-V/dotman"><b> dotman is a simple &amp; elegant dotfiles manager</b></a>
       </td>
-      <td><samp><h4 align="center">defe</h4></samp>
+      <td valign="top" width="33%"><samp><h4 align="center">defe</h4></samp>
         <p align="center">
-        <img align="center" src="https://raw.githubusercontent.com/Bhupesh-V/defe/2836e20d0416a4232e7d7f81a7988250e1d6718d/static/images/logodefe.svg" width="100">
+        <img align="center" src="https://raw.githubusercontent.com/Bhupesh-V/defe/2836e20d0416a4232e7d7f81a7988250e1d6718d/static/images/logodefe.svg" width="100"> <br><br>
+        <a href="https://github.com/Bhupesh-V/defe"><b> A tech feed aggregator for Developers  &amp; technologists</b></a>
         </p>
-        <a align="center" href="https://github.com/Bhupesh-V/defe"><b> A tech feed aggregator for Developers</b></a>
       </td>
-      <td><samp><h4 align="center">Memer Action</h4></samp>
+      <td valign="top" width="33%"><samp><h4 align="center">Memer Action</h4></samp>
         <p align="center">
-           <img align="center" src="https://github.com/Bhupesh-V/memer-action/blob/master/images/header.png?raw=true" width="178">
+           <img align="center" src="https://github.com/Bhupesh-V/memer-action/blob/master/images/header.png?raw=true" width="178"><br><br>
+           <a href="https://github.com/Bhupesh-V/memer-action"><b>A GitHub Action for Programmer Memes xD</b></a>
         </p>
-        <a align="center" href="https://github.com/Bhupesh-V/memer-action"><b>A GitHub Action for Programmer Memes xD</b></a>
       </td>
     </tr>
   </table>
 </details>
 
-### Today's Meme \( ﾟヮﾟ)/
+### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Gojek’s fixed bugs song</b></summary>
+<details open><summary><b>When the product fails before you have a chance to fix the big</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Gojek’s fixed bugs song" src="https://i.redd.it/7isoadlhl3f51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3xdpc/gojeks_fixed_bugs_song/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When the product fails before you have a chance to fix the big" src="https://i.redd.it/81x8nwz5n3f51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="bug">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
