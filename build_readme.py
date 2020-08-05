@@ -26,23 +26,23 @@ HEADER = """
   <summary>🌟 Projects 🌟</summary>
   <table>
     <tr>
-      <td><samp><h4 align="center">dotman</h4></samp>
+      <td valign="top" width="33%"><samp><h4 align="center">dotman</h4></samp>
         <p align="center">
-        <img align="center" src="https://github.com/Bhupesh-V/dotman/blob/master/assets/dotman-logo.png" width="200">
+        <img align="center" src="https://github.com/Bhupesh-V/dotman/blob/master/assets/dotman-logo.png" width="200"><br><br>
+        <a href="https://github.com/Bhupesh-V/dotman"><b> dotman is a simple, elegant  &amp;  easy to use dotfiles manager</b></a>
         </p>
-        <a align="center" href="https://github.com/Bhupesh-V/dotman"><b> dotman is a simple &amp; elegant dotfiles manager</b></a>
       </td>
-      <td><samp><h4 align="center">defe</h4></samp>
+      <td valign="top" width="33%"><samp><h4 align="center">defe</h4></samp>
         <p align="center">
-        <img align="center" src="https://raw.githubusercontent.com/Bhupesh-V/defe/2836e20d0416a4232e7d7f81a7988250e1d6718d/static/images/logodefe.svg" width="100">
+        <img align="center" src="https://raw.githubusercontent.com/Bhupesh-V/defe/2836e20d0416a4232e7d7f81a7988250e1d6718d/static/images/logodefe.svg" width="100"> <br><br>
+        <a href="https://github.com/Bhupesh-V/defe"><b> A tech feed aggregator for Developers  &amp; technologists</b></a>
         </p>
-        <a align="center" href="https://github.com/Bhupesh-V/defe"><b> A tech feed aggregator for Developers</b></a>
       </td>
-      <td><samp><h4 align="center">Memer Action</h4></samp>
+      <td valign="top" width="33%"><samp><h4 align="center">Memer Action</h4></samp>
         <p align="center">
-           <img align="center" src="https://github.com/Bhupesh-V/memer-action/blob/master/images/header.png?raw=true" width="178">
+           <img align="center" src="https://github.com/Bhupesh-V/memer-action/blob/master/images/header.png?raw=true" width="178"><br><br>
+           <a href="https://github.com/Bhupesh-V/memer-action"><b>A GitHub Action for Programmer Memes xD</b></a>
         </p>
-        <a align="center" href="https://github.com/Bhupesh-V/memer-action"><b>A GitHub Action for Programmer Memes xD</b></a>
       </td>
     </tr>
   </table>
@@ -77,11 +77,11 @@ def main(todays_meme):
 
     with open('README.md', 'w') as file:
         file.write(HEADER)
-        file.write("### Today's Meme \\( ﾟヮﾟ)/\n\n")
+        file.write("### Today's Meme ٩(^‿^)۶\n\n")
         file.write(
             "<details open><summary><b>{0}</b></summary>\n\n".format(todays_meme[1]))
         file.write("""<table>\n<tr>\n<th valign="top" width="50%">\n""")
-        file.write("""<img alt="{title}" src="{meme}" height="50%"><br>\n""".format(
+        file.write("""<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="{title}" src="{meme}" height="50%"><br>\n""".format(
             title=todays_meme[1], meme=todays_meme[0]))
         file.write(
             """<p><strong>ℹ️ <a href="{source}">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>""".format(source=todays_meme[2]))
