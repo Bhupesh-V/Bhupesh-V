@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Missing period</b></summary>
+<details open><summary><b>Me rereading code I wrote a month ago</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Missing period" src="https://i.redd.it/qcxoyle7c1f51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3podb/missing_period/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Me rereading code I wrote a month ago" src="https://i.redd.it/htp8nd9yd1f51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3pvaz/me_rereading_code_i_wrote_a_month_ago/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
