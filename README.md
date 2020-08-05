@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Overengineering integer comparison be like</b></summary>
+<details open><summary><b>Missing period</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Overengineering integer comparison be like" src="https://i.redd.it/02vesqn9a1f51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3phoo/overengineering_integer_comparison_be_like/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Missing period" src="https://i.redd.it/qcxoyle7c1f51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3podb/missing_period/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
