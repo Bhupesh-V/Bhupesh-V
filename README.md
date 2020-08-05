@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Where are you drake..</b></summary>
+<details open><summary><b>Overengineering integer comparison be like</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Where are you drake.." src="https://i.redd.it/66bzadyy51f51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3ozs8/where_are_you_drake/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Overengineering integer comparison be like" src="https://i.redd.it/02vesqn9a1f51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3phoo/overengineering_integer_comparison_be_like/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
