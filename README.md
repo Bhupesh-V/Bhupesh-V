@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>My eureka moment</b></summary>
+<details open><summary><b>GitHub activity at an all time high</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="My eureka moment" src="https://i.redd.it/ezawpc7c72f51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3syfk/my_eureka_moment/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="GitHub activity at an all time high" src="https://i.redd.it/tc7ttpmb03f51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3vmjn/github_activity_at_an_all_time_high/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
