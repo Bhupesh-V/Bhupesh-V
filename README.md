@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>Me rereading code I wrote a month ago</b></summary>
+<details open><summary><b>When the CEO walks in and asks why the site is loading so slow when you just fixed breaking changes to production</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="Me rereading code I wrote a month ago" src="https://i.redd.it/htp8nd9yd1f51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3pvaz/me_rereading_code_i_wrote_a_month_ago/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="When the CEO walks in and asks why the site is loading so slow when you just fixed breaking changes to production" src="https://i.redd.it/93ld7mm7p1f51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3r3k0/when_the_ceo_walks_in_and_asks_why_the_site_is/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
