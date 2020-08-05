@@ -46,13 +46,13 @@
 
 ### Today's Meme \( ﾟヮﾟ)/
 
-<details open><summary><b>GitHub activity at an all time high</b></summary>
+<details open><summary><b>Where they belong</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img alt="GitHub activity at an all time high" src="https://i.redd.it/tc7ttpmb03f51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3vmjn/github_activity_at_an_all_time_high/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img alt="Where they belong" src="https://i.redd.it/kdt8250pi3f51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i3x5y2/where_they_belong/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
