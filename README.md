@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>So I was taking Python course on Courseera offered by Charles Severance and this is what his intro looked like😂</b></summary>
+<details open><summary><b>She expected me to be able to fix it like wtf i’m a game developer</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="So I was taking Python course on Courseera offered by Charles Severance and this is what his intro looked like😂" src="https://i.redd.it/s41sxfzk0mf51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i5ha20/so_i_was_taking_python_course_on_courseera/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="She expected me to be able to fix it like wtf i’m a game developer" src="https://i.redd.it/rqpeaa1u9mf51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i5i8mo/she_expected_me_to_be_able_to_fix_it_like_wtf_im/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
