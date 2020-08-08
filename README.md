@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Do you want to develop my app?</b></summary>
+<details open><summary><b>Found this on PCMR subreddit</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Do you want to develop my app?" src="https://i.redd.it/rknuvq6apof51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i5qra3/do_you_want_to_develop_my_app/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Found this on PCMR subreddit" src="https://i.redd.it/sgvp8zy7vof51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i5r7xa/found_this_on_pcmr_subreddit/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
