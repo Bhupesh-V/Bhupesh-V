@@ -1,5 +1,5 @@
 
-<img align="left" src="https://gist.github.com/Bhupesh-V/0246a3f681d2533d21efb1206d1ba9d4/raw/af7d53bfdbf30f725ef7ade206200086820739fd/AboutMe.gif" height="180px"> 
+<img align="left" src="https://gist.github.com/Bhupesh-V/0246a3f681d2533d21efb1206d1ba9d4/raw/af7d53bfdbf30f725ef7ade206200086820739fd/AboutMe.gif" height="100px"> 
 <div>
   <h3 align="right">wassup nerds 🖖</h3>
   <p align="right">I'm a Backend Developer and FOSS Enthusiast. I got interested in programming when I learned how a <code>for</code> loop works 😮 in 2015 and since then I got interested in CS and have never looked back. Right now I write (and work) with Python, Go, C++, Bash &amp; Javascript (in that order). I am a side-project guy, and love 💜 to be a part of programming &amp; opensource communities.</p>
