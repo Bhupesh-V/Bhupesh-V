@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When the Scrum Master tries to understand what is being discussed during the backlog refinement</b></summary>
+<details open><summary><b>What kind of background do you need to apply for this job as a undergrad?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When the Scrum Master tries to understand what is being discussed during the backlog refinement" src="https://i.redd.it/ppyh7vvrvwf51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i6dzny/when_the_scrum_master_tries_to_understand_what_is/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="What kind of background do you need to apply for this job as a undergrad?" src="https://i.redd.it/onuovt9nfxf51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i6f99p/what_kind_of_background_do_you_need_to_apply_for/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
