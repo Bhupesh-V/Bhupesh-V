@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Spotted a programmer in the wild</b></summary>
+<details open><summary><b>When the Scrum Master tries to understand what is being discussed during the backlog refinement</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Spotted a programmer in the wild" src="https://i.redd.it/0nbz15wlgwf51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i6cxc5/spotted_a_programmer_in_the_wild/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When the Scrum Master tries to understand what is being discussed during the backlog refinement" src="https://i.redd.it/ppyh7vvrvwf51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i6dzny/when_the_scrum_master_tries_to_understand_what_is/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
