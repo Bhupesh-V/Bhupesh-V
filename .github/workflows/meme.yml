@@ -25,10 +25,7 @@ jobs:
     - name: Update README
       run: |-
         python build_readme.py "${{ steps.meme.outputs.meme }}" "${{ steps.meme.outputs.title }}" "${{ steps.meme.outputs.source }}"
-    - name: Commit & Push
-      run: |-
-        git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-        git config --global user.name "${GITHUB_ACTOR}"
-        git add -A
-        git diff-index --quiet HEAD || git commit -m '🤖 Automated Commit - add new meme'
-        git push
+    - name: Push new README.md
+      uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
