@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Dev: As you might know Data isnt loading automatically on the list page anymore, Client: yes, user has to click loadmore button right? Dev: yeah about that loadmore button...</b></summary>
+<details open><summary><b>So useful...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Dev: As you might know Data isnt loading automatically on the list page anymore, Client: yes, user has to click loadmore button right? Dev: yeah about that loadmore button..." src="https://i.redd.it/gj66p7x5k5g51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i72d03/dev_as_you_might_know_data_isnt_loading/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="So useful..." src="https://i.redd.it/f7zd8b5v26g51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i73psl/so_useful/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
