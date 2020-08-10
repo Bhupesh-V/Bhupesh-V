@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Vertical gang</b></summary>
+<details open><summary><b>Body Building</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Vertical gang" src="https://i.redd.it/3td6ysuhn7g51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i79cee/vertical_gang/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Body Building" src="https://i.redd.it/317asw5ow7g51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i7afdd/body_building/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
