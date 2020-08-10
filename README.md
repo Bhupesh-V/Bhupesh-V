@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Me, trying to get that code I wrote 6 months ago to run in another environment.</b></summary>
+<details open><summary><b>I am in depression phase of debugging right now</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Me, trying to get that code I wrote 6 months ago to run in another environment." src="https://i.redd.it/3uksecixb1g51.gif" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i6qbaa/me_trying_to_get_that_code_i_wrote_6_months_ago/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I am in depression phase of debugging right now" src="https://i.redd.it/tbgocxicd1g51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i6qhx1/i_am_in_depression_phase_of_debugging_right_now/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
