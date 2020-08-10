@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>The trick is to transition to a new company before you have to double back to the mistakes of your younger, dumber self.</b></summary>
+<details open><summary><b>I would laugh if it were any less relatable</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The trick is to transition to a new company before you have to double back to the mistakes of your younger, dumber self." src="https://i.redd.it/jsud7oelq1g51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i6rsjf/the_trick_is_to_transition_to_a_new_company/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I would laugh if it were any less relatable" src="https://i.redd.it/54xforhzz1g51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i6so6q/i_would_laugh_if_it_were_any_less_relatable/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
