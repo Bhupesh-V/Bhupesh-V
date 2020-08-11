@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>My partners dad was complaining about the internet not working to the phone company. They were arguing about bits and bytes in my limited understanding I made a terrible meme</b></summary>
+<details open><summary><b>They said they wanted it very reactive..</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="My partners dad was complaining about the internet not working to the phone company. They were arguing about bits and bytes in my limited understanding I made a terrible meme" src="https://i.redd.it/2vkuqkyuheg51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i7uyin/my_partners_dad_was_complaining_about_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="They said they wanted it very reactive.." src="https://i.redd.it/1rjjnbmpneg51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i7vkpe/they_said_they_wanted_it_very_reactive/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
