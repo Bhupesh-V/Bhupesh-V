@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Friend showed me some HTML he wrote for positioning a video player, here's the meme i made for it</b></summary>
+<details open><summary><b>Sorry, it’s true. Your points are being converted by white collar executives.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Friend showed me some HTML he wrote for positioning a video player, here's the meme i made for it" src="https://i.redd.it/8jamjbdcjag51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i7k1kd/friend_showed_me_some_html_he_wrote_for/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Sorry, it’s true. Your points are being converted by white collar executives." src="https://i.redd.it/jk8ur9c2mag51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i7k9fl/sorry_its_true_your_points_are_being_converted_by/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
