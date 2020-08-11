@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Me, trying to put a dent in my backlog</b></summary>
+<details open><summary><b>Friend showed me some HTML he wrote for positioning a video player, here's the meme i made for it</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Me, trying to put a dent in my backlog" src="https://i.redd.it/smhi4yg2eag51.gif" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i7jlbj/me_trying_to_put_a_dent_in_my_backlog/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Friend showed me some HTML he wrote for positioning a video player, here's the meme i made for it" src="https://i.redd.it/8jamjbdcjag51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i7k1kd/friend_showed_me_some_html_he_wrote_for/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
