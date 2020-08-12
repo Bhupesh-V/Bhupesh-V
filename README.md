@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Maintaining an open source project - Expectation vs Reality</b></summary>
+<details open><summary><b>Every time when want to change something on page which runs on GatsbyJS</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Maintaining an open source project - Expectation vs Reality" src="https://i.redd.it/q30pbl1bhfg51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i7yqx3/maintaining_an_open_source_project_expectation_vs/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Every time when want to change something on page which runs on GatsbyJS" src="https://i.redd.it/zj0ytf0nvfg51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i809g1/every_time_when_want_to_change_something_on_page/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
