@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Found on r/funny, wouldn't let me crosspost. Would explain 2020 though, i mean, even God could twist an if clause</b></summary>
+<details open><summary><b>We know why developers hate sales people</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Found on r/funny, wouldn't let me crosspost. Would explain 2020 though, i mean, even God could twist an if clause" src="https://i.redd.it/kvinr0h6smg51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i8lgi3/found_on_rfunny_wouldnt_let_me_crosspost_would/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="We know why developers hate sales people" src="https://i.redd.it/0rjaqfnotmg51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i8lmd9/we_know_why_developers_hate_sales_people/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
