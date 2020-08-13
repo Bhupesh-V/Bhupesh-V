@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>How to be a douchebag 101</b></summary>
+<details open><summary><b>Found on r/funny, wouldn't let me crosspost. Would explain 2020 though, i mean, even God could twist an if clause</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="How to be a douchebag 101" src="https://i.redd.it/g2t3metxnmg51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i8l04i/how_to_be_a_douchebag_101/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Found on r/funny, wouldn't let me crosspost. Would explain 2020 though, i mean, even God could twist an if clause" src="https://i.redd.it/kvinr0h6smg51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i8lgi3/found_on_rfunny_wouldnt_let_me_crosspost_would/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
