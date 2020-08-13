@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>We know why developers hate sales people</b></summary>
+<details open><summary><b>It's garbage</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="We know why developers hate sales people" src="https://i.redd.it/0rjaqfnotmg51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i8lmd9/we_know_why_developers_hate_sales_people/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="It's garbage" src="https://i.redd.it/k7ysjza0xmg51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i8lzec/its_garbage/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
