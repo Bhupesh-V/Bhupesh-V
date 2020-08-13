@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>only works in some languages, how do you comment in english?</b></summary>
+<details open><summary><b>StackOverflow in a nutshell but it's my actual experience</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="only works in some languages, how do you comment in english?" src="https://i.redd.it/he4heojqvrg51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i8zzxo/only_works_in_some_languages_how_do_you_comment/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="StackOverflow in a nutshell but it's my actual experience" src="https://i.redd.it/v0nbt1g77sg51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i9123z/stackoverflow_in_a_nutshell_but_its_my_actual/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
