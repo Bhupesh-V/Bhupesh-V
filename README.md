@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>StackOverflow in a nutshell but it's my actual experience</b></summary>
+<details open><summary><b>Current state of AI in 2020 😂🤣</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="StackOverflow in a nutshell but it's my actual experience" src="https://i.redd.it/v0nbt1g77sg51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i9123z/stackoverflow_in_a_nutshell_but_its_my_actual/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Current state of AI in 2020 😂🤣" src="https://i.redd.it/vdhyqk9ohsg51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i923of/current_state_of_ai_in_2020/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
