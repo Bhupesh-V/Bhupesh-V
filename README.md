@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>But in the end, it doesn't even matterrrrrrrrr</b></summary>
+<details open><summary><b>My understanding of machine learning is terrible...My understanding of machine learning is fair...My understanding of machine learning is good...no, it’s still terrible.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="But in the end, it doesn't even matterrrrrrrrr" src="https://i.redd.it/d3rrktm34wg51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i9etyr/but_in_the_end_it_doesnt_even_matterrrrrrrrr/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="My understanding of machine learning is terrible...My understanding of machine learning is fair...My understanding of machine learning is good...no, it’s still terrible." src="https://i.redd.it/lzz2ximlbwg51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i9ffrs/my_understanding_of_machine_learning_is/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
