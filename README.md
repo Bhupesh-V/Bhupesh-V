@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Yet this website has been guaranteed secure. 🤔</b></summary>
+<details open><summary><b>But in the end, it doesn't even matterrrrrrrrr</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Yet this website has been guaranteed secure. 🤔" src="https://i.redd.it/iqwiee952wg51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i9eph7/yet_this_website_has_been_guaranteed_secure/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="But in the end, it doesn't even matterrrrrrrrr" src="https://i.redd.it/d3rrktm34wg51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i9etyr/but_in_the_end_it_doesnt_even_matterrrrrrrrr/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
