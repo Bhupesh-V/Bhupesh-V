@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>~200 comments all saying iT</b></summary>
+<details open><summary><b>Finally, a position I'm qualified for!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="~200 comments all saying iT" src="https://i.redd.it/tjd6kj1q11h51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="sHOuLd">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Finally, a position I'm qualified for!" src="https://i.redd.it/w5d3ai0hc1h51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i9unfg/finally_a_position_im_qualified_for/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
