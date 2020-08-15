@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When you end Task Manager using Task Manager</b></summary>
+<details open><summary><b>The Joy Of Success Squashed By The Realization Of Irrelevance</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When you end Task Manager using Task Manager" src="https://i.redd.it/2aio52jan0h51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i9s26s/when_you_end_task_manager_using_task_manager/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The Joy Of Success Squashed By The Realization Of Irrelevance" src="https://i.redd.it/kdkakgrkv0h51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/i9swyc/the_joy_of_success_squashed_by_the_realization_of/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
