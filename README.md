@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Interviewing a new dev who claims to have 10 years experience</b></summary>
+<details open><summary><b>when a junior programmer explains why something is not true</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Interviewing a new dev who claims to have 10 years experience" src="https://i.redd.it/j7nt14eo89h51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iaianv/interviewing_a_new_dev_who_claims_to_have_10/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="when a junior programmer explains why something is not true" src="https://i.redd.it/7npd3h5wo9h51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iajprh/when_a_junior_programmer_explains_why_something/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
