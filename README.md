@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>New to Linux</b></summary>
+<details open><summary><b>this is a real program, zynaddsubfx got a UI update in 2017 called zyn-fusion. both do the exact same thing, but the one above has a nice UI</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="New to Linux" src="https://i.redd.it/h9knvr5hqjh51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ibc6y1/new_to_linux/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="this is a real program, zynaddsubfx got a UI update in 2017 called zyn-fusion. both do the exact same thing, but the one above has a nice UI" src="https://i.redd.it/xuh7dg9uwjh51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ibcnws/this_is_a_real_program_zynaddsubfx_got_a_ui/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
