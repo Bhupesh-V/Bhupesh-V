@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>This happened to me a few days ago, and I still feel dumb about it</b></summary>
+<details open><summary><b>sudo rm -rf /*? Why, don't mind if I do.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This happened to me a few days ago, and I still feel dumb about it" src="https://i.redd.it/2669ehww6mh51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ibl2df/this_happened_to_me_a_few_days_ago_and_i_still/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="sudo rm -rf /*? Why, don't mind if I do." src="https://i.redd.it/roofldehimh51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ibmbp7/sudo_rm_rf_why_dont_mind_if_i_do/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
