@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Shuttle Tydirium, what is your .Select and .Where?</b></summary>
+<details open><summary><b>Find the bug here! (no compiler allowed)</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Shuttle Tydirium, what is your .Select and .Where?" src="https://i.redd.it/3ktgg0k1k0i51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/icuyd2/shuttle_tydirium_what_is_your_select_and_where/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Find the bug here! (no compiler allowed)" src="https://i.redd.it/ymivlxoiq0i51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/icvne9/find_the_bug_here_no_compiler_allowed/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
