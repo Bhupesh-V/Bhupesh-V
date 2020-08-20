@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Seems pretty logical this is what I asked for trying to debug freezes on reading from network socket</b></summary>
+<details open><summary><b>//will fix later. Biggest lie ever 😂😂😂</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Seems pretty logical this is what I asked for trying to debug freezes on reading from network socket" src="https://i.redd.it/6iuymwobq3i51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/id55ky/seems_pretty_logical_this_is_what_i_asked_for/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="//will fix later. Biggest lie ever 😂😂😂" src="https://i.redd.it/ax8r60ye14i51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/id5tto/will_fix_later_biggest_lie_ever/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
