@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When you need to test your text inputs but don't care about the data</b></summary>
+<details open><summary><b>Not mine tho but i thought it belonged here</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When you need to test your text inputs but don't care about the data" src="https://i.redd.it/fgmvqsfbw1i51.gif" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iczvcs/when_you_need_to_test_your_text_inputs_but_dont/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Not mine tho but i thought it belonged here" src="https://i.redd.it/qlrnnyi962i51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/id0rhz/not_mine_tho_but_i_thought_it_belonged_here/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
