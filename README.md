@@ -46,13 +46,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Who cares as long as it tastes good. I mean works, as long as it works</b></summary>
+<details open><summary><b>It really was my boss who took the picture</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Who cares as long as it tastes good. I mean works, as long as it works" src="https://i.redd.it/k9yxe71kj8i51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/idkqg6/who_cares_as_long_as_it_tastes_good_i_mean_works/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="It really was my boss who took the picture" src="https://i.redd.it/58q6y5l969i51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/idmq8o/it_really_was_my_boss_who_took_the_picture/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
