@@ -15,8 +15,6 @@ HEADER = """
 
 - [ ] Launch 🚀 a SaaS
 - [ ] Get a Laptop 💻
-- [ ] Contribute to 2-3 Big FOSS Projects 🙈 (I'm lazy)
-- [ ] Help 100+ beginners or codenewbies to contribute to OpenSource.
 - [ ] Start A Newsletter 🗞️ for my [blog](https://bhupesh.codes).
 - [ ] Write more stuff to share my experiences 🤔 & learning (hopefully on freeCodeCamp & HackerNoon)
 
@@ -43,6 +41,26 @@ HEADER = """
            <img align="center" src="https://github.com/Bhupesh-V/memer-action/blob/master/images/header.png?raw=true" width="178"><br><br>
            <a href="https://github.com/Bhupesh-V/memer-action"><b>A GitHub Action for Programmer Memes xD</b></a>
         </p>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary>✒️ Writeups ✒️</summary>
+  <table>
+    <tr>
+      <td valign="top" width="50%"><b>Blogs</b>
+          <ul>
+            <li><a href="https://bhupesh-v.github.io/creating-a-smart-alternative-to-cd/">Creating a smart alternative to 'cd' command</a></li>
+            <li><a href="https://www.freecodecamp.org/news/build-your-own-dotfiles-manager-from-scratch/">How to Build Your Own Linux Dotfiles Manager from Scratch</a></li>
+          </ul>
+      </td>
+      <td valign="top" width="50%"><b>TIL</b>
+        <ul>
+          <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/monitor-network-data-usage.md">Monitor network (data) usage</a></li>
+          <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/random-emoji-one-liner.md">Random emoji 😲 in one line</a></li>
+        </ul>
       </td>
     </tr>
   </table>
