@@ -64,13 +64,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Plagiarizing my own code</b></summary>
+<details open><summary><b>Time to go killing</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Plagiarizing my own code" src="https://i.redd.it/71r2s6zwkci51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/idvlg1/plagiarizing_my_own_code/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Time to go killing" src="https://i.redd.it/s9jkamghvci51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/idwhlu/time_to_go_killing/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
