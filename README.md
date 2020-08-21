@@ -11,8 +11,6 @@
 
 - [ ] Launch 🚀 a SaaS
 - [ ] Get a Laptop 💻
-- [ ] Contribute to 2-3 Big FOSS Projects 🙈 (I'm lazy)
-- [ ] Help 100+ beginners or codenewbies to contribute to OpenSource.
 - [ ] Start A Newsletter 🗞️ for my [blog](https://bhupesh.codes).
 - [ ] Write more stuff to share my experiences 🤔 & learning (hopefully on freeCodeCamp & HackerNoon)
 
@@ -44,15 +42,35 @@
   </table>
 </details>
 
+<details>
+  <summary>✒️ Writeups ✒️</summary>
+  <table>
+    <tr>
+      <td valign="top" width="50%"><b>Blogs</b>
+          <ul>
+            <li><a href="https://bhupesh-v.github.io/creating-a-smart-alternative-to-cd/">Creating a smart alternative to 'cd' command</a></li>
+            <li><a href="https://www.freecodecamp.org/news/build-your-own-dotfiles-manager-from-scratch/">How to Build Your Own Linux Dotfiles Manager from Scratch</a></li>
+          </ul>
+      </td>
+      <td valign="top" width="50%"><b>TIL</b>
+        <ul>
+          <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/monitor-network-data-usage.md">Monitor network (data) usage</a></li>
+          <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/random-emoji-one-liner.md">Random emoji 😲 in one line</a></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</details>
+
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>It really was my boss who took the picture</b></summary>
+<details open><summary><b>Interesting...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="It really was my boss who took the picture" src="https://i.redd.it/58q6y5l969i51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/idmq8o/it_really_was_my_boss_who_took_the_picture/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Interesting..." src="https://i.redd.it/kq2gmxtzc9i51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/idnbe5/interesting/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
