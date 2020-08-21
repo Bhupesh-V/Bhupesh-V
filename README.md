@@ -64,13 +64,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>The best 404 page! (recreated)</b></summary>
+<details open><summary><b>Plagiarizing my own code</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The best 404 page! (recreated)" src="https://i.redd.it/ghzrn3cvdci51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/idv2td/the_best_404_page_recreated/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Plagiarizing my own code" src="https://i.redd.it/71r2s6zwkci51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/idvlg1/plagiarizing_my_own_code/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
