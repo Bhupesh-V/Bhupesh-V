@@ -64,13 +64,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Converting a color image</b></summary>
+<details open><summary><b>What’s a null terminator?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Converting a color image" src="https://i.redd.it/2829kblrmhi51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iecrqd/converting_a_color_image/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="What’s a null terminator?" src="https://i.redd.it/k5ry3xpjiii51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ieers4/whats_a_null_terminator/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
