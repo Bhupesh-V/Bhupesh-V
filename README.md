@@ -64,13 +64,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Im pretty sure the variable airplane is in the code more than once, in capital letters. (somehow i fail it...)</b></summary>
+<details open><summary><b>A bad habit I can't break</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Im pretty sure the variable airplane is in the code more than once, in capital letters. (somehow i fail it...)" src="https://i.redd.it/2frxslqeeji51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iegnlp/im_pretty_sure_the_variable_airplane_is_in_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="A bad habit I can't break" src="https://i.redd.it/4kurr9yboji51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iehb8x/a_bad_habit_i_cant_break/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
