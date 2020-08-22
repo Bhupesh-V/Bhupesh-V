@@ -64,13 +64,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>It's true tho</b></summary>
+<details open><summary><b>Somebody is desperately looking for a Data Scientist</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="It's true tho" src="https://i.redd.it/sary6az0dfi51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ie5vi1/its_true_tho/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Somebody is desperately looking for a Data Scientist" src="https://i.redd.it/g1bsvl35efi51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ie5zn7/somebody_is_desperately_looking_for_a_data/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
