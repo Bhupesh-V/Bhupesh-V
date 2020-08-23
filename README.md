@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Programmers, most of the time.</b></summary>
+<details open><summary><b>When your code works but you don't know how :P</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Programmers, most of the time." src="https://i.redd.it/k94acynp0qi51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/if0bye/programmers_most_of_the_time/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When your code works but you don't know how :P" src="https://i.redd.it/vlt8xmkeeqi51.gif" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/if14pp/when_your_code_works_but_you_dont_know_how_p/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
