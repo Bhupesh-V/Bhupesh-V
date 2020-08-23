@@ -64,13 +64,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>driver.find_element_by_name('broken ')</b></summary>
+<details open><summary><b>Are you fucking kidding me(this was for my high school BIM class)</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="driver.find_element_by_name('broken ')" src="https://i.redd.it/sydh4kq6yli51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iep23w/driverfind_element_by_namebroken/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Are you fucking kidding me(this was for my high school BIM class)" src="https://i.redd.it/npxrnir51mi51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iepd7z/are_you_fucking_kidding_methis_was_for_my_high/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
