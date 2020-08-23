@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I don't know why, I just like it</b></summary>
+<details open><summary><b>Build failed.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I don't know why, I just like it" src="https://i.redd.it/vgmftuf66pi51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ieyj1s/i_dont_know_why_i_just_like_it/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Build failed." src="https://i.redd.it/baplu7z4hpi51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iez69o/build_failed/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
