@@ -64,13 +64,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Strong with the dark side.</b></summary>
+<details open><summary><b>I need me a rubber duck debugging XD</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Strong with the dark side." src="https://i.redd.it/jxhdhx0vjni51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ieucta/strong_with_the_dark_side/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I need me a rubber duck debugging XD" src="https://i.redd.it/6kif09ossni51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iev204/i_need_me_a_rubber_duck_debugging_xd/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
