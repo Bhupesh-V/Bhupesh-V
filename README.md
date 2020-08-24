@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Me, A Full Time Developer, After Spending 2 Hours Starting A Basic Angular 10 Project</b></summary>
+<details open><summary><b>Just be sure</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Me, A Full Time Developer, After Spending 2 Hours Starting A Basic Angular 10 Project" src="https://i.redd.it/6tyjccqofsi51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/if7c7p/me_a_full_time_developer_after_spending_2_hours/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Just be sure" src="https://i.redd.it/956jhxgslsi51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/if7zoz/just_be_sure/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
