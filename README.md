@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>¯\_(ツ)_/¯</b></summary>
+<details open><summary><b>The Search is actually fake. Chrome's search bar doesn't have that. You've been lied to.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="¯\_(ツ)_/¯" src="https://i.redd.it/3ps0xug6w4j51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/igaa2s/ツ/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The Search is actually fake. Chrome's search bar doesn't have that. You've been lied to." src="https://i.redd.it/pumtr3vnj5j51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/igceba/the_search_is_actually_fake_chromes_search_bar/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
