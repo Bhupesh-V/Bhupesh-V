@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Use The Clients To Find The Bugs (Credit To u/RogueDisciple For The Image)</b></summary>
+<details open><summary><b>Loggin in into an ~20 years old ICQ account be like</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Use The Clients To Find The Bugs (Credit To u/RogueDisciple For The Image)" src="https://i.redd.it/jgc0vvwpizi51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iftf4r/use_the_clients_to_find_the_bugs_credit_to/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Loggin in into an ~20 years old ICQ account be like" src="https://i.redd.it/20howfx590j51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ifwduu/loggin_in_into_an_20_years_old_icq_account_be_like/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
