@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I wish i could be more like Robert in Ronin each time our lead architect explain some new programing pattern/design that don't work and is completely out in the blue.</b></summary>
+<details open><summary><b>A fair warning obviously</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I wish i could be more like Robert in Ronin each time our lead architect explain some new programing pattern/design that don't work and is completely out in the blue." src="https://i.redd.it/c048ak9bv3j51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ig7uqv/i_wish_i_could_be_more_like_robert_in_ronin_each/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="A fair warning obviously" src="https://i.redd.it/2ll07evlc4j51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ig8ycz/a_fair_warning_obviously/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
