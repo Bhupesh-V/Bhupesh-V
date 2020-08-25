@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Where is the junior dev? Inside the hole maybe?</b></summary>
+<details open><summary><b>Tinkering in PHP currently and this is so true.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Where is the junior dev? Inside the hole maybe?" src="https://i.redd.it/jb64h1oik6j51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iggaph/where_is_the_junior_dev_inside_the_hole_maybe/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Tinkering in PHP currently and this is so true." src="https://i.redd.it/29biwjs3v6j51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ighin1/tinkering_in_php_currently_and_this_is_so_true/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
