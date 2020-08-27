@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Where do you keep your jokes?</b></summary>
+<details open><summary><b>After i saw a BlueJ meme i needed to *improve* the splash screen of the IDE our teacher forces us to use.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Where do you keep your jokes?" src="https://i.redd.it/ysjb8eqbokj51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ihoaj0/where_do_you_keep_your_jokes/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="After i saw a BlueJ meme i needed to *improve* the splash screen of the IDE our teacher forces us to use." src="https://i.redd.it/z99jte80ukj51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ihoyka/after_i_saw_a_bluej_meme_i_needed_to_improve_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
