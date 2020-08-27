@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Oh, those users...</b></summary>
+<details open><summary><b>Me working on my projects</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Oh, those users..." src="https://i.redd.it/d24nqdx2rej51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ih6wwp/oh_those_users/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Me working on my projects" src="https://i.redd.it/kax1w9otgfj51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ih9jvz/me_working_on_my_projects/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
