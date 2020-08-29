@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>*Chuckles* I am in danger.</b></summary>
+<details open><summary><b>8 gigs of ram dedicated to stackoverflow-ing</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="*Chuckles* I am in danger." src="https://i.redd.it/8rzrg2m2ctj51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iig66l/chuckles_i_am_in_danger/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="8 gigs of ram dedicated to stackoverflow-ing" src="https://i.redd.it/oid0zq50ntj51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iih8l4/8_gigs_of_ram_dedicated_to_stackoverflowing/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
