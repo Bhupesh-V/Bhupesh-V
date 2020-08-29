@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>After seeing posts about c++ in python this came to my mind</b></summary>
+<details open><summary><b>Cannot leave meeting because its invalid (if you click Leave, the dialog just popsback up again)</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="After seeing posts about c++ in python this came to my mind" src="https://i.redd.it/1vyctzzrcwj51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iiomln/after_seeing_posts_about_c_in_python_this_came_to/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Cannot leave meeting because its invalid (if you click Leave, the dialog just popsback up again)" src="https://i.redd.it/z318lk6z7xj51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iiqelb/cannot_leave_meeting_because_its_invalid_if_you/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
