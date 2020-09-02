@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>What if we made stack overflow's stack overflow</b></summary>
+<details open><summary><b>Java and cpp niggas after spending hours over the debugging over the missing semicolon :</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="What if we made stack overflow's stack overflow" src="https://i.redd.it/b0fhti4oqrk51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ilb4s3/what_if_we_made_stack_overflows_stack_overflow/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Java and cpp niggas after spending hours over the debugging over the missing semicolon :" src="https://i.redd.it/h9p8yxf2vrk51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ilbm40/java_and_cpp_niggas_after_spending_hours_over_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
