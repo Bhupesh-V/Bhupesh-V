@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When you forget the base case in a recursive function</b></summary>
+<details open><summary><b>dc is an truly the most unappreciated Unix command.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When you forget the base case in a recursive function" src="https://i.redd.it/42sn95gfeuk51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ilkup3/when_you_forget_the_base_case_in_a_recursive/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="dc is an truly the most unappreciated Unix command." src="https://i.redd.it/e283nhkm0vk51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ilmoh4/dc_is_an_truly_the_most_unappreciated_unix_command/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
