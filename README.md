@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>If you call them digital</b></summary>
+<details open><summary><b>“but at least it’s miserable in a way I’m used to” - Every Java Developer</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="If you call them digital" src="https://i.redd.it/kw5cpfs670l51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="skills and use emoji, I probably don't want to work for you anyway">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="“but at least it’s miserable in a way I’m used to” - Every Java Developer" src="https://i.redd.it/dr48jllam0l51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/im4ipt/but_at_least_its_miserable_in_a_way_im_used_to/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
