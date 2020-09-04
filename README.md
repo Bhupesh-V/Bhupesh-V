@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>It's up to us to make sure that these young devs know that PHP is still 🔥🔥🔥</b></summary>
+<details open><summary><b>Hacker man 100</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="It's up to us to make sure that these young devs know that PHP is still 🔥🔥🔥" src="https://i.redd.it/om6mnspxnzk51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/im0y8h/its_up_to_us_to_make_sure_that_these_young_devs/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Hacker man 100" src="https://i.redd.it/h3yrgfoj00l51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/im2cij/hacker_man_100/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
