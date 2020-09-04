@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When your office is in a bunker and you have to write a web service to see if outside is rainy or sunny</b></summary>
+<details open><summary><b>He knows where to find you when you're having a bad day</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When your office is in a bunker and you have to write a web service to see if outside is rainy or sunny" src="https://i.redd.it/v4bdseyfx5l51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/imjuoi/when_your_office_is_in_a_bunker_and_you_have_to/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="He knows where to find you when you're having a bad day" src="https://i.redd.it/8x2nv8h436l51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/imkgwi/he_knows_where_to_find_you_when_youre_having_a/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
