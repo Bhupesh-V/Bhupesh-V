@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Didn't know customer intimacy was a requirement in webdev</b></summary>
+<details open><summary><b>I have hit maximum karma</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Didn't know customer intimacy was a requirement in webdev" src="https://i.redd.it/6txgovnwhbl51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/imzt28/didnt_know_customer_intimacy_was_a_requirement_in/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I have hit maximum karma" src="https://i.redd.it/153sbeh5lbl51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/in00tx/i_have_hit_maximum_karma/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
