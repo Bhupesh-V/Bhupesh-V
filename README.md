@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>True</b></summary>
+<details open><summary><b>i just saw this comment on a youtube video and couldnt even bring myself to properly explain this to the person. but i guess this an example of an average end user who thinks they know something</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="True" src="https://i.redd.it/rgoe157dt9l51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/imw61z/true/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="i just saw this comment on a youtube video and couldnt even bring myself to properly explain this to the person. but i guess this an example of an average end user who thinks they know something" src="https://i.redd.it/ruwv7icr7al51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/imx22i/i_just_saw_this_comment_on_a_youtube_video_and/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
