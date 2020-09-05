@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Lawful Evil bothers me more than Chaotic Evil tbh</b></summary>
+<details open><summary><b>Didn't know customer intimacy was a requirement in webdev</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Lawful Evil bothers me more than Chaotic Evil tbh" src="https://i.redd.it/wy7hlr6qxal51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/imyk60/lawful_evil_bothers_me_more_than_chaotic_evil_tbh/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Didn't know customer intimacy was a requirement in webdev" src="https://i.redd.it/6txgovnwhbl51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/imzt28/didnt_know_customer_intimacy_was_a_requirement_in/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
