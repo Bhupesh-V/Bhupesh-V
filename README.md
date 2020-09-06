@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Sorry to steal this from u/Rulfiger , it just fit my very helpful comments way too much</b></summary>
+<details open><summary><b>My friend rewrote the start of Genesis to be about UTC</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Sorry to steal this from u/Rulfiger , it just fit my very helpful comments way too much" src="https://i.redd.it/xba2sryo8jl51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/inmbis/sorry_to_steal_this_from_urulfiger_it_just_fit_my/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="My friend rewrote the start of Genesis to be about UTC" src="https://i.redd.it/rzv3q7lm4kl51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/inpdvd/my_friend_rewrote_the_start_of_genesis_to_be/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
