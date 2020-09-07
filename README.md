@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Found in r/Glasgow... I'm having a bad day at the office but it could always be worse</b></summary>
+<details open><summary><b>My sister and I have different ideas of scary</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Found in r/Glasgow... I'm having a bad day at the office but it could always be worse" src="https://i.redd.it/ihdm1t3gnql51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/io8ppq/found_in_rglasgow_im_having_a_bad_day_at_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="My sister and I have different ideas of scary" src="https://i.redd.it/0r319v1ssql51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/io993b/my_sister_and_i_have_different_ideas_of_scary/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
