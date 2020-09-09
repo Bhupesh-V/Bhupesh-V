@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>First day of Flash CS5 and ActionScript. Idk if my teacher knows that flash is essentially dead, but I’m curious to see how this is gonna go after browsers officially stop running flash stuff...</b></summary>
+<details open><summary><b>My friends answer for his psychological test</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="First day of Flash CS5 and ActionScript. Idk if my teacher knows that flash is essentially dead, but I’m curious to see how this is gonna go after browsers officially stop running flash stuff..." src="https://i.redd.it/jhiem72kn2m51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ipb95b/first_day_of_flash_cs5_and_actionscript_idk_if_my/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="My friends answer for his psychological test" src="https://i.redd.it/7lktmo5az2m51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ipby6x/my_friends_answer_for_his_psychological_test/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
