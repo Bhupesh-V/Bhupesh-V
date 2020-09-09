@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>My reaction to broken code</b></summary>
+<details open><summary><b>Jokes apart 😂 now you can access user's system with JavaScript alert. A guy said this to me on LinkedIn</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="My reaction to broken code" src="https://i.redd.it/0h0hq3clp0m51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ip5s42/my_reaction_to_broken_code/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Jokes apart 😂 now you can access user's system with JavaScript alert. A guy said this to me on LinkedIn" src="https://i.redd.it/40rc2v0471m51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ip7ccq/jokes_apart_now_you_can_access_users_system_with/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
