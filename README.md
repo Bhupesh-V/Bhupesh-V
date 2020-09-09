@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>The saddest thing found today. This is what my friend is gonna give his nephew as a bday present. Poor kid won't know what hit him 😂😂</b></summary>
+<details open><summary><b>First day of Flash CS5 and ActionScript. Idk if my teacher knows that flash is essentially dead, but I’m curious to see how this is gonna go after browsers officially stop running flash stuff...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The saddest thing found today. This is what my friend is gonna give his nephew as a bday present. Poor kid won't know what hit him 😂😂" src="https://i.redd.it/oz8oouf4a2m51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ipaeoc/the_saddest_thing_found_today_this_is_what_my/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="First day of Flash CS5 and ActionScript. Idk if my teacher knows that flash is essentially dead, but I’m curious to see how this is gonna go after browsers officially stop running flash stuff..." src="https://i.redd.it/jhiem72kn2m51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ipb95b/first_day_of_flash_cs5_and_actionscript_idk_if_my/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
