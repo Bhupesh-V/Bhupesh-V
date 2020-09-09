@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Let me do that</b></summary>
+<details open><summary><b>The saddest thing found today. This is what my friend is gonna give his nephew as a bday present. Poor kid won't know what hit him 😂😂</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Let me do that" src="https://i.redd.it/x15ahmcgv1m51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ip9dmo/let_me_do_that/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The saddest thing found today. This is what my friend is gonna give his nephew as a bday present. Poor kid won't know what hit him 😂😂" src="https://i.redd.it/oz8oouf4a2m51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ipaeoc/the_saddest_thing_found_today_this_is_what_my/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
