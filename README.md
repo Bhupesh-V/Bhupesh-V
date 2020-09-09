@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>We've Been Tricked, We've Been Backstabbed and We've Been, Quite Possibly, Bamboozled</b></summary>
+<details open><summary><b>I want that dave lee rgb free setup</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="We've Been Tricked, We've Been Backstabbed and We've Been, Quite Possibly, Bamboozled" src="https://i.redd.it/hmrlawntwyl51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ioz7x1/weve_been_tricked_weve_been_backstabbed_and_weve/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I want that dave lee rgb free setup" src="https://i.redd.it/2c85a1j3yyl51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iozcwy/i_want_that_dave_lee_rgb_free_setup/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
