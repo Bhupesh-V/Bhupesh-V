@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>My friends answer for his psychological test</b></summary>
+<details open><summary><b>Can you fix this minor bug asap?... What do you mean by Next</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="My friends answer for his psychological test" src="https://i.redd.it/7lktmo5az2m51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ipby6x/my_friends_answer_for_his_psychological_test/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Can you fix this minor bug asap?... What do you mean by Next" src="https://i.redd.it/xeu4d82at3m51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="sprint and create">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
