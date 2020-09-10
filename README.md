@@ -13,7 +13,7 @@
 - [ ] Get a Laptop 💻.
 - [ ] Contribute to 2-3 Big FOSS Projects 🙈 (I'm lazy).
 - [ ] Start A Newsletter 🗞️ for my [blog](https://bhupesh.codes).
-- [ ] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
+- [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
 
 
 ### Recent Works
@@ -49,6 +49,7 @@
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
+            <li><a href="https://www.freecodecamp.org/news/design-a-key-value-store-in-go/">How to Design a Transactional Key-value Store in Go</a></li>
             <li><a href="https://bhupesh-v.github.io/creating-a-smart-alternative-to-cd/">Creating a smart alternative to 'cd' command</a></li>
             <li><a href="https://www.freecodecamp.org/news/build-your-own-dotfiles-manager-from-scratch/">How to Build Your Own Linux Dotfiles Manager from Scratch</a></li>
           </ul>
@@ -65,13 +66,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>He is a little Rusty</b></summary>
+<details open><summary><b>this literally made me cry.... 😢😢</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="He is a little Rusty" src="https://i.redd.it/y6u4ret75bm51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iq22y0/he_is_a_little_rusty/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="this literally made me cry.... 😢😢" src="https://i.redd.it/s0gllvylibm51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iq2rna/this_literally_made_me_cry/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
