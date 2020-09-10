@@ -17,7 +17,7 @@ HEADER = """
 - [ ] Get a Laptop 💻.
 - [ ] Contribute to 2-3 Big FOSS Projects 🙈 (I'm lazy).
 - [ ] Start A Newsletter 🗞️ for my [blog](https://bhupesh.codes).
-- [ ] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
+- [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
 
 
 ### Recent Works
@@ -53,6 +53,7 @@ HEADER = """
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
+            <li><a href="https://www.freecodecamp.org/news/design-a-key-value-store-in-go/">How to Design a Transactional Key-value Store in Go</a></li>
             <li><a href="https://bhupesh-v.github.io/creating-a-smart-alternative-to-cd/">Creating a smart alternative to 'cd' command</a></li>
             <li><a href="https://www.freecodecamp.org/news/build-your-own-dotfiles-manager-from-scratch/">How to Build Your Own Linux Dotfiles Manager from Scratch</a></li>
           </ul>
