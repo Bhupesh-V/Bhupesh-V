@@ -12,12 +12,12 @@
 - [ ] Launch 🚀 a SaaS.
 - [ ] Get a Laptop 💻.
 - [ ] Contribute to 2-3 Big FOSS Projects 🙈 (I'm lazy).
-- [ ] Start A Newsletter 🗞️ for my [blog](https://bhupesh.codes).
+- [ ] Start A Newsletter 🗞️ for my [blog](https://bhupesh-v.github.io).
 - [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
 
 
 ### Recent Works
-<details>
+<details open>
   <summary>🌟 Projects 🌟</summary>
   <table>
     <tr>
@@ -43,7 +43,7 @@
   </table>
 </details>
 
-<details>
+<details open>
   <summary>✒️ Writeups ✒️</summary>
   <table>
     <tr>
@@ -56,6 +56,8 @@
       </td>
       <td valign="top" width="50%"><b>TIL</b>
         <ul>
+          <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/extract-file-id-from-drive-shareable-link.md">Extract file id from drive shareable link</a><li>
+          <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/print-lines-between-two-words.md">Print lines between 2 words (using grep & awk)</a></li>
           <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/monitor-network-data-usage.md">Monitor network (data) usage</a></li>
           <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/random-emoji-one-liner.md">Random emoji 😲 in one line</a></li>
         </ul>
@@ -66,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>this literally made me cry.... 😢😢</b></summary>
+<details open><summary><b>Looks like someone in the official team is a member here.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="this literally made me cry.... 😢😢" src="https://i.redd.it/s0gllvylibm51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iq2rna/this_literally_made_me_cry/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Looks like someone in the official team is a member here." src="https://i.redd.it/6mbd9orimbm51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iq3476/looks_like_someone_in_the_official_team_is_a/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
