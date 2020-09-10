@@ -65,13 +65,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>A friend of mine made this joke about homebrew</b></summary>
+<details open><summary><b>This is how my screen looks when I start my unit tests before knowing the result</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="A friend of mine made this joke about homebrew" src="https://i.redd.it/xq2z2iy9d9m51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ipxi4m/a_friend_of_mine_made_this_joke_about_homebrew/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This is how my screen looks when I start my unit tests before knowing the result" src="https://i.redd.it/ziviakbo6am51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ipzesi/this_is_how_my_screen_looks_when_i_start_my_unit/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
