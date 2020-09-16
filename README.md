@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When I finally get accepted into the company of my dreams</b></summary>
+<details open><summary><b>Fast Paced and Dynamic Software Engineering Job</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When I finally get accepted into the company of my dreams" src="https://i.redd.it/l5b61eabvdn51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/itim92/when_i_finally_get_accepted_into_the_company_of/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Fast Paced and Dynamic Software Engineering Job" src="https://i.redd.it/cuxi61tz5en51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/itjnhe/fast_paced_and_dynamic_software_engineering_job/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
