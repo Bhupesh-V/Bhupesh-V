@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Burning the good ol' midnight oil. Who all can relate?!</b></summary>
+<details open><summary><b>My disappointment is immeasurable and my day is ruined</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Burning the good ol' midnight oil. Who all can relate?!" src="https://i.redd.it/an9bka6s5qn51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iulgtj/burning_the_good_ol_midnight_oil_who_all_can/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="My disappointment is immeasurable and my day is ruined" src="https://i.redd.it/kae3izprgqn51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iumore/my_disappointment_is_immeasurable_and_my_day_is/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
