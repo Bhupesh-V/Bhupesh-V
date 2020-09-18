@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Me explaining my programs to my friends and family</b></summary>
+<details open><summary><b>The arrogance! Microsoft thinks that just cuz they havent seen something that a warning should pop up, and they hide the run anyways button in more info. We have seen everything that you should be running.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Me explaining my programs to my friends and family" src="https://i.redd.it/761p8q9f4tn51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iuwjy4/me_explaining_my_programs_to_my_friends_and_family/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The arrogance! Microsoft thinks that just cuz they havent seen something that a warning should pop up, and they hide the run anyways button in more info. We have seen everything that you should be running." src="https://i.redd.it/082uec4z8tn51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iuwyin/the_arrogance_microsoft_thinks_that_just_cuz_they/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
