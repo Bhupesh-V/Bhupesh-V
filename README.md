@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I'm still angry at PHP for still not having this...</b></summary>
+<details open><summary><b>Old.But still Worthy...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I'm still angry at PHP for still not having this..." src="https://i.redd.it/1tbu6d3mvco51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iwkmv8/im_still_angry_at_php_for_still_not_having_this/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Old.But still Worthy..." src="https://i.redd.it/smxpuqqlwco51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iwkq0d/oldbut_still_worthy/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
