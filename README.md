@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Old.But still Worthy...</b></summary>
+<details open><summary><b>Let's hope r/cpp members don't kill me</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Old.But still Worthy..." src="https://i.redd.it/smxpuqqlwco51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iwkq0d/oldbut_still_worthy/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Let's hope r/cpp members don't kill me" src="https://i.redd.it/iu3vynyeedo51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iwmlse/lets_hope_rcpp_members_dont_kill_me/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
