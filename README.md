@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>They asked me to create a new text input theme. They never said it couldn't be 🌭 themed.</b></summary>
+<details open><summary><b>take that, photoshop!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="They asked me to create a new text input theme. They never said it couldn't be 🌭 themed." src="https://i.redd.it/mw1izr9eako51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ix8r1i/they_asked_me_to_create_a_new_text_input_theme/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="take that, photoshop!" src="https://i.redd.it/qjfcdto6pko51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ixacv4/take_that_photoshop/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
