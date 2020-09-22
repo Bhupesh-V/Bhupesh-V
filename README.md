@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Radio buttons, please!!!!</b></summary>
+<details open><summary><b>C++ tutor online; I had to leave momentarily during a session; so I set this up and screen-shared it</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Radio buttons, please!!!!" src="https://i.redd.it/qw9vu3rq2ko51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ix7w4o/radio_buttons_please/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="C++ tutor online; I had to leave momentarily during a session; so I set this up and screen-shared it" src="https://i.redd.it/3npbkbhw4ko51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ix86hm/c_tutor_online_i_had_to_leave_momentarily_during/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
