@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Hmm😅😅</b></summary>
+<details open><summary><b>Red one seems kinda sus</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Hmm😅😅" src="https://i.redd.it/givrwed6lxo51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iyehet/hmm/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Red one seems kinda sus" src="https://i.redd.it/hz6r6lqmpxo51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iyezw7/red_one_seems_kinda_sus/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
