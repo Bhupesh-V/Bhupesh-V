@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I hope this is relevant to this sub</b></summary>
+<details open><summary><b>thanks machine learning</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I hope this is relevant to this sub" src="https://i.redd.it/89ehvvstz2p51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iyvgz6/i_hope_this_is_relevant_to_this_sub/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="thanks machine learning" src="https://i.redd.it/k846qkbh13p51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/iyvl7s/thanks_machine_learning/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
