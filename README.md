@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Every time my boss tells me to do 80% of the job in 20% of the time, I think of this...</b></summary>
+<details open><summary><b>Aaaaaaaaaa</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Every time my boss tells me to do 80% of the job in 20% of the time, I think of this..." src="https://i.redd.it/eoax3vqydfp51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/izzwa5/every_time_my_boss_tells_me_to_do_80_of_the_job/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Aaaaaaaaaa" src="https://i.redd.it/idmxw3giefp51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/izzxj3/aaaaaaaaaa/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
