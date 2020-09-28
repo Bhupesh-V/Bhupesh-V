@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Let me introduce you to the new Paulo language !!</b></summary>
+<details open><summary><b>On The Shoulders of Giants We Stand. Let them guide us and encourage us as we seek to elevate humanity by elevating ourselves.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Let me introduce you to the new Paulo language !!" src="https://i.redd.it/08w2vwpxdxp51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j1grjo/let_me_introduce_you_to_the_new_paulo_language/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="On The Shoulders of Giants We Stand. Let them guide us and encourage us as we seek to elevate humanity by elevating ourselves." src="https://i.redd.it/w9yiee2pjxp51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j1hfs9/on_the_shoulders_of_giants_we_stand_let_them/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
