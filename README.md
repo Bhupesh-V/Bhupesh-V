@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>This alert is great 👍👏</b></summary>
+<details open><summary><b>Ran dark mode on google store and saw that only one picture didn't have transparent background. Google plz fix</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This alert is great 👍👏" src="https://i.redd.it/s66mrdr4peq51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j31bxb/this_alert_is_great/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Ran dark mode on google store and saw that only one picture didn't have transparent background. Google plz fix" src="https://i.redd.it/ldnh5x8v0fq51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j32826/ran_dark_mode_on_google_store_and_saw_that_only/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
