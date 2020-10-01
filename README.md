@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Ran dark mode on google store and saw that only one picture didn't have transparent background. Google plz fix</b></summary>
+<details open><summary><b>Sums up my experience learning python so far.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Ran dark mode on google store and saw that only one picture didn't have transparent background. Google plz fix" src="https://i.redd.it/ldnh5x8v0fq51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j32826/ran_dark_mode_on_google_store_and_saw_that_only/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Sums up my experience learning python so far." src="https://i.redd.it/p4gwkmpyefq51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j337c9/sums_up_my_experience_learning_python_so_far/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
