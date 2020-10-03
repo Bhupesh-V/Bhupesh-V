@@ -12,7 +12,7 @@
 - [ ] Launch 🚀 a SaaS.
 - [ ] Get a Laptop 💻.
 - [ ] Contribute to 2-3 Big FOSS Projects 🙈 (I'm lazy).
-- [ ] Start A Newsletter 🗞️ for my [blog](https://bhupesh-v.github.io).
+- [x] Start A Newsletter 🗞️ for my [blog](https://bhupesh-v.github.io), [Subscribe Here](https://buttondown.email/bhupesh)
 - [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
 
 
@@ -49,6 +49,7 @@
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
+            <li><a href="https://bhupesh-v.github.io/college-is-over/">College is finally over</a></li>
             <li><a href="https://www.freecodecamp.org/news/design-a-key-value-store-in-go/">How to Design a Transactional Key-value Store in Go</a></li>
             <li><a href="https://bhupesh-v.github.io/creating-a-smart-alternative-to-cd/">Creating a smart alternative to 'cd' command</a></li>
             <li><a href="https://www.freecodecamp.org/news/build-your-own-dotfiles-manager-from-scratch/">How to Build Your Own Linux Dotfiles Manager from Scratch</a></li>
@@ -68,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>That happens all the time</b></summary>
+<details open><summary><b>Why am I the way that I am?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="That happens all the time" src="https://i.redd.it/hzrne1qydrq51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j44iux/that_happens_all_the_time/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Why am I the way that I am?" src="https://i.redd.it/vvfm69nmrrq51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j45p72/why_am_i_the_way_that_i_am/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
@@ -86,7 +87,7 @@
    - Go (Golang)
 - 🔭 I’m currently working on ...
     - All of my pinned projects below 👇 (& more hidden ones)
-- _Also I am looking for some remote job/contract work opportunities (going to graduate in 2020 hopefully)_
+- _Also I am looking for some remote internship/contract work opportunities._
 
 
 ### ☺️ Support
