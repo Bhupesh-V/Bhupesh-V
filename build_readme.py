@@ -16,7 +16,7 @@ HEADER = """
 - [ ] Launch 🚀 a SaaS.
 - [ ] Get a Laptop 💻.
 - [ ] Contribute to 2-3 Big FOSS Projects 🙈 (I'm lazy).
-- [ ] Start A Newsletter 🗞️ for my [blog](https://bhupesh-v.github.io).
+- [x] Start A Newsletter 🗞️ for my [blog](https://bhupesh-v.github.io), [Subscribe Here](https://buttondown.email/bhupesh)
 - [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
 
 
@@ -53,6 +53,7 @@ HEADER = """
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
+            <li><a href="https://bhupesh-v.github.io/college-is-over/">College is finally over</a></li>
             <li><a href="https://www.freecodecamp.org/news/design-a-key-value-store-in-go/">How to Design a Transactional Key-value Store in Go</a></li>
             <li><a href="https://bhupesh-v.github.io/creating-a-smart-alternative-to-cd/">Creating a smart alternative to 'cd' command</a></li>
             <li><a href="https://www.freecodecamp.org/news/build-your-own-dotfiles-manager-from-scratch/">How to Build Your Own Linux Dotfiles Manager from Scratch</a></li>
@@ -78,7 +79,7 @@ FOOTER = """
    - Go (Golang)
 - 🔭 I’m currently working on ...
     - All of my pinned projects below 👇 (& more hidden ones)
-- _Also I am looking for some remote job/contract work opportunities (going to graduate in 2020 hopefully)_
+- _Also I am looking for some remote internship/contract work opportunities._
 
 
 ### ☺️ Support
