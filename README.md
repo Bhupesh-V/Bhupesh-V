@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Hacktoberfest be like</b></summary>
+<details open><summary><b>For those who don't know WhiteHat Jr is a coding learning platform that gives continuous unskippable ads on YouTube. Credit: u/ab3701d</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Hacktoberfest be like" src="https://i.redd.it/qn3ish903rq51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j43j20/hacktoberfest_be_like/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="For those who don't know WhiteHat Jr is a coding learning platform that gives continuous unskippable ads on YouTube. Credit: u/ab3701d" src="https://i.redd.it/wbvcmdfw6rq51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j43vrr/for_those_who_dont_know_whitehat_jr_is_a_coding/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
