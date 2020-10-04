@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>IntelliCode saw me cast a float to int. Now it's offering me to cast everything to int. Even ints.</b></summary>
+<details open><summary><b>When your program starts to overheat your computer...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="IntelliCode saw me cast a float to int. Now it's offering me to cast everything to int. Even ints." src="https://i.redd.it/t2qqexobgzq51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j4qxik/intellicode_saw_me_cast_a_float_to_int_now_its/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When your program starts to overheat your computer..." src="https://i.redd.it/v0vbd352qzq51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j4rnig/when_your_program_starts_to_overheat_your_computer/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
