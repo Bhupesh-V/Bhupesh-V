@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Word was looking a bit too bright.</b></summary>
+<details open><summary><b>It's been 8+ months since I've started training my Machine Learning AI on now over 100 million Discord messages from over 800 thousand people. I never thought a bot could feel this much pain.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Word was looking a bit too bright." src="https://i.redd.it/m0j0z4q2wir51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j6baej/word_was_looking_a_bit_too_bright/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="It's been 8+ months since I've started training my Machine Learning AI on now over 100 million Discord messages from over 800 thousand people. I never thought a bot could feel this much pain." src="https://i.redd.it/h2uwlkm7yir51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j6bib7/its_been_8_months_since_ive_started_training_my/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
