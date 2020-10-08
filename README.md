@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When you and the one other guy in a github issue respond with the same answer at the exact same time.</b></summary>
+<details open><summary><b>Created it long back and just happened glance through. So I thought why not.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When you and the one other guy in a github issue respond with the same answer at the exact same time." src="https://i.redd.it/i3j60g60utr51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j79220/when_you_and_the_one_other_guy_in_a_github_issue/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Created it long back and just happened glance through. So I thought why not." src="https://i.redd.it/edu77pk15ur51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j79oht/created_it_long_back_and_just_happened_glance/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
