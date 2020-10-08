@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>My teacher seems to have a good sense of humor.</b></summary>
+<details open><summary><b>When you and the one other guy in a github issue respond with the same answer at the exact same time.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="My teacher seems to have a good sense of humor." src="https://i.redd.it/1oi7oaqbnsr51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j765h4/my_teacher_seems_to_have_a_good_sense_of_humor/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When you and the one other guy in a github issue respond with the same answer at the exact same time." src="https://i.redd.it/i3j60g60utr51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j79220/when_you_and_the_one_other_guy_in_a_github_issue/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
