@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Naming things is hard, but this guy got it right</b></summary>
+<details open><summary><b>Guys I finally found my memory! Now what was I trying to remember again?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Naming things is hard, but this guy got it right" src="https://i.redd.it/fgys4r97l5s51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j89u31/naming_things_is_hard_but_this_guy_got_it_right/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Guys I finally found my memory! Now what was I trying to remember again?" src="https://i.redd.it/lagzvl6y96s51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j8bx0b/guys_i_finally_found_my_memory_now_what_was_i/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
