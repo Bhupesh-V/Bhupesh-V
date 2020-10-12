@@ -53,7 +53,7 @@ HEADER = """
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
-            <li><a href="https://bhupesh-v.github.io/college-is-over/">College is finally over</a></li>
+            <li><a href="https://bhupesh-v.github.io/story-behind-my-first-ever-pull-request/">Story behind my first ever pull request</a></li>
             <li><a href="https://www.freecodecamp.org/news/design-a-key-value-store-in-go/">How to Design a Transactional Key-value Store in Go</a></li>
             <li><a href="https://bhupesh-v.github.io/creating-a-smart-alternative-to-cd/">Creating a smart alternative to 'cd' command</a></li>
             <li><a href="https://www.freecodecamp.org/news/build-your-own-dotfiles-manager-from-scratch/">How to Build Your Own Linux Dotfiles Manager from Scratch</a></li>
