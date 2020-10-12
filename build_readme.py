@@ -79,7 +79,7 @@ FOOTER = """
    - Go (Golang)
 - 🔭 I’m currently working on ...
     - All of my pinned projects below 👇 (& more hidden ones)
-- _Also I am looking for some remote internship/contract work opportunities._
+- ~_Also I am looking for some remote internship/contract work opportunities._~
 
 
 ### ☺️ Support
