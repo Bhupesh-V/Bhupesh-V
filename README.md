@@ -49,7 +49,7 @@
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
-            <li><a href="https://bhupesh-v.github.io/college-is-over/">College is finally over</a></li>
+            <li><a href="https://bhupesh-v.github.io/story-behind-my-first-ever-pull-request/">Story behind my first ever pull request</a></li>
             <li><a href="https://www.freecodecamp.org/news/design-a-key-value-store-in-go/">How to Design a Transactional Key-value Store in Go</a></li>
             <li><a href="https://bhupesh-v.github.io/creating-a-smart-alternative-to-cd/">Creating a smart alternative to 'cd' command</a></li>
             <li><a href="https://www.freecodecamp.org/news/build-your-own-dotfiles-manager-from-scratch/">How to Build Your Own Linux Dotfiles Manager from Scratch</a></li>
@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>sooo my little brothers ıt teachers python learning material looks like this</b></summary>
+<details open><summary><b>Stack Overflow coders copying and pasting code.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="sooo my little brothers ıt teachers python learning material looks like this" src="https://i.redd.it/mztri3jrpms51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j9nh32/sooo_my_little_brothers_ıt_teachers_python/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Stack Overflow coders copying and pasting code." src="https://i.redd.it/4ohmogg6wms51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j9nvar/stack_overflow_coders_copying_and_pasting_code/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
