@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Not really a meme but I thought it was worth sharing. My programming professor at my university just took Sheldon's friendship algorithm to teach us about algorithms</b></summary>
+<details open><summary><b>Those bugs can wait</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Not really a meme but I thought it was worth sharing. My programming professor at my university just took Sheldon's friendship algorithm to teach us about algorithms" src="https://i.redd.it/ovcl1u2u7ns51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j9onb6/not_really_a_meme_but_i_thought_it_was_worth/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Those bugs can wait" src="https://i.redd.it/pxhq1ezzins51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/j9pdsp/those_bugs_can_wait/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
