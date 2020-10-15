@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I wonder how did they do it 20 years ago !</b></summary>
+<details open><summary><b>I guess I can read Minecraft Enchantment Table</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I wonder how did they do it 20 years ago !" src="https://i.redd.it/fb5qpik2h5t51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jbcsnj/i_wonder_how_did_they_do_it_20_years_ago/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I guess I can read Minecraft Enchantment Table" src="https://i.redd.it/f6pr8no5x5t51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jbearf/i_guess_i_can_read_minecraft_enchantment_table/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
