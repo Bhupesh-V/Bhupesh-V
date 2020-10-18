@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>while noodsinbox == 0: for x in viewers: sendnoods(x)</b></summary>
+<details open><summary><b>Centering a div in CSS be like</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="while noodsinbox == 0: for x in viewers: sendnoods(x)" src="https://i.redd.it/xbjm8wsa8st51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jda35s/while_noodsinbox_0_for_x_in_viewers_sendnoodsx/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Centering a div in CSS be like" src="https://i.redd.it/anmismy7ist51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jdaqvk/centering_a_div_in_css_be_like/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
