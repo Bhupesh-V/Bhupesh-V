@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>The black dot is the bug you're trying to fix</b></summary>
+<details open><summary><b>Cybersecurity for what? The medias do things like this so it's 100% than everyone can hack the Skype it passed on TV</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The black dot is the bug you're trying to fix" src="https://i.redd.it/sfwh2go58zt51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jduvs0/the_black_dot_is_the_bug_youre_trying_to_fix/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Cybersecurity for what? The medias do things like this so it's 100% than everyone can hack the Skype it passed on TV" src="https://i.redd.it/mhddvb70dzt51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jdv86z/cybersecurity_for_what_the_medias_do_things_like/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
