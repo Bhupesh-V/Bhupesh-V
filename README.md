@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Me, In college when my teacher is teaching if and else statement I learnt on YouTube in high school 😴😴</b></summary>
+<details open><summary><b>Me commenting my code</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Me, In college when my teacher is teaching if and else statement I learnt on YouTube in high school 😴😴" src="https://i.redd.it/gzd9tmikr3u51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/je8of4/me_in_college_when_my_teacher_is_teaching_if_and/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Me commenting my code" src="https://i.redd.it/hwist6wx24u51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jea210/me_commenting_my_code/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
