@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Go stupid. Go crazy. Go absolutely bonkers!</b></summary>
+<details open><summary><b>Stackoverflow: I'm About to End This Man's Whole Career</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Go stupid. Go crazy. Go absolutely bonkers!" src="https://i.redd.it/zn6w4vn084u51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jeandn/go_stupid_go_crazy_go_absolutely_bonkers/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Stackoverflow: I'm About to End This Man's Whole Career" src="https://i.redd.it/mo5fi26784u51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jeaoed/stackoverflow_im_about_to_end_this_mans_whole/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
