@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Started a new job in a SQL</b></summary>
+<details open><summary><b>Java is small doge meme. VB is big doge meme</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Started a new job in a SQL" src="https://i.redd.it/xd1aonv2o9u51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="Shop">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Java is small doge meme. VB is big doge meme" src="https://i.redd.it/wb2ocwp83au51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jet9yy/java_is_small_doge_meme_vb_is_big_doge_meme/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
