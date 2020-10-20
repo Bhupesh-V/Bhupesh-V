@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Java is small doge meme. VB is big doge meme</b></summary>
+<details open><summary><b>now, tell me something I don't know, mister web developer</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Java is small doge meme. VB is big doge meme" src="https://i.redd.it/wb2ocwp83au51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jet9yy/java_is_small_doge_meme_vb_is_big_doge_meme/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="now, tell me something I don't know, mister web developer" src="https://i.redd.it/euymfogmfau51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jeupvh/now_tell_me_something_i_dont_know_mister_web/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
