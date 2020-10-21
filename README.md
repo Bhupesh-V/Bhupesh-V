@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Ma Spaghett be speakng aganst me</b></summary>
+<details open><summary><b>That moment you realise you may have made a syntax error</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Ma Spaghett be speakng aganst me" src="https://i.redd.it/o8nawwd13hu51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jffwkm/ma_spaghett_be_speakng_aganst_me/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="That moment you realise you may have made a syntax error" src="https://i.redd.it/xcc0ofrn5rvz.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jfgv1h/that_moment_you_realise_you_may_have_made_a/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
