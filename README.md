@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>There are two kinds of developers. Those who have broken production and those who are about to.</b></summary>
+<details open><summary><b>You either cash out while you’re a Tom, or live long enough to see yourself become a Zuck</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="There are two kinds of developers. Those who have broken production and those who are about to." src="https://i.redd.it/6ll9ab69kou51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jg4244/there_are_two_kinds_of_developers_those_who_have/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="You either cash out while you’re a Tom, or live long enough to see yourself become a Zuck" src="https://i.redd.it/asf25n82lou51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jg45cv/you_either_cash_out_while_youre_a_tom_or_live/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
