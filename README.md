@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Stop it, Step Protocol</b></summary>
+<details open><summary><b>I decided to refactor some old code, adding comments as I make sense of what I was trying to do. This is where I'm stopping for the night...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Stop it, Step Protocol" src="https://i.redd.it/4oo1ln72zyu51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jh2orn/stop_it_step_protocol/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I decided to refactor some old code, adding comments as I make sense of what I was trying to do. This is where I'm stopping for the night..." src="https://i.redd.it/p00uyh2k3zu51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jh30sp/i_decided_to_refactor_some_old_code_adding/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
