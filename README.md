@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Ohh so it has 999 upvotes on stackoverflow , must be a correct solution.</b></summary>
+<details open><summary><b>2020[0] to 2020[1]</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Ohh so it has 999 upvotes on stackoverflow , must be a correct solution." src="https://i.redd.it/6zchyh41gxu51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jgy3ru/ohh_so_it_has_999_upvotes_on_stackoverflow_must/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="2020[0] to 2020[1]" src="https://i.redd.it/8i20hlw3pxu51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jgyy7g/20200_to_20201/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
