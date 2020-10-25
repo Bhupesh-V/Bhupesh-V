@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>One of the worst nightmare</b></summary>
+<details open><summary><b>Sometimes things are just so cracked up, it is the only way to fix something</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="One of the worst nightmare" src="https://i.redd.it/nzvtfr9g9ky41.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jhsgk9/one_of_the_worst_nightmare/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Sometimes things are just so cracked up, it is the only way to fix something" src="https://i.redd.it/2ucxlfk5y8v51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jhtsqw/sometimes_things_are_just_so_cracked_up_it_is_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
