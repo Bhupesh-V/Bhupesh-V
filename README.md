@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I just want to learn why my code isn't working...</b></summary>
+<details open><summary><b>I can't figure out what I might've forgot...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I just want to learn why my code isn't working..." src="https://i.redd.it/ll1ld0y2lyv51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jk3csx/i_just_want_to_learn_why_my_code_isnt_working/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I can't figure out what I might've forgot..." src="https://i.redd.it/pjhbz18f3zv51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jk4mxq/i_cant_figure_out_what_i_mightve_forgot/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
