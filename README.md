@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I hope I don't get co-workers like this. 😑</b></summary>
+<details open><summary><b>Even if you dont use args in your program you must use int argc, char* argv[]</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I hope I don't get co-workers like this. 😑" src="https://i.redd.it/aioy7n8mb4w51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jkldwu/i_hope_i_dont_get_coworkers_like_this/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Even if you dont use args in your program you must use int argc, char* argv[]" src="https://i.redd.it/790qwqvtg4w51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jklwz0/even_if_you_dont_use_args_in_your_program_you/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
