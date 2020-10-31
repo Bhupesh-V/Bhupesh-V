@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>No one else gets why this is so hilarious to me, I figured it would be appreciated here 😁</b></summary>
+<details open><summary><b>A thought exercise my friend used to cheer me up.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="No one else gets why this is so hilarious to me, I figured it would be appreciated here 😁" src="https://i.redd.it/7v62o6s3abw51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jl73cp/no_one_else_gets_why_this_is_so_hilarious_to_me_i/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="A thought exercise my friend used to cheer me up." src="https://i.redd.it/0ul73gf7pbw51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jl8ipm/a_thought_exercise_my_friend_used_to_cheer_me_up/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
