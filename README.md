@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Yeah,welcome</b></summary>
+<details open><summary><b>No</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Yeah,welcome" src="https://i.redd.it/60nv3d77cdw51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="to">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="No" src="https://i.redd.it/sm1j4emlvdw51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="need">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
