@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Don't code what you can't debug, ‘You fool!’ will be liable to the hell of fire!</b></summary>
+<details open><summary><b>This laptop’s manufacturer made F8, half the world’s debug next step button, turn off wireless by default</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Don't code what you can't debug, ‘You fool!’ will be liable to the hell of fire!" src="https://i.redd.it/totxywo7zdw51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jlek98/dont_code_what_you_cant_debug_you_fool_will_be/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This laptop’s manufacturer made F8, half the world’s debug next step button, turn off wireless by default" src="https://i.redd.it/mmn0m7hx2ew51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jler4i/this_laptops_manufacturer_made_f8_half_the_worlds/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
