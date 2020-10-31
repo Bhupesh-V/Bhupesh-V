@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>A thought exercise my friend used to cheer me up.</b></summary>
+<details open><summary><b>Make</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="A thought exercise my friend used to cheer me up." src="https://i.redd.it/0ul73gf7pbw51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jl8ipm/a_thought_exercise_my_friend_used_to_cheer_me_up/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Make" src="https://i.redd.it/16q0kncm4cw51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="sure">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
