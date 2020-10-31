@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>i mean, my previous code was compiled and made in a different ide, and now i look at it and go crappppppp</b></summary>
+<details open><summary><b>No one else gets why this is so hilarious to me, I figured it would be appreciated here 😁</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="i mean, my previous code was compiled and made in a different ide, and now i look at it and go crappppppp" src="https://i.redd.it/l73jov407bw51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jl6ss8/i_mean_my_previous_code_was_compiled_and_made_in/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="No one else gets why this is so hilarious to me, I figured it would be appreciated here 😁" src="https://i.redd.it/7v62o6s3abw51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jl73cp/no_one_else_gets_why_this_is_so_hilarious_to_me_i/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
