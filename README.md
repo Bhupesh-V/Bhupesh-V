@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Why you can never figure out how arrays and other collections work in C</b></summary>
+<details open><summary><b>Found a QR code on my vimto bottle. Follow for a good laugh.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Why you can never figure out how arrays and other collections work in C" src="https://i.redd.it/44be468g3ow51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jm6n0b/why_you_can_never_figure_out_how_arrays_and_other/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Found a QR code on my vimto bottle. Follow for a good laugh." src="https://i.redd.it/h12978w45ow51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jm6t7g/found_a_qr_code_on_my_vimto_bottle_follow_for_a/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
