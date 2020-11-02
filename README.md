@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Found a QR code on my vimto bottle. Follow for a good laugh.</b></summary>
+<details open><summary><b>ArE U UsInG BiG DaTa</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Found a QR code on my vimto bottle. Follow for a good laugh." src="https://i.redd.it/h12978w45ow51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jm6t7g/found_a_qr_code_on_my_vimto_bottle_follow_for_a/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="ArE U UsInG BiG DaTa" src="https://i.redd.it/1hnn27f57ow51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jm70s7/are_u_using_big_data/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
