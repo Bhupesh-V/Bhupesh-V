@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>oh god oh fuck the age of terminator is upon us lord forgive me for i have sinned i beg you to save us from our new AI overlords</b></summary>
+<details open><summary><b>Scalable DB</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="oh god oh fuck the age of terminator is upon us lord forgive me for i have sinned i beg you to save us from our new AI overlords" src="https://i.redd.it/4vkmfvjgnww51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jmy4bg/oh_god_oh_fuck_the_age_of_terminator_is_upon_us/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Scalable DB" src="https://i.redd.it/7qtfzuh7rww51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jmyhys/scalable_db/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
