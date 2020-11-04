@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>As kind of an Engineer (BI Dev) I've had to argue with my Boss so many times when I know I am right. Sure you all can relate.</b></summary>
+<details open><summary><b>(Object) this</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="As kind of an Engineer (BI Dev) I've had to argue with my Boss so many times when I know I am right. Sure you all can relate." src="https://i.redd.it/hdi87l16r3x51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jnklbq/as_kind_of_an_engineer_bi_dev_ive_had_to_argue/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="(Object) this" src="https://i.redd.it/5lu6iqbd24x51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jnlpoi/object_this/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
