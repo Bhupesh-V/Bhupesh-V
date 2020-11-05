@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Is it animal abuse?</b></summary>
+<details open><summary><b>Who in there right mind uses 3 spaces? Even 2 spaces would be more understandable.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Is it animal abuse?" src="https://i.redd.it/5i9px0t1f9x51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jo1277/is_it_animal_abuse/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Who in there right mind uses 3 spaces? Even 2 spaces would be more understandable." src="https://i.redd.it/ad8cnzfxm9x51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jo1wz1/who_in_there_right_mind_uses_3_spaces_even_2/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
