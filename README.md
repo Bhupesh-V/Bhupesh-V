@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>GitHub API is not at all confusing</b></summary>
+<details open><summary><b>Talk is cheap. Documenting is even cheaper!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="GitHub API is not at all confusing" src="https://i.redd.it/ctj1oi1uhnx51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jp8sfj/github_api_is_not_at_all_confusing/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Talk is cheap. Documenting is even cheaper!" src="https://i.redd.it/a1suk5erqnx51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jp9qa0/talk_is_cheap_documenting_is_even_cheaper/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
