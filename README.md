@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When you copy code from github project and everything is fine until someone reads comments</b></summary>
+<details open><summary><b>As a designer, this is me every time an engineer helps me.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When you copy code from github project and everything is fine until someone reads comments" src="https://i.redd.it/9vk1rzcx2hx51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jop6jj/when_you_copy_code_from_github_project_and/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="As a designer, this is me every time an engineer helps me." src="https://i.redd.it/g587rx8jp0g01.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jopn1k/as_a_designer_this_is_me_every_time_an_engineer/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
