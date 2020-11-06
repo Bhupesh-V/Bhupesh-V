@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Leaked code from the machines counting ballots in Nevada and Arizona</b></summary>
+<details open><summary><b>please hire me, i'll do anything except for front end</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Leaked code from the machines counting ballots in Nevada and Arizona" src="https://i.redd.it/ukhce2y9shx51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jorva2/leaked_code_from_the_machines_counting_ballots_in/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="please hire me, i'll do anything except for front end" src="https://i.redd.it/1i50neoz3ix51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jot2h6/please_hire_me_ill_do_anything_except_for_front/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
