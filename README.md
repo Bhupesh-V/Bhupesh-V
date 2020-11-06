@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I just wrote the code to speed up vote counting. I used a hack. Should be faster.</b></summary>
+<details open><summary><b>Garbage collector go brrrrrr</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I just wrote the code to speed up vote counting. I used a hack. Should be faster." src="https://i.redd.it/dilyak1yrix51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jovb53/i_just_wrote_the_code_to_speed_up_vote_counting_i/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Garbage collector go brrrrrr" src="https://i.redd.it/eywo62ytgjx51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/joxhpb/garbage_collector_go_brrrrrr/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
