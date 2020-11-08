@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Threw a poll together this morning when things were still uncertain, was hoping that we could have at least tested the qualifications of our candidates.</b></summary>
+<details open><summary><b>Fan cools off</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Threw a poll together this morning when things were still uncertain, was hoping that we could have at least tested the qualifications of our candidates." src="https://i.redd.it/dqzgyiai9vx51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jpw58f/threw_a_poll_together_this_morning_when_things/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Fan cools off" src="https://i.redd.it/eurdnrs3jvx51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jpx5mw/fan_cools_off/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
