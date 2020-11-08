@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When senior dev comes to fix a bug</b></summary>
+<details open><summary><b>Am I stupid? I guess this is supposed to be programmer humor but I don’t get it...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When senior dev comes to fix a bug" src="https://i.redd.it/5142pm1jz1y51.gif" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jqfvqv/when_senior_dev_comes_to_fix_a_bug/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Am I stupid? I guess this is supposed to be programmer humor but I don’t get it..." src="https://i.redd.it/xzrtek1bx1y51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jqfnrk/am_i_stupid_i_guess_this_is_supposed_to_be/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
