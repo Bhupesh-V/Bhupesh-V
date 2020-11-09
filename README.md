@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Never thought my advances knowledge in playing children songs can be helpful in code review - Alle meine Entchen - a German children song</b></summary>
+<details open><summary><b>To wtf linux</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Never thought my advances knowledge in playing children songs can be helpful in code review - Alle meine Entchen - a German children song" src="https://i.redd.it/dnpjz07ke5y51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jqrksx/never_thought_my_advances_knowledge_in_playing/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="To wtf linux" src="https://i.redd.it/3nqisdn0h6y51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jqu6ps/to_wtf_linux/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
