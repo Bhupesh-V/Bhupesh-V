@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>People upset about Office 2020 UI changes forget about Office pre-2010</b></summary>
+<details open><summary><b>Can you match them all?? I dont think i can..!?&!3311:&:$;3311)(?./(!(<€|€¥£~</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="People upset about Office 2020 UI changes forget about Office pre-2010" src="https://i.redd.it/ypm0j7cvrfy51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jrnlqj/people_upset_about_office_2020_ui_changes_forget/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Can you match them all?? I dont think i can..!?&!3311:&:$;3311)(?./(!(<€|€¥£~" src="https://i.redd.it/8avw5u156gy51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jrp6b3/can_you_match_them_all_i_dont_think_i_can/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
