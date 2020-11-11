@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Who is he man? Appears at every programming related subreddit.</b></summary>
+<details open><summary><b>am i the only one who gets sick having to re-write stuff after a while?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Who is he man? Appears at every programming related subreddit." src="https://i.redd.it/drdbjys38ly51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/js5rxo/who_is_he_man_appears_at_every_programming/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="am i the only one who gets sick having to re-write stuff after a while?" src="https://i.redd.it/6ogk8yeedly51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/js64ny/am_i_the_only_one_who_gets_sick_having_to_rewrite/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
