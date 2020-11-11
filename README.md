@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>How Apple released the M1 chip yesterday.</b></summary>
+<details open><summary><b>On</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="How Apple released the M1 chip yesterday." src="https://i.redd.it/jhuame65cjy51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/js0zim/how_apple_released_the_m1_chip_yesterday/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="On" src="https://i.redd.it/ceyixyle3ky51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="Wednesday">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
