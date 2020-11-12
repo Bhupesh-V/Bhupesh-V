@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>My friend asked what my favorite type of tree was. Thought of this after they didn’t like my response.</b></summary>
+<details open><summary><b>Relatable anyone?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="My friend asked what my favorite type of tree was. Thought of this after they didn’t like my response." src="https://i.redd.it/8to41rz5noy51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jshdv1/my_friend_asked_what_my_favorite_type_of_tree_was/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Relatable anyone?" src="https://i.redd.it/4af3y9cnuoy51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jsi7c6/relatable_anyone/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
