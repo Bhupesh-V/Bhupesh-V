@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>when the devs maintaining the internal CRM are really bored</b></summary>
+<details open><summary><b>This add on Engadget and the stock picture they had for programmer. LOL, I wish I was that skinny.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="when the devs maintaining the internal CRM are really bored" src="https://i.redd.it/k8izaj2j5oy51.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jsftlo/when_the_devs_maintaining_the_internal_crm_are/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This add on Engadget and the stock picture they had for programmer. LOL, I wish I was that skinny." src="https://i.redd.it/ldya5sgl9oy51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jsgaqe/this_add_on_engadget_and_the_stock_picture_they/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
