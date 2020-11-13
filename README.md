@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>So I'm learning Kotlin and when I saw that you can use an if or when(which is Kotlin's switch) when setting a value for a variable I was like WHAAAAAT?!</b></summary>
+<details open><summary><b>something doesn't add up on windows 10...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="So I'm learning Kotlin and when I saw that you can use an if or when(which is Kotlin's switch) when setting a value for a variable I was like WHAAAAAT?!" src="https://i.redd.it/0518dlzwa0z51.gif" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jtgfyz/so_im_learning_kotlin_and_when_i_saw_that_you_can/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="something doesn't add up on windows 10..." src="https://i.redd.it/ckw7v69qz0z51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jthkzm/something_doesnt_add_up_on_windows_10/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
