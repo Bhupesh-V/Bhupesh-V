@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Trust me , it'll be fine. They're minor issues.</b></summary>
+<details open><summary><b>My favourite scene from Rise of the Dragon (1990)</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Trust me , it'll be fine. They're minor issues." src="https://i.redd.it/atn6z34lk1z51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jtjy0e/trust_me_itll_be_fine_theyre_minor_issues/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="My favourite scene from Rise of the Dragon (1990)" src="https://i.redd.it/fv4fsxnqt1z51.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jtkypx/my_favourite_scene_from_rise_of_the_dragon_1990/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
