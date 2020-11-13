@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>x -> draw_cards(x, 25)</b></summary>
+<details open><summary><b>When somebody schedules a Squper</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="x -> draw_cards(x, 25)" src="https://i.redd.it/5l91njwd6xy51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jt8y6n/x_draw_cardsx_25/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When somebody schedules a Squper" src="https://i.redd.it/bxhonzmh7xy51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="Quick meeting">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
