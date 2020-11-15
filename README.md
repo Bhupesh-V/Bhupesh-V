@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>All my homies use notepad at college!</b></summary>
+<details open><summary><b>Got from friend's whatsapp status, sorry if it is a repost</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="All my homies use notepad at college!" src="https://i.redd.it/b7oa271n9ez51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jukwd7/all_my_homies_use_notepad_at_college/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Got from friend's whatsapp status, sorry if it is a repost" src="https://i.redd.it/3gi22nm1nez51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/julrx4/got_from_friends_whatsapp_status_sorry_if_it_is_a/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
