@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>HTML isn’t a programming language it is a language above all other languages</b></summary>
+<details open><summary><b>Any help how i can change this black line in white ??? I use codeblocks</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="HTML isn’t a programming language it is a language above all other languages" src="https://i.redd.it/d8o5pcwn7gz51.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/juqtzd/html_isnt_a_programming_language_it_is_a_language/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Any help how i can change this black line in white ??? I use codeblocks" src="https://i.redd.it/lrytknr4igz51.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jurvk2/any_help_how_i_can_change_this_black_line_in/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
