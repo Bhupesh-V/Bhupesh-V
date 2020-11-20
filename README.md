@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>So I've decided to learn Python</b></summary>
+<details open><summary><b>Each new GCC or Clang release we take great effort in fixing the build The Right Way</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="So I've decided to learn Python" src="https://i.redd.it/hes1kpg8t9061.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jxci3q/so_ive_decided_to_learn_python/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Each new GCC or Clang release we take great effort in fixing the build The Right Way" src="https://i.redd.it/ob9j4ejhz9061.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jxd8rl/each_new_gcc_or_clang_release_we_take_great/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
