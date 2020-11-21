@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When you reinvent the fucking wheel trying to fix a problem and then the solution was so simple this whole time</b></summary>
+<details open><summary><b>When you just feed all features in the decision tree.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When you reinvent the fucking wheel trying to fix a problem and then the solution was so simple this whole time" src="https://i.redd.it/2v9xh4vu9l061.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jya4dj/when_you_reinvent_the_fucking_wheel_trying_to_fix/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When you just feed all features in the decision tree." src="https://i.redd.it/s5ahf978il061.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jyarc1/when_you_just_feed_all_features_in_the_decision/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
