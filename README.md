@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Just found this nugget in my memory bank</b></summary>
+<details open><summary><b>Tbh idk if this belongs here but hopefully someone finds it funny :D</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Just found this nugget in my memory bank" src="https://i.redd.it/3dpk2wq5iu061.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jz21f0/just_found_this_nugget_in_my_memory_bank/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Tbh idk if this belongs here but hopefully someone finds it funny :D" src="https://i.redd.it/rl54r1tgqu061.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jz2wwd/tbh_idk_if_this_belongs_here_but_hopefully/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
