@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Excel</b></summary>
+<details open><summary><b>Took So Long To Get Working Computers</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Excel" src="https://i.redd.it/3iz5qbnw8v061.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="wizards that should really just use a database">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Took So Long To Get Working Computers" src="https://i.redd.it/lbbwjtihfv061.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jz5hr0/took_so_long_to_get_working_computers/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
