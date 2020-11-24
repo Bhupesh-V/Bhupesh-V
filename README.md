@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Yet another joke from twitter, I feel like most of the stuff on here are just tweets from that account lol</b></summary>
+<details open><summary><b>SyntaxError: invalid syntax</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Yet another joke from twitter, I feel like most of the stuff on here are just tweets from that account lol" src="https://i.redd.it/r89trfjza1161.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jzni7i/yet_another_joke_from_twitter_i_feel_like_most_of/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="SyntaxError: invalid syntax" src="https://i.redd.it/n64vk1jdc1161.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jznoal/syntaxerror_invalid_syntax/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
