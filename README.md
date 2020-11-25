@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Just a relatable comment I found on YouTube</b></summary>
+<details open><summary><b>I have a mental breakdown after reading SQL assignment teacher sent me. I don't want to ever use it again.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Just a relatable comment I found on YouTube" src="https://i.redd.it/64k911zt99161.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k0e6p5/just_a_relatable_comment_i_found_on_youtube/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I have a mental breakdown after reading SQL assignment teacher sent me. I don't want to ever use it again." src="https://i.redd.it/r1f73kd7a9161.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k0e7eq/i_have_a_mental_breakdown_after_reading_sql/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
