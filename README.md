@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Fuck boost. All my homies hate boost</b></summary>
+<details open><summary><b>For all the people who write their own SVG code, I salute you!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Fuck boost. All my homies hate boost" src="https://i.redd.it/aijbbwxnqb161.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k0m84h/fuck_boost_all_my_homies_hate_boost/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="For all the people who write their own SVG code, I salute you!" src="https://i.redd.it/hji2yfbnkc161.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k0oe2v/for_all_the_people_who_write_their_own_svg_code_i/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
