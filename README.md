@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Start them off young!</b></summary>
+<details open><summary><b>let z = (x-y).toFixed(2) //Apparently decimals are too confusing for Javascript</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Start them off young!" src="https://i.redd.it/eo9q2mv0lg161.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k11z59/start_them_off_young/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="let z = (x-y).toFixed(2) //Apparently decimals are too confusing for Javascript" src="https://i.redd.it/7ddyoantwg161.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k139r8/let_z_xytofixed2_apparently_decimals_are_too/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
