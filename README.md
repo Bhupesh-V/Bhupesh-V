@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>The perfect office dog for the IT sweat shop.</b></summary>
+<details open><summary><b>When you get tired of holding your hand up while stepping through code, waiting for one error.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The perfect office dog for the IT sweat shop." src="https://i.redd.it/to9wgxlitu161.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k2aiv2/the_perfect_office_dog_for_the_it_sweat_shop/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When you get tired of holding your hand up while stepping through code, waiting for one error." src="https://i.redd.it/27ijjx4w5v161.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k2bqdk/when_you_get_tired_of_holding_your_hand_up_while/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
