@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Don't need to learn C C++. Learn Python. It's the Future!</b></summary>
+<details open><summary><b>It would take too long to fire up the dev environment, besides I know this will fix the issue...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Don't need to learn C C++. Learn Python. It's the Future!" src="https://i.redd.it/df7r8leok2261.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k2yp56/dont_need_to_learn_c_c_learn_python_its_the_future/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="It would take too long to fire up the dev environment, besides I know this will fix the issue..." src="https://i.redd.it/f6j0jetms2261.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k2zhhq/it_would_take_too_long_to_fire_up_the_dev/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
