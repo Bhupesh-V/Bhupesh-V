@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Don't ask why it works, just be grateful.</b></summary>
+<details open><summary><b>return 'big sad' if me.tread else return 'big lad'</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Don't ask why it works, just be grateful." src="https://i.redd.it/chujmt0xr8261.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k3h0mb/dont_ask_why_it_works_just_be_grateful/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="return 'big sad' if me.tread else return 'big lad'" src="https://i.redd.it/cp0e4vest8261.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k3hgbs/return_big_sad_if_metread_else_return_big_lad/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
