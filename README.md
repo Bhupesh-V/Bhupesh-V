@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>This guy wants an app built better than google itself.</b></summary>
+<details open><summary><b>Cries</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This guy wants an app built better than google itself." src="https://i.redd.it/8l55kk6dk7261.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k3cj8p/this_guy_wants_an_app_built_better_than_google/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Cries" src="https://i.redd.it/rg9ipyhtl7261.png" height="50%"><br>
+<p><strong>ℹ️ <a href="in">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
