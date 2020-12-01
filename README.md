@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>My friend asked me to compile his code on my computer, because his compiler only returned zero when he compiled the code, I immediately found the issue...</b></summary>
+<details open><summary><b>Been a TODO for over a year. You know how it goes.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="My friend asked me to compile his code on my computer, because his compiler only returned zero when he compiled the code, I immediately found the issue..." src="https://i.redd.it/74r7iil1kj261.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k4hgjh/my_friend_asked_me_to_compile_his_code_on_my/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Been a TODO for over a year. You know how it goes." src="https://i.redd.it/yua16fznqj261.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k4hwb5/been_a_todo_for_over_a_year_you_know_how_it_goes/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
