@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I think this has been done before if so I have not seen it</b></summary>
+<details open><summary><b>Oh you know, just *slightly* irritating people with a name...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I think this has been done before if so I have not seen it" src="https://i.redd.it/cdn3hws91v261.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k5lfxa/i_think_this_has_been_done_before_if_so_i_have/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Oh you know, just *slightly* irritating people with a name..." src="https://i.redd.it/85hirbpsbv261.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k5miio/oh_you_know_just_slightly_irritating_people_with/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
