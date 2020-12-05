@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>So bad when the StackOverflow tabs on Chrome use more RAM than the IDE you’re actually using...</b></summary>
+<details open><summary><b>Me, flummoxed every night after a day of coding</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="So bad when the StackOverflow tabs on Chrome use more RAM than the IDE you’re actually using..." src="https://i.redd.it/pgfa218gp8361.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k6u7v5/so_bad_when_the_stackoverflow_tabs_on_chrome_use/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Me, flummoxed every night after a day of coding" src="https://i.redd.it/smwpkdx7v8361.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k6uu5p/me_flummoxed_every_night_after_a_day_of_coding/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
