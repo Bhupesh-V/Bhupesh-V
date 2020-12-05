@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I'm just gonna guess O(log(n)) or O(2^n)</b></summary>
+<details open><summary><b>That's how I came into programming ಥ⌣ಥ</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I'm just gonna guess O(log(n)) or O(2^n)" src="https://i.redd.it/9qk3n20o8d361.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k76zmp/im_just_gonna_guess_ologn_or_o2n/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="That's how I came into programming ಥ⌣ಥ" src="https://i.redd.it/n77oe5k78e361.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k7a6ps/thats_how_i_came_into_programming_ಥಥ/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
