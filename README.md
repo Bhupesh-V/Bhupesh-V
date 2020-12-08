@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I don’t know how to make a meme do you guys like it?</b></summary>
+<details open><summary><b>Snake charmers know, yes, I mean python coders.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I don’t know how to make a meme do you guys like it?" src="https://i.redd.it/zhxqtdl0av361.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k8ujbu/i_dont_know_how_to_make_a_meme_do_you_guys_like_it/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Snake charmers know, yes, I mean python coders." src="https://i.redd.it/xyi9aeafgw361.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k8ydw7/snake_charmers_know_yes_i_mean_python_coders/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
