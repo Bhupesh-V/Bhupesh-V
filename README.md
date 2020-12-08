@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>The ever ~lasting~ referenced battle has come to an end</b></summary>
+<details open><summary><b>How to summon the demon lord himself</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The ever ~lasting~ referenced battle has come to an end" src="https://i.redd.it/aibeke3cjt361.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k8ntzy/the_ever_lasting_referenced_battle_has_come_to_an/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="How to summon the demon lord himself" src="https://i.redd.it/azmjqso4kt361.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k8o0gz/how_to_summon_the_demon_lord_himself/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
