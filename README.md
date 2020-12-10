@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>FEAR ME YOU WEB DEVELOPMENT KIDDIES!</b></summary>
+<details open><summary><b>The grass is ##COLOUR##er on the other side</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="FEAR ME YOU WEB DEVELOPMENT KIDDIES!" src="https://i.redd.it/62l32jlcf7461.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k9xeyg/fear_me_you_web_development_kiddies/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The grass is ##COLOUR##er on the other side" src="https://i.redd.it/x6tej0g5p7461.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/k9yjtk/the_grass_is_colourer_on_the_other_side/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
