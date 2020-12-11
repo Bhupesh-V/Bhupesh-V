@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Reddit broke my heart for a few short minutes today</b></summary>
+<details open><summary><b>Behind Every Outage There's an On-Call Engineer (crying inside)</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Reddit broke my heart for a few short minutes today" src="https://i.redd.it/uq22dmgqqf461.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kap7g9/reddit_broke_my_heart_for_a_few_short_minutes/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Behind Every Outage There's an On-Call Engineer (crying inside)" src="https://i.redd.it/bz8gah1i0g461.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kaq9hq/behind_every_outage_theres_an_oncall_engineer/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
