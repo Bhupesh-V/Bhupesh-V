@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Dedicated to all my friends,who are in software development field.😉</b></summary>
+<details open><summary><b>01101000 01110100 01110100 01110000 01110011 00111010 00101111 00101111 01111001 01101111 01110101 01110100 01110101 00101110 01100010 01100101 00101111 01001111 00111001 00110001 01000100 01010100 00110001 01110000 01010010 00110001 01100101 01110111</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Dedicated to all my friends,who are in software development field.😉" src="https://i.redd.it/zpg0d2p05s461.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kbrizm/dedicated_to_all_my_friendswho_are_in_software/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="01101000 01110100 01110100 01110000 01110011 00111010 00101111 00101111 01111001 01101111 01110101 01110100 01110101 00101110 01100010 01100101 00101111 01001111 00111001 00110001 01000100 01010100 00110001 01110000 01010010 00110001 01100101 01110111" src="https://i.redd.it/eowhk6tggs461.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kbsnly/01101000_01110100_01110100_01110000_01110011/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
