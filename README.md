@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>CSS vs ROM</b></summary>
+<details open><summary><b>Loneliness, no more! The way it works is that you submit a piece of code and it makes a image out of the code for other people to see, and they can either like or swipe on your code, depending if they like it or not. https://youtu.be/bfd8RyAJh6c (Here was the demo video Ben Awad made)</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="CSS vs ROM" src="https://i.redd.it/mzk3lkmbvn461.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kbg6kv/css_vs_rom/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Loneliness, no more! The way it works is that you submit a piece of code and it makes a image out of the code for other people to see, and they can either like or swipe on your code, depending if they like it or not. https://youtu.be/bfd8RyAJh6c (Here was the demo video Ben Awad made)" src="https://i.redd.it/ue5s8ua92o461.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kbgtqs/loneliness_no_more_the_way_it_works_is_that_you/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
