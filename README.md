@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>imagine becoming a contributor for linux kernel just by adding 3 more characters</b></summary>
+<details open><summary><b>That’s weird, it actually works</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="imagine becoming a contributor for linux kernel just by adding 3 more characters" src="https://i.redd.it/fv36leqfbw461.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kc5kq1/imagine_becoming_a_contributor_for_linux_kernel/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="That’s weird, it actually works" src="https://i.redd.it/sg4jns76gw461.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kc5w34/thats_weird_it_actually_works/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
