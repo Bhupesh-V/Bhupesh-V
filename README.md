@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>This installation screen</b></summary>
+<details open><summary><b>I found a BOGO Sort I made a few years ago that tracks time and comparisons. It's set to sort a list of size 12...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This installation screen" src="https://i.redd.it/wapgjsrula561.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kdg8u9/this_installation_screen/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I found a BOGO Sort I made a few years ago that tracks time and comparisons. It's set to sort a list of size 12..." src="https://i.redd.it/exilhgqbta561.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kdgscy/i_found_a_bogo_sort_i_made_a_few_years_ago_that/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
