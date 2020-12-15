@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Inspired by the null I just ran into in the wild...</b></summary>
+<details open><summary><b>Google: An internal storage quota running out caused the outage Me:</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Inspired by the null I just ran into in the wild..." src="https://i.redd.it/dy53af6qtd561.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kdpjlt/inspired_by_the_null_i_just_ran_into_in_the_wild/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Google: An internal storage quota running out caused the outage Me:" src="https://i.redd.it/lq16b30m4e561.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kdqrwr/google_an_internal_storage_quota_running_out/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
