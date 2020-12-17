@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>This guy understands the power he possesses</b></summary>
+<details open><summary><b>I thought I was safe from this bullshit. Apparently not, <video> tag is mildly broken in Edge.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This guy understands the power he possesses" src="https://i.redd.it/d1kkya2qwl561.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kegvtj/this_guy_understands_the_power_he_possesses/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I thought I was safe from this bullshit. Apparently not, <video> tag is mildly broken in Edge." src="https://i.redd.it/gz71gntl6m561.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kej1nn/i_thought_i_was_safe_from_this_bullshit/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
