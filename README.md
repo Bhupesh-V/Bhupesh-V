@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>[OC] Avant-Board</b></summary>
+<details open><summary><b>Their weird ways..https://codegolf.stackexchange.com/questions/1956/generate-the-longest-error-message-in-c</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="[OC] Avant-Board" src="https://i.redd.it/cytzddypjp561.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ketl1o/oc_avantboard/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Their weird ways..https://codegolf.stackexchange.com/questions/1956/generate-the-longest-error-message-in-c" src="https://i.redd.it/7phqo44tkp561.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ketnn2/their_weird/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
