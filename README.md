@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Literally my most common typo</b></summary>
+<details open><summary><b>I Go To LAMda ScHooL , iM GoNNa bE a fULl stAcK DevElOper.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Literally my most common typo" src="https://i.redd.it/uoovhd1o1t561.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kf57ci/literally_my_most_common_typo/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I Go To LAMda ScHooL , iM GoNNa bE a fULl stAcK DevElOper." src="https://i.redd.it/u0sj8yr62t561.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kf59e4/i_go_to_lamda_school_im_gonna_be_a_full_stack/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
