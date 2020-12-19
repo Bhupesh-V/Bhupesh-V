@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When your food arrives between false-false</b></summary>
+<details open><summary><b>The people who claim to be contributors but they just fixed other people's grammar in the code comments.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When your food arrives between false-false" src="https://i.redd.it/7zhhpsil22661.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kfzhcr/when_your_food_arrives_between_falsefalse/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The people who claim to be contributors but they just fixed other people's grammar in the code comments." src="https://i.redd.it/grt89xetb2661.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kg0ag7/the_people_who_claim_to_be_contributors_but_they/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
