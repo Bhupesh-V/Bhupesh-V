@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Behind the scene of some Stack Overflow questions</b></summary>
+<details open><summary><b>This has probably been done before but I just found this template and thought of this</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Behind the scene of some Stack Overflow questions" src="https://i.redd.it/xkgk9dd1d9661.gif" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kgmgh0/behind_the_scene_of_some_stack_overflow_questions/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This has probably been done before but I just found this template and thought of this" src="https://i.redd.it/5rfsfiexw9661.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kgnxyc/this_has_probably_been_done_before_but_i_just/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
