@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Thanks for your joke review... Will fix it.</b></summary>
+<details open><summary><b>What’s the order of complexity of this production code? I need a drink first!!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Thanks for your joke review... Will fix it." src="https://i.redd.it/srgrzg87q6661.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kgcwyt/thanks_for_your_joke_review_will_fix_it/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="What’s the order of complexity of this production code? I need a drink first!!" src="https://i.redd.it/v9qqlk7aw6661.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kgdnal/whats_the_order_of_complexity_of_this_production/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
