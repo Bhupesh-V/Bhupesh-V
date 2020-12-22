@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>And then I solve them in the shower</b></summary>
+<details open><summary><b>Programmer Pain Chart, by Ruby community legend Why the Lucky Stiff.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="And then I solve them in the shower" src="https://i.redd.it/8f6vnnd55m661.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/khrf15/and_then_i_solve_them_in_the_shower/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Programmer Pain Chart, by Ruby community legend Why the Lucky Stiff." src="https://i.redd.it/0wo3yt49em661.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/khsfw6/programmer_pain_chart_by_ruby_community_legend/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
