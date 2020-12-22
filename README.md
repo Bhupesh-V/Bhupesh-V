@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Programmer Pain Chart, by Ruby community legend Why the Lucky Stiff.</b></summary>
+<details open><summary><b>Rust is my jam but I have to write C. Send help.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Programmer Pain Chart, by Ruby community legend Why the Lucky Stiff." src="https://i.redd.it/0wo3yt49em661.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/khsfw6/programmer_pain_chart_by_ruby_community_legend/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Rust is my jam but I have to write C. Send help." src="https://i.redd.it/3lidxjswem661.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/khsjyd/rust_is_my_jam_but_i_have_to_write_c_send_help/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
