@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Me on this sub as a CorelDRAW VBA macro maker (reddit massacred the video version)</b></summary>
+<details open><summary><b>A Programmer's Wish</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Me on this sub as a CorelDRAW VBA macro maker (reddit massacred the video version)" src="https://i.redd.it/ip8kgv5dtw661.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kiqdag/me_on_this_sub_as_a_coreldraw_vba_macro_maker/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="A Programmer's Wish" src="https://i.redd.it/hdjaw6geyw661.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kiqp71/a_programmers_wish/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
