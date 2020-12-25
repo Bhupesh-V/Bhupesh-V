@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>What do you mean I need to finish projects before I start new ones?</b></summary>
+<details open><summary><b>It honesty be like that; best part is when it displays the wrong number and you have to spend 3 hours figuring out why</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="What do you mean I need to finish projects before I start new ones?" src="https://i.redd.it/zugo3e97p6761.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kjkyal/what_do_you_mean_i_need_to_finish_projects_before/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="It honesty be like that; best part is when it displays the wrong number and you have to spend 3 hours figuring out why" src="https://i.redd.it/kllbf422s6761.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kjl78h/it_honesty_be_like_that_best_part_is_when_it/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
