@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>What do you mean I need to finish projects before I start new ones?</b></summary>
+<details open><summary><b>This is how our government operates</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="What do you mean I need to finish projects before I start new ones?" src="https://i.redd.it/zugo3e97p6761.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kjkyal/what_do_you_mean_i_need_to_finish_projects_before/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This is how our government operates" src="https://i.redd.it/bigahsd1z6761.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kjlvem/this_is_how_our_government_operates/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
