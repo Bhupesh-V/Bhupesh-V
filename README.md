@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When you commit lorem ipsum to production</b></summary>
+<details open><summary><b>Help, I accidentally opened Vim, what do I do now?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When you commit lorem ipsum to production" src="https://i.redd.it/oei67ueopk761.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kkn2od/when_you_commit_lorem_ipsum_to_production/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Help, I accidentally opened Vim, what do I do now?" src="https://i.redd.it/d9nm7qcavk761.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kknloc/help_i_accidentally_opened_vim_what_do_i_do_now/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
