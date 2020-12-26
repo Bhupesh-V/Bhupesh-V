@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>First language I learned was Java and it was also source of my nightmares</b></summary>
+<details open><summary><b>Who actually uses a debugger anyways ?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="First language I learned was Java and it was also source of my nightmares" src="https://i.redd.it/hy2egnhd6i761.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kkg38z/first_language_i_learned_was_java_and_it_was_also/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Who actually uses a debugger anyways ?" src="https://i.redd.it/an6kr96taj761.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kkio41/who_actually_uses_a_debugger_anyways/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
