@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Did you know the zucc wrote the GraphQL docs himself? A bit sus if you ask me</b></summary>
+<details open><summary><b>Another option for the Upvote button</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Did you know the zucc wrote the GraphQL docs himself? A bit sus if you ask me" src="https://i.redd.it/8h4ir48que761.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kk7eae/did_you_know_the_zucc_wrote_the_graphql_docs/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Another option for the Upvote button" src="https://i.redd.it/xuljnec5ze761.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kk7u3e/another_option_for_the_upvote_button/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
