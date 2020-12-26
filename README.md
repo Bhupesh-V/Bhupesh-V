@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Help, I accidentally opened Vim, what do I do now?</b></summary>
+<details open><summary><b>Looked back on code from nearly two years ago today and laughed for a solid minute...There was easily 200 lines like this</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Help, I accidentally opened Vim, what do I do now?" src="https://i.redd.it/d9nm7qcavk761.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kknloc/help_i_accidentally_opened_vim_what_do_i_do_now/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Looked back on code from nearly two years ago today and laughed for a solid minute...There was easily 200 lines like this" src="https://i.redd.it/bxi5z7dwvk761.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kkno5i/looked_back_on_code_from_nearly_two_years_ago/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
