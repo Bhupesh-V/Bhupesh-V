@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>He will suffer from hair loss very soon...</b></summary>
+<details open><summary><b>One book to bring them all and in the darkness bind them</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="He will suffer from hair loss very soon..." src="https://i.redd.it/k0uk6sx88r761.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kl66s7/he_will_suffer_from_hair_loss_very_soon/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="One book to bring them all and in the darkness bind them" src="https://i.redd.it/ggbugtnvfr761.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kl71mh/one_book_to_bring_them_all_and_in_the_darkness/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
