@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Interesting reaction, but who asked?</b></summary>
+<details open><summary><b>[OC] This is probably 20 minutes of my life that I'm not getting back...but it was worth it.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Interesting reaction, but who asked?" src="https://i.redd.it/g5tkxtixey761.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/klthsm/interesting_reaction_but_who_asked/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="[OC] This is probably 20 minutes of my life that I'm not getting back...but it was worth it." src="https://i.redd.it/71v0p2aaky761.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/klu246/oc_this_is_probably_20_minutes_of_my_life_that_im/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
