@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Command Communicate_with_mom has failed</b></summary>
+<details open><summary><b>When Reddit gives a task to a lazy programmer, who tasks it to a lazy AI, who tasks it to the users</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Command Communicate_with_mom has failed" src="https://i.redd.it/3medaudck0861.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/km1xr7/command_communicate_with_mom_has_failed/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When Reddit gives a task to a lazy programmer, who tasks it to a lazy AI, who tasks it to the users" src="https://i.redd.it/x0591soir0861.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/km2od0/when_reddit_gives_a_task_to_a_lazy_programmer_who/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
