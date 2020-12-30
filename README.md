@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Lets confuse new programmers by posting good code practices</b></summary>
+<details open><summary><b>You don't even use a semicolon at the end of a line ffs. Also slow AF</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Lets confuse new programmers by posting good code practices" src="https://i.redd.it/8ry3esogpb861.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kn1yqo/lets_confuse_new_programmers_by_posting_good_code/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="You don't even use a semicolon at the end of a line ffs. Also slow AF" src="https://i.redd.it/hfbogf5stc861.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kn5t5d/you_dont_even_use_a_semicolon_at_the_end_of_a/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
