@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>This was supposed to be production level code. It's not even a lot of small bugs, just things that are flat out wrong</b></summary>
+<details open><summary><b>Yet another 2020 bugged up meme</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This was supposed to be production level code. It's not even a lot of small bugs, just things that are flat out wrong" src="https://i.redd.it/rg7ff5rf6e861.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/knb7o6/this_was_supposed_to_be_production_level_code_its/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Yet another 2020 bugged up meme" src="https://i.redd.it/5efzrce19e861.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/knbh0x/yet_another_2020_bugged_up_meme/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
