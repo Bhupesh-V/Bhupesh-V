@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Rupi Kaur does Machine Learning</b></summary>
+<details open><summary><b>How likely are you to recommend Docker to a friend?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Rupi Kaur does Machine Learning" src="https://i.redd.it/7jkw658u5p861.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ko946u/rupi_kaur_does_machine_learning/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="How likely are you to recommend Docker to a friend?" src="https://i.redd.it/zqb2a6mv4he11.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ko95vl/how_likely_are_you_to_recommend_docker_to_a_friend/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
