@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>My colleague after doing a bad roll-out to production</b></summary>
+<details open><summary><b>It was really a surprising feature when I learned JavaScript after learning C++</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="My colleague after doing a bad roll-out to production" src="https://i.redd.it/qhkyb65nfq861.gif" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/koc952/my_colleague_after_doing_a_bad_rollout_to/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="It was really a surprising feature when I learned JavaScript after learning C++" src="https://i.redd.it/lb2taf27xq861.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kodtx1/it_was_really_a_surprising_feature_when_i_learned/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
