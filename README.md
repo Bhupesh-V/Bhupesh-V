@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>C++ developers when their thousand line code is .3 seconds faster than 10 line python code</b></summary>
+<details open><summary><b>Marriage is the biggest programming event 💡</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="C++ developers when their thousand line code is .3 seconds faster than 10 line python code" src="https://i.redd.it/eszubgah3u861.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kopank/c_developers_when_their_thousand_line_code_is_3/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Marriage is the biggest programming event 💡" src="https://i.redd.it/54w0mhs45u861.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kopg9w/marriage_is_the_biggest_programming_event/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
