@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Brainstorming ID generation algorithms on the 4X</b></summary>
+<details open><summary><b>C++ developers when their thousand line code is .3 seconds faster than 10 line python code</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Brainstorming ID generation algorithms on the 4X" src="https://i.redd.it/1yzz8ei33u861.png" height="50%"><br>
-<p><strong>ℹ️ <a href="Gaming discord server. We got a bit *too* creative...">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="C++ developers when their thousand line code is .3 seconds faster than 10 line python code" src="https://i.redd.it/eszubgah3u861.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kopank/c_developers_when_their_thousand_line_code_is_3/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
