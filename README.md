@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>*Proceeds to spend a month on a game you end up giving up on*</b></summary>
+<details open><summary><b>There not that bad but still (Mainly unity rotation)</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="*Proceeds to spend a month on a game you end up giving up on*" src="https://i.redd.it/ojw1jl6asd961.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kqi1ak/proceeds_to_spend_a_month_on_a_game_you_end_up/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="There not that bad but still (Mainly unity rotation)" src="https://i.redd.it/61e6uvlh3e961.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kqjdif/there_not_that_bad_but_still_mainly_unity_rotation/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
