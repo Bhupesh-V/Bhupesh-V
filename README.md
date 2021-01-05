@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Every beginner C++ course on the internet be like</b></summary>
+<details open><summary><b>*Proceeds to spend a month on a game you end up giving up on*</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Every beginner C++ course on the internet be like" src="https://i.redd.it/4xwv1ld3ld961.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kqhse5/every_beginner_c_course_on_the_internet_be_like/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="*Proceeds to spend a month on a game you end up giving up on*" src="https://i.redd.it/ojw1jl6asd961.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kqi1ak/proceeds_to_spend_a_month_on_a_game_you_end_up/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
