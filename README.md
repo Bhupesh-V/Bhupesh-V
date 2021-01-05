@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Me, a PM: where's that react feature you promised me today? FE Eng:</b></summary>
+<details open><summary><b>I think that's the only thing both can relate.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Me, a PM: where's that react feature you promised me today? FE Eng:" src="https://i.redd.it/vhj0s9q36h961.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kqu6kf/me_a_pm_wheres_that_react_feature_you_promised_me/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I think that's the only thing both can relate." src="https://i.redd.it/30kg6wtlih961.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kqv6sv/i_think_thats_the_only_thing_both_can_relate/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
