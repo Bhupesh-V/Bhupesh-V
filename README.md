@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Opening cmd prompt in childhood is aesthetically impressive enough for asian parents who studied Arts</b></summary>
+<details open><summary><b>The workout..</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Opening cmd prompt in childhood is aesthetically impressive enough for asian parents who studied Arts" src="https://i.redd.it/t5skfwgrsx961.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ksgqiz/opening_cmd_prompt_in_childhood_is_aesthetically/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The workout.." src="https://i.redd.it/3mbo4s200y961.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kshm2c/the_workout/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
