@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>quite proud of this pun tbh</b></summary>
+<details open><summary><b>Opening cmd prompt in childhood is aesthetically impressive enough for asian parents who studied Arts</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="quite proud of this pun tbh" src="https://i.redd.it/ce54bpwzhx961.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ksfheu/quite_proud_of_this_pun_tbh/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Opening cmd prompt in childhood is aesthetically impressive enough for asian parents who studied Arts" src="https://i.redd.it/t5skfwgrsx961.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ksgqiz/opening_cmd_prompt_in_childhood_is_aesthetically/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
