@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When Newbie Wrtites It's First Logic And Professor Checks it !! Lol !! 🤣😂</b></summary>
+<details open><summary><b>Fixed this meme, but not the code :(</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When Newbie Wrtites It's First Logic And Professor Checks it !! Lol !! 🤣😂" src="https://i.redd.it/zd0ymxx5y0a61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kstnbh/when_newbie_wrtites_its_first_logic_and_professor/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Fixed this meme, but not the code :(" src="https://i.redd.it/xn7in6vnp1a61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ksw6j3/fixed_this_meme_but_not_the_code/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
