@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Found this in ex colleague's code who recently got fired. He made variable for space and used it randomly through out the project.</b></summary>
+<details open><summary><b>At my home, everybody's Working From HOME.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Found this in ex colleague's code who recently got fired. He made variable for space and used it randomly through out the project." src="https://i.redd.it/9ip1noa1j8a61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ktjxis/found_this_in_ex_colleagues_code_who_recently_got/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="At my home, everybody's Working From HOME." src="https://i.redd.it/7lxv294at8a61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ktkte8/at_my_home_everybodys_working_from_home/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
