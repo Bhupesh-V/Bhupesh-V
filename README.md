@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>They should pay me more then</b></summary>
+<details open><summary><b>Yeah. That's full stack Laravel developer for 0-00 per MONTH. LMAO.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="They should pay me more then" src="https://i.redd.it/dmdym2sxaca61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ktuuvj/they_should_pay_me_more_then/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Yeah. That's full stack Laravel developer for 0-00 per MONTH. LMAO." src="https://i.redd.it/kdklpoa9bca61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ktuwsf/yeah_thats_full_stack_laravel_developer_for_50100/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
