@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Our discord bot developer realising the folly of his craft</b></summary>
+<details open><summary><b>Made me completely stop asking for help because this has happened so many Times</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Our discord bot developer realising the folly of his craft" src="https://i.redd.it/mgwqpc6lyka61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kuolh9/our_discord_bot_developer_realising_the_folly_of/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Made me completely stop asking for help because this has happened so many Times" src="https://i.redd.it/a98f42fcqla61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kurji6/made_me_completely_stop_asking_for_help_because/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
