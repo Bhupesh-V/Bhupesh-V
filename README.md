@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>No wonder there’s an error... in S1E6 of Silicon Valley, Richard is writing Python code in a Java file.</b></summary>
+<details open><summary><b>echo upvote > post.txt</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="No wonder there’s an error... in S1E6 of Silicon Valley, Richard is writing Python code in a Java file." src="https://i.redd.it/p1jxn0goiua61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kvm8bc/no_wonder_theres_an_error_in_s1e6_of_silicon/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="echo upvote > post.txt" src="https://i.redd.it/xzzympl5cva61.gif" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kvoat1/echo_upvote_posttxt/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
