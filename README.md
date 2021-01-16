@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>If you have ever worked with FB pixels or business manager, this is what it feels like when you read their documentation or ask for help.</b></summary>
+<details open><summary><b>Talking about a different karma..Not the Reddit one</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="If you have ever worked with FB pixels or business manager, this is what it feels like when you read their documentation or ask for help." src="https://i.redd.it/098nmfa3ijb61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ky0mfo/if_you_have_ever_worked_with_fb_pixels_or/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Talking about a different karma..Not the Reddit one" src="https://i.redd.it/corm2e4xsjb61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ky1wl9/talking_about_a_different_karmanot_the_reddit_one/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
