@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>swift uses let for constant :) unlike JS :(</b></summary>
+<details open><summary><b>I know they're the same, but one is objectively more horrifying</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="swift uses let for constant :) unlike JS :(" src="https://i.redd.it/nh7pe3anrwb61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kz7ztn/swift_uses_let_for_constant_unlike_js/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I know they're the same, but one is objectively more horrifying" src="https://i.redd.it/fmi9uxcxzwb61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/kz8u32/i_know_theyre_the_same_but_one_is_objectively/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
