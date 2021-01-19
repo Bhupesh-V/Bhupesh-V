@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Have you ever been CTO’zoned 😂</b></summary>
+<details open><summary><b>When you forget to remove the debug statements before pushing onto the production server.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Have you ever been CTO’zoned 😂" src="https://i.redd.it/9u8w6kl65cc61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l0qd8d/have_you_ever_been_ctozoned/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When you forget to remove the debug statements before pushing onto the production server." src="https://i.redd.it/b107csxckcc61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l0s780/when_you_forget_to_remove_the_debug_statements/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
