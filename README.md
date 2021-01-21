@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>My friend sent me this and I thought it belonged here.</b></summary>
+<details open><summary><b>Need to crosspost to r/suddenlygay... and polish my resume, *sigh*</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="My friend sent me this and I thought it belonged here." src="https://i.redd.it/khhqrb1ywlc61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l1q7cw/my_friend_sent_me_this_and_i_thought_it_belonged/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Need to crosspost to r/suddenlygay... and polish my resume, *sigh*" src="https://i.redd.it/namt4aa38mc61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l1r90a/need_to_crosspost_to_rsuddenlygay_and_polish_my/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
