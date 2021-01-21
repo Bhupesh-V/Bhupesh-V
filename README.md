@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>In case you don't understand what Responsive Webpage is</b></summary>
+<details open><summary><b>Do you want to use Alexa for videocalls via pc? -Yes or -Yes</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="In case you don't understand what Responsive Webpage is" src="https://i.redd.it/qe0o9bwu4nc61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l1tv1u/in_case_you_dont_understand_what_responsive/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Do you want to use Alexa for videocalls via pc? -Yes or -Yes" src="https://i.redd.it/y6akb7gnsnc61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l1vkzp/do_you_want_to_use_alexa_for_videocalls_via_pc/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
