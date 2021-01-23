@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>To reproduce the bug lock the computer, place the keyboard on a chair and sit on it.</b></summary>
+<details open><summary><b>Maybe because is a cursed language created in the abyss of hell</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="To reproduce the bug lock the computer, place the keyboard on a chair and sit on it." src="https://i.redd.it/v8sql8eunyc61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l2yve6/to_reproduce_the_bug_lock_the_computer_place_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Maybe because is a cursed language created in the abyss of hell" src="https://i.redd.it/8w828q90ryc61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l2z77h/maybe_because_is_a_cursed_language_created_in_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
