@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>The Four Abrahamic Religions (from the wikipedia article Alpha</b></summary>
+<details open><summary><b>I am speed</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The Four Abrahamic Religions (from the wikipedia article Alpha" src="https://i.redd.it/8h72ucdez9d61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="and">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I am speed" src="https://i.redd.it/sumdlcf4dad61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l3zvq2/i_am_speed/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
