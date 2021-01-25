@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Javascript, R U OK?</b></summary>
+<details open><summary><b>I don't know what this even is anymore...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Javascript, R U OK?" src="https://i.redd.it/tkz5rapb2cd61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l462cw/javascript_r_u_ok/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I don't know what this even is anymore..." src="https://i.redd.it/gx0xnq6odcd61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l476x8/i_dont_know_what_this_even_is_anymore/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
