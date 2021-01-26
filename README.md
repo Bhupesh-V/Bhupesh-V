@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>when it finally works and you don't have to worry about it for the next week or so</b></summary>
+<details open><summary><b>When you don’t have 45 years of experience with JavaScript</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="when it finally works and you don't have to worry about it for the next week or so" src="https://i.redd.it/xqwscemgwnd61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l5c633/when_it_finally_works_and_you_dont_have_to_worry/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When you don’t have 45 years of experience with JavaScript" src="https://i.redd.it/hqwucy935od61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l5ctxm/when_you_dont_have_45_years_of_experience_with/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
