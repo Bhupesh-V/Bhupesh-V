@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Brought to you by 100% coverage gang</b></summary>
+<details open><summary><b>There comes a point during every class where I lose track of reality beyond memes. Today it was my object-oriented programming class.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Brought to you by 100% coverage gang" src="https://i.redd.it/uyd3zn7ctqd61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l5nw1h/brought_to_you_by_100_coverage_gang/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="There comes a point during every class where I lose track of reality beyond memes. Today it was my object-oriented programming class." src="https://i.redd.it/ead7kkqg1rd61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l5oxgl/there_comes_a_point_during_every_class_where_i/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
