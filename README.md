@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Don't know how to solve the problem, ask on Stack Overfow</b></summary>
+<details open><summary><b>Is it okay to optimize after 5 minutes? [OC]</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Don't know how to solve the problem, ask on Stack Overfow" src="https://i.redd.it/ix95u2f1e4e61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l756fk/dont_know_how_to_solve_the_problem_ask_on_stack/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Is it okay to optimize after 5 minutes? [OC]" src="https://i.redd.it/0xpt4j04e4e61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l756tj/is_it_okay_to_optimize_after_5_minutes_oc/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
