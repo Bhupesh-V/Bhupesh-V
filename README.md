@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When the AI in a video game is a little too good...</b></summary>
+<details open><summary><b>So I Time Traveled, not quite a month, but it's a start.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When the AI in a video game is a little too good..." src="https://i.redd.it/0o9k7v60s6e61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l7h5qk/when_the_ai_in_a_video_game_is_a_little_too_good/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="So I Time Traveled, not quite a month, but it's a start." src="https://i.redd.it/jkf71a6dn7e61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l7kttk/so_i_time_traveled_not_quite_a_month_but_its_a/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
