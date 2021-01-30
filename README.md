@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When you learn how to use your pinky finger correctly</b></summary>
+<details open><summary><b>The more I dive into coding the more I realize that this was never a joke!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When you learn how to use your pinky finger correctly" src="https://i.redd.it/qo746k96mee61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l8elyy/when_you_learn_how_to_use_your_pinky_finger/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The more I dive into coding the more I realize that this was never a joke!" src="https://i.redd.it/hlgkmoxvxee61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l8fndw/the_more_i_dive_into_coding_the_more_i_realize/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
