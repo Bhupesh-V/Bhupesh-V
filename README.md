@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>If you junior code like this, what would you do? This already gave me anxiety and triggered my OCD.</b></summary>
+<details open><summary><b>You can't break what's already broken</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="If you junior code like this, what would you do? This already gave me anxiety and triggered my OCD." src="https://i.redd.it/kd7h4jcmfie61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l8rm8l/if_you_junior_code_like_this_what_would_you_do/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="You can't break what's already broken" src="https://i.redd.it/iij16swxjie61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/l8s7y9/you_cant_break_whats_already_broken/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
