@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Okay, other than companies which must be seen to be following the law, has anyone actually ever purchased WinRAR? How are they still in business?</b></summary>
+<details open><summary><b>Meme: Doing a code review</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Okay, other than companies which must be seen to be following the law, has anyone actually ever purchased WinRAR? How are they still in business?" src="https://i.redd.it/hrogblmbi8f61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lbk7g4/okay_other_than_companies_which_must_be_seen_to/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Meme: Doing a code review" src="https://i.redd.it/ax9c8oakm9f61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lbnmy1/meme_doing_a_code_review/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
