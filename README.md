@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>This happened to me while coding, and I thought it was funny</b></summary>
+<details open><summary><b>Trying random stuff for 2 hours instead of reading the documentation be like</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This happened to me while coding, and I thought it was funny" src="https://i.redd.it/af3a8taap6f61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lbeqy2/this_happened_to_me_while_coding_and_i_thought_it/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Trying random stuff for 2 hours instead of reading the documentation be like" src="https://i.redd.it/hbbfxuzx77f61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lbgkg7/trying_random_stuff_for_2_hours_instead_of/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
