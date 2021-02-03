@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Oh don’t mind me, just here on my phone takin some notes</b></summary>
+<details open><summary><b>Friend of mine from college got a job with a Fortune 500, I got a job at a startup.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Oh don’t mind me, just here on my phone takin some notes" src="https://i.redd.it/1wc7sbwcs7f61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lbi9bp/oh_dont_mind_me_just_here_on_my_phone_takin_some/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Friend of mine from college got a job with a Fortune 500, I got a job at a startup." src="https://i.redd.it/cmd1hqt5ivqz.jpg/" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lbiy2v/friend_of_mine_from_college_got_a_job_with_a/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
