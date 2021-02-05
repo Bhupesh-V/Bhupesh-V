@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I didn't think posting a question on stack overflow could actually work this time</b></summary>
+<details open><summary><b>Lads we dun goofed, wrong QT</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I didn't think posting a question on stack overflow could actually work this time" src="https://i.redd.it/4hbn9j1q4nf61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ld4v5c/i_didnt_think_posting_a_question_on_stack/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Lads we dun goofed, wrong QT" src="https://i.redd.it/krspbvacfnf61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ld5rlg/lads_we_dun_goofed_wrong_qt/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
