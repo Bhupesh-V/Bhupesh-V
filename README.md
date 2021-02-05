@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I cannot believe this :O a whole 7000 computer codes</b></summary>
+<details open><summary><b>Warhammer 3 added Unix as a faction</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I cannot believe this :O a whole 7000 computer codes" src="https://i.redd.it/ab054e97aif61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lcmnrg/i_cannot_believe_this_o_a_whole_7000_computer/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Warhammer 3 added Unix as a faction" src="https://i.redd.it/9fkfgafskif61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lco584/warhammer_3_added_unix_as_a_faction/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
