@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>This subreddit is in control of the same moderators that control 92 of the top 500 of all subreddits which is scary at least</b></summary>
+<details open><summary><b>one of these things is not like the others</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This subreddit is in control of the same moderators that control 92 of the top 500 of all subreddits which is scary at least" src="https://i.redd.it/eyfs84xe7pf61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ldczar/this_subreddit_is_in_control_of_the_same/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="one of these things is not like the others" src="https://i.redd.it/l62p25rhapf61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lddell/one_of_these_things_is_not_like_the_others/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
