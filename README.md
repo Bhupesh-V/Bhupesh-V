@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>This is Eugen Stepanovich Kobytev. On the left is the day he started working as a programmer. On the right is one year later.</b></summary>
+<details open><summary><b>Not safe for work</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This is Eugen Stepanovich Kobytev. On the left is the day he started working as a programmer. On the right is one year later." src="https://i.redd.it/flmk5q3hlag61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lfhi2z/this_is_eugen_stepanovich_kobytev_on_the_left_is/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Not safe for work" src="https://i.redd.it/oz0a4repvag61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lfiruu/not_safe_for_work/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
