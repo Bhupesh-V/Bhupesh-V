@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Draw binary search on the whiteboard? My Udemy courses didn't cover that!</b></summary>
+<details open><summary><b>The early 2000s was a weird time</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Draw binary search on the whiteboard? My Udemy courses didn't cover that!" src="https://i.redd.it/r2vt8zhlaag61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lfg30v/draw_binary_search_on_the_whiteboard_my_udemy/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The early 2000s was a weird time" src="https://i.redd.it/4oyiazkrkag61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lfhdmj/the_early_2000s_was_a_weird_time/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
