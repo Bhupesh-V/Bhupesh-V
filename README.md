@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>haha TOR go brrrrrrrrr</b></summary>
+<details open><summary><b>I hate when the docs let</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="haha TOR go brrrrrrrrr" src="https://i.redd.it/yose7ntjxcg61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lfrnqs/haha_tor_go_brrrrrrrrr/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I hate when the docs let" src="https://i.redd.it/mmj4727x9dg61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="me">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
