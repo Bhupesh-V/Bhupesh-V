@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>my argument as an experienced developer when one of my code-newbie friends who took a php course is trying to convince me why he thinks php is still in high demand in the high tech industry and that people are actively choosing to develop new systems with php</b></summary>
+<details open><summary><b>I was reading about the GNU Project and I thought this detail was mildly funny</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="my argument as an experienced developer when one of my code-newbie friends who took a php course is trying to convince me why he thinks php is still in high demand in the high tech industry and that people are actively choosing to develop new systems with php" src="https://i.redd.it/kol4y8j7sbg61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lfmych/my_argument_as_an_experienced_developer_when_one/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I was reading about the GNU Project and I thought this detail was mildly funny" src="https://i.redd.it/w52n0q5ytbg61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lfn66j/i_was_reading_about_the_gnu_project_and_i_thought/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
