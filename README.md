@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>The recipe for success: easy-to-use UI + AI</b></summary>
+<details open><summary><b>DrKLO's commit history, the once sole developer of Telegram App</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The recipe for success: easy-to-use UI + AI" src="https://i.redd.it/e7dyw1br7ig61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lgbcp2/the_recipe_for_success_easytouse_ui_ai/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="DrKLO's commit history, the once sole developer of Telegram App" src="https://i.redd.it/e40dx9dflig61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lgd6yu/drklos_commit_history_the_once_sole_developer_of/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
