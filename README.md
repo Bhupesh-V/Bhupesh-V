@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Fixed an issue ..., Fixed an issue ...</b></summary>
+<details open><summary><b>This site makes fake discord embeds to rickroll</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Fixed an issue ..., Fixed an issue ..." src="https://i.redd.it/zd9mw5rw54h61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lil2yy/fixed_an_issue_fixed_an_issue/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This site makes fake discord embeds to rickroll" src="https://i.redd.it/xmci3xtj94h61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lililg/this_site_makes_fake_discord_embeds_to_rickroll/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
