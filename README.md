@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Why is regex so annoying and hard everytime 🤯</b></summary>
+<details open><summary><b>What devs will do out of spite if product acts like the spec is perfect</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Why is regex so annoying and hard everytime 🤯" src="https://i.redd.it/tjl199thkhh61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lju1i3/why_is_regex_so_annoying_and_hard_everytime/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="What devs will do out of spite if product acts like the spec is perfect" src="https://i.redd.it/iy1ibuuwuhh61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ljv9uz/what_devs_will_do_out_of_spite_if_product_acts/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
