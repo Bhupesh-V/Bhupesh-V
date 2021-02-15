@@ -1,4 +1,5 @@
 
+
 <img align="left" src="https://gist.github.com/Bhupesh-V/0246a3f681d2533d21efb1206d1ba9d4/raw/af7d53bfdbf30f725ef7ade206200086820739fd/AboutMe.gif" height="100px"> 
 <div>
   <h3 align="right">wassup nerds 🖖</h3>
@@ -49,10 +50,10 @@
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
-            <li><a href="https://bhupesh-v.github.io/story-behind-my-first-ever-pull-request/">Story behind my first ever pull request</a></li>
-            <li><a href="https://www.freecodecamp.org/news/design-a-key-value-store-in-go/">How to Design a Transactional Key-value Store in Go</a></li>
-            <li><a href="https://bhupesh-v.github.io/creating-a-smart-alternative-to-cd/">Creating a smart alternative to 'cd' command</a></li>
-            <li><a href="https://www.freecodecamp.org/news/build-your-own-dotfiles-manager-from-scratch/">How to Build Your Own Linux Dotfiles Manager from Scratch</a></li>
+            <li><a href="https://bhupesh-v.github.io/learn-how-to-use-code-snippets-vim-cowboy/">How to use code snippets in Vim like a cowboy 🤠️</a></li>
+            <li><a href="https://bhupesh-v.github.io/debugging-golang-vim-neovim">Debugging Go in Vim</a></li>
+            <li><a href="https://bhupesh-v.github.io/what-i-have-learned-from-blogging-so-far-retrospect//">What I have learned from blogging so far - A retrospect</a></li>
+            <li><a href="https://bhupesh-v.github.io/git-cake-when-is-my-readme-birthday/">git cake: when is my README's birthday?</a></li>
           </ul>
       </td>
       <td valign="top" width="50%"><b>TIL</b>
@@ -66,16 +67,15 @@
     </tr>
   </table>
 </details>
-
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Artificial Intelligence Building Future!</b></summary>
+<details open><summary><b>Who the heck coded it like that !! oh wait a sec ...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Artificial Intelligence Building Future!" src="https://i.redd.it/zcfg5brvimh61.gif" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lkbjds/artificial_intelligence_building_future/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Who the heck coded it like that !! oh wait a sec ..." src="https://i.redd.it/8btnuqybhmh61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lkbqbd/who_the_heck_coded_it_like_that_oh_wait_a_sec/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
@@ -93,11 +93,6 @@
 ### ☺️ Support
 If you like my work, consider supporting me
 
-<a href="https://liberapay.com/bhupesh/donate">
-  <img title="librepay/bhupesh" alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" width="100">
-</a>
-<a href="https://ko-fi.com/bhupesh">
-  <img title="ko-fi/bhupesh" alt="Support on ko-fi" src="https://user-images.githubusercontent.com/34342551/88784787-12507980-d1ae-11ea-82fe-f55753340168.png" width="185">
-</a>
+[**PayPal**](https://paypal.me/BhupeshVarshney) | [**ko-fi**](https://ko-fi.com/bhupesh)
 
 ---
