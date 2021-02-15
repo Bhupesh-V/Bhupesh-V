@@ -69,13 +69,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>We wouldn't see shit around us if the sky was like this</b></summary>
+<details open><summary><b>Getting my daughter to learn the basics while changing her</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="We wouldn't see shit around us if the sky was like this" src="https://i.redd.it/v85vw1fe6kh61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lk4cmt/we_wouldnt_see_shit_around_us_if_the_sky_was_like/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Getting my daughter to learn the basics while changing her" src="https://i.redd.it/pp9vs03yglh61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lk8jun/getting_my_daughter_to_learn_the_basics_while/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
