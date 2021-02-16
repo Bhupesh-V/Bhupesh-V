@@ -44,16 +44,28 @@
   </table>
 </details>
 
+
+### Today's Meme ٩(^‿^)۶
+
+<details open><summary><b>Segmentation fault (core dumped)</b></summary>
+
+<table>
+<tr>
+<th valign="top" width="50%">
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Segmentation fault (core dumped)" src="https://i.redd.it/qjk7kysycth61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ll0t30/segmentation_fault_core_dumped/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+</th>
+</tr>
+</table>
+</details>
+
 <details open>
   <summary>✒️ Writeups ✒️</summary>
   <table>
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
-          <ul>
-            <li><a href="https://bhupesh-v.github.io/learn-how-to-use-code-snippets-vim-cowboy/">How to use code snippets in Vim like a cowboy 🤠️</a></li>
-            <li><a href="https://bhupesh-v.github.io/debugging-golang-vim-neovim">Debugging Go in Vim</a></li>
-            <li><a href="https://bhupesh-v.github.io/what-i-have-learned-from-blogging-so-far-retrospect//">What I have learned from blogging so far - A retrospect</a></li>
-            <li><a href="https://bhupesh-v.github.io/git-cake-when-is-my-readme-birthday/">git cake: when is my README's birthday?</a></li>
+          <ul> 
+<li><a title="Its time to increase your horsepower and write code faster than before. In this tutorial I will cover how to setup and use code-snippets in Vim or NeoVim for Go, Python, Bash and Markdown (since I deal with them everyday)" href="https://bhupesh-v.github.io/learn-how-to-use-code-snippets-vim-cowboy">How to use code snippets in Vim like a cowboy 🤠️</a></li><li><a title="Converting videos to GIFs using ffmpeg is a pain in the ass if you don’t know what’s happening. GIF size getting 10x the size of original video ? Don’t worry, I got you!" href="https://bhupesh-v.github.io/convert-videos-high-quality-gif-ffmpeg">Converting video to high-quality gif using ffmpeg</a></li><li><a title="Using make in Vim/NeoVim can be a handy utility if you want to quickly build, run &amp; debug programs. The make command is governed by the program set in makeprg." href="https://bhupesh-v.github.io/debugging-golang-vim-neovim">Debugging Go in Vim</a></li><li><a title="Apart from not loading shit ton of plugins, there are some other tricks that can be used to make Vim more faster:" href="https://bhupesh-v.github.io/how-to-make-vim-faster">How to make Vim faster ⚡️</a></li>
           </ul>
       </td>
       <td valign="top" width="50%"><b>TIL</b>
@@ -66,19 +78,6 @@
       </td>
     </tr>
   </table>
-</details>
-### Today's Meme ٩(^‿^)۶
-
-<details open><summary><b>Yeah, not wrong</b></summary>
-
-<table>
-<tr>
-<th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Yeah, not wrong" src="https://i.redd.it/icjqzrhckph61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lkngq5/yeah_not_wrong/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
-</th>
-</tr>
-</table>
 </details>
 
 ### What is Bhupesh upto nowadays 👀
