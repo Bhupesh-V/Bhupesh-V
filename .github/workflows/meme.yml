@@ -24,7 +24,7 @@ jobs:
         echo "${{ steps.meme.outputs.source }}"
     - name: Update README
       run: |-
-        python build_readme.py "${{ steps.meme.outputs.meme }}" "${{ steps.meme.outputs.title }}" "${{ steps.meme.outputs.source }}"
+        python3 build_readme.py "${{ steps.meme.outputs.meme }}" "${{ steps.meme.outputs.title }}" "${{ steps.meme.outputs.source }}"
     - name: Push new README.md
       uses: mikeal/publish-to-github-action@master
       env:
