@@ -125,6 +125,13 @@ def main(todays_meme):
 
     with open('README.md', 'w') as file:
         file.write(HEADER)
+        file.write(WRITEUP_HEADER)
+        for e in entries[:4]:
+            title = e.find("ns:title", namespaces=NS).text
+            url = e.find("ns:id", namespaces=NS).text
+            summary = e.find("ns:summary", namespaces=NS).text
+            file.write(f"""<li><a title="{summary}" href="{url}">{title}</a></li>""")
+        file.write(WRITEUP_FOOTER)
         file.write("\n### Today's Meme ٩(^‿^)۶\n\n")
         file.write(
             "<details open><summary><b>{0}</b></summary>\n\n".format(todays_meme[1]))
@@ -134,13 +141,6 @@ def main(todays_meme):
         file.write(
             """<p><strong>ℹ️ <a href="{source}">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>""".format(source=todays_meme[2]))
         file.write("\n</th>\n</tr>\n</table>\n</details>\n")
-        file.write(WRITEUP_HEADER)
-        for e in entries[:4]:
-            title = e.find("ns:title", namespaces=NS).text
-            url = e.find("ns:id", namespaces=NS).text
-            summary = e.find("ns:summary", namespaces=NS).text
-            file.write(f"""<li><a title="{summary}" href="{url}">{title}</a></li>""")
-        file.write(WRITEUP_FOOTER)
         file.write(FOOTER)
 
 
