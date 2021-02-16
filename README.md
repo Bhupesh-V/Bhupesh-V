@@ -69,13 +69,13 @@
 </details>
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Who the heck coded it like that !! oh wait a sec ...</b></summary>
+<details open><summary><b>Yeah, not wrong</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Who the heck coded it like that !! oh wait a sec ..." src="https://i.redd.it/8btnuqybhmh61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lkbqbd/who_the_heck_coded_it_like_that_oh_wait_a_sec/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Yeah, not wrong" src="https://i.redd.it/icjqzrhckph61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lkngq5/yeah_not_wrong/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
