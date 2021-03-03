@@ -51,7 +51,7 @@
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
           <ul> 
-<li><a title="Its time to increase your horsepower and write code faster than before. In this tutorial I will cover how to setup and use code-snippets in Vim or NeoVim for Go, Python, Bash and Markdown (since I deal with them everyday)" href="https://bhupesh-v.github.io/learn-how-to-use-code-snippets-vim-cowboy">How to use code snippets in Vim like a cowboy 🤠️</a></li><li><a title="Converting videos to GIFs using ffmpeg is a pain in the ass if you don’t know what’s happening. GIF size getting 10x the size of original video ? Don’t worry, I got you!" href="https://bhupesh-v.github.io/convert-videos-high-quality-gif-ffmpeg">Converting video to high-quality gif using ffmpeg</a></li><li><a title="Using make in Vim/NeoVim can be a handy utility if you want to quickly build, run &amp; debug programs. The make command is governed by the program set in makeprg." href="https://bhupesh-v.github.io/debugging-golang-vim-neovim">Debugging Go in Vim</a></li><li><a title="Apart from not loading shit ton of plugins, there are some other tricks that can be used to make Vim more faster:" href="https://bhupesh-v.github.io/how-to-make-vim-faster">How to make Vim faster ⚡️</a></li>
+<li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh-v.github.io/surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><li><a title="Its time to increase your horsepower and write code faster than before. In this tutorial I will cover how to setup and use code-snippets in Vim or NeoVim for Go, Python, Bash and Markdown (since I deal with them everyday)" href="https://bhupesh-v.github.io/learn-how-to-use-code-snippets-vim-cowboy">How to use code snippets in Vim like a cowboy 🤠️</a></li><li><a title="Converting videos to GIFs using ffmpeg is a pain in the ass if you don’t know what’s happening. GIF size getting 10x the size of original video ? Don’t worry, I got you!" href="https://bhupesh-v.github.io/convert-videos-high-quality-gif-ffmpeg">Converting video to high-quality gif using ffmpeg</a></li><li><a title="Using make in Vim/NeoVim can be a handy utility if you want to quickly build, run &amp; debug programs. The make command is governed by the program set in makeprg." href="https://bhupesh-v.github.io/debugging-golang-vim-neovim">Debugging Go in Vim</a></li>
           </ul>
       </td>
       <td valign="top" width="50%"><b>TIL</b>
@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I see</b></summary>
+<details open><summary><b>I have been there</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I see" src="https://i.redd.it/nt2f08gktgk61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lvhhhx/i_see/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I have been there" src="https://i.redd.it/yqu3wrdwbok61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lwblol/i_have_been_there/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
