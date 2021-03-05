@@ -68,13 +68,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When Will The Pain Stop?</b></summary>
+<details open><summary><b>Feel like a lot of people here will relate to this (also idk where they got learning python for Arduino from :/ )</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When Will The Pain Stop?" src="https://i.redd.it/r5rk5mdbivk61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lx3lgx/when_will_the_pain_stop/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Feel like a lot of people here will relate to this (also idk where they got learning python for Arduino from :/ )" src="https://i.redd.it/0509y04ch2l61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/lxtnrm/feel_like_a_lot_of_people_here_will_relate_to/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
