@@ -135,7 +135,7 @@ def main(todays_meme):
             summary = e.find("ns:summary", namespaces=NS).text
             file.write(f"""<li><a title="{summary}" href="{url}">{title}</a></li>""")
         # file.write(WRITEUP_FOOTER)
-        file.write("<td valign="top" width="50%"><b>TIL</b>\n<ul>"
+        file.write("<td valign="top" width="50%"><b>TIL</b>\n<ul>")
         for item in get_tils():
             file.write(f"""<li><a href="{item['url']}">{item['title']}</a></li>""")
         file.write("</ul></td></tr></table></details>")
