@@ -51,42 +51,29 @@
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
           <ul> 
-<li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh-v.github.io/surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><li><a title="Its time to increase your horsepower and write code faster than before. In this tutorial I will cover how to setup and use code-snippets in Vim or NeoVim for Go, Python, Bash and Markdown (since I deal with them everyday)" href="https://bhupesh-v.github.io/learn-how-to-use-code-snippets-vim-cowboy">How to use code snippets in Vim like a cowboy 🤠️</a></li><li><a title="Converting videos to GIFs using ffmpeg is a pain in the ass if you don’t know what’s happening. GIF size getting 10x the size of original video ? Don’t worry, I got you!" href="https://bhupesh-v.github.io/convert-videos-high-quality-gif-ffmpeg">Converting video to high-quality gif using ffmpeg</a></li><li><a title="Using make in Vim/NeoVim can be a handy utility if you want to quickly build, run &amp; debug programs. The make command is governed by the program set in makeprg." href="https://bhupesh-v.github.io/debugging-golang-vim-neovim">Debugging Go in Vim</a></li>
-          </ul>
-      </td>
-      <td valign="top" width="50%"><b>TIL</b>
-        <ul>
-          <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/extract-file-id-from-drive-shareable-link.md">Extract file id from drive shareable link</a></li>
-          <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/print-lines-between-two-words.md">Print lines between 2 words (using grep & awk)</a></li>
-          <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/monitor-network-data-usage.md">Monitor network (data) usage</a></li>
-          <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/random-emoji-one-liner.md">Random emoji 😲 in one line</a></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</details>
-
+<li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh-v.github.io/surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><li><a title="Its time to increase your horsepower and write code faster than before. In this tutorial I will cover how to setup and use code-snippets in Vim or NeoVim for Go, Python, Bash and Markdown (since I deal with them everyday)" href="https://bhupesh-v.github.io/learn-how-to-use-code-snippets-vim-cowboy">How to use code snippets in Vim like a cowboy 🤠️</a></li><li><a title="Converting videos to GIFs using ffmpeg is a pain in the ass if you don’t know what’s happening. GIF size getting 10x the size of original video ? Don’t worry, I got you!" href="https://bhupesh-v.github.io/convert-videos-high-quality-gif-ffmpeg">Converting video to high-quality gif using ffmpeg</a></li><li><a title="Using make in Vim/NeoVim can be a handy utility if you want to quickly build, run &amp; debug programs. The make command is governed by the program set in makeprg." href="https://bhupesh-v.github.io/debugging-golang-vim-neovim">Debugging Go in Vim</a></li><td valign="top" width="50%"><b>TIL</b>
+<ul><li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/generate-feed-for-files-in-git-repo.md">Generate Feed for files inside a Git repository - Recent N files</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/parsing-git-status-for-tracked-untracked-changes.md">Parsing `git status` for tracked & untracked changes</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/get-current-git-branch-name.md">Get current branch name</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Miscellaneous/chaos-engineering-collected-notes.md">Chaos Engineering 🐒️</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Miscellaneous/database-sharding.md">Collected notes on Database Sharding 🗃</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Coding Practices/solid.md">SOLID: Design Principles</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Vim/how-to-add-sum-column-in-vim.md">Sum column values in Vim</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Vim/how-to-make-vim-faster.md">How to make Vim faster ⚡️</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Vim/convert-unordered-list-to-ordered-list.md">Convert bulleted/unordered lists to numbered lists</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Coding Practices/everything-about-functions-procedures.md">Routines: Functions & Procedures</a></li></ul></td></tr></table></details>
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Data stretcher</b></summary>
+<details open><summary><b>I love Python</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Data stretcher" src="https://i.redd.it/zz05neean8n61.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/m5rv18/data_stretcher/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I love Python" src="https://i.redd.it/v42zgpnmndn61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/m674ee/i_love_python/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
 </details>
-
+</ul></td>
 ### What is Bhupesh upto nowadays 👀
 
 - 🌱 I’m currently learning ...
    - Go (Golang)
 - 🔭 I’m currently working on ...
     - All of my pinned projects below 👇 (& more hidden ones)
-- ~_Also I am looking for some remote internship/contract work opportunities._~
+- _Also I am looking for some remote internship/contract work opportunities._
 
 
 ### ☺️ Support
