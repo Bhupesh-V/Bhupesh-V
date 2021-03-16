@@ -90,8 +90,6 @@ WRITEUP_HEADER = """
 """
 
 WRITEUP_FOOTER = """
-          </ul>
-      </td>
       <td valign="top" width="50%"><b>TIL</b>
         <ul>
           <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/extract-file-id-from-drive-shareable-link.md">Extract file id from drive shareable link</a></li>
@@ -121,6 +119,11 @@ data = request("https://bhupesh-v.github.io/feed.xml")
 tree = ET.fromstring(data)
 entries = tree.findall("ns:entry", namespaces=NS)
 
+def get_tils():
+    data = request("https://raw.githubusercontent.com/Bhupesh-V/til/master/recent_tils.json")
+    tils = json.loads(data)
+    return tils
+
 def main(todays_meme):
 
     with open('README.md', 'w') as file:
@@ -131,7 +134,11 @@ def main(todays_meme):
             url = e.find("ns:id", namespaces=NS).text
             summary = e.find("ns:summary", namespaces=NS).text
             file.write(f"""<li><a title="{summary}" href="{url}">{title}</a></li>""")
-        file.write(WRITEUP_FOOTER)
+        # file.write(WRITEUP_FOOTER)
+        file.write("<td valign="top" width="50%"><b>TIL</b>\n<ul>"
+        for item in get_tils():
+            file.write(f"""<li><a href="{item['url']}">{item['title']}</a></li>""")
+        file.write("</ul></td></tr></table></details>")
         file.write("\n### Today's Meme ٩(^‿^)۶\n\n")
         file.write(
             "<details open><summary><b>{0}</b></summary>\n\n".format(todays_meme[1]))
@@ -140,7 +147,8 @@ def main(todays_meme):
             title=todays_meme[1], meme=todays_meme[0]))
         file.write(
             """<p><strong>ℹ️ <a href="{source}">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>""".format(source=todays_meme[2]))
-        file.write("\n</th>\n</tr>\n</table>\n</details>\n")
+        file.write("\n</th>\n</tr>\n</table>\n</details>\n</ul></td>")
+
         file.write(FOOTER)
 
 
