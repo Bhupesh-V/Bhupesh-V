@@ -137,7 +137,7 @@ def main(todays_meme):
             file.write(f"""<li><a title="{summary}" href="{url}">{title}</a></li>""")
         # file.write(WRITEUP_FOOTER)
         file.write("""<td valign="top" width="50%"><b>TIL</b>\n<ul>""")
-        for item in get_tils():
+        for item in get_tils()[:4]:
             file.write(f"""<li><a href="{item['url']}">{item['title']}</a></li>""")
         file.write("""</ul></td></tr></table></details>""")
         file.write("\n### Today's Meme ٩(^‿^)۶\n\n")
