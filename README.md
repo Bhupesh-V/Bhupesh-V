@@ -55,13 +55,13 @@
 <ul><li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/generate-feed-for-files-in-git-repo.md">Generate Feed for files inside a Git repository - Recent N files</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/parsing-git-status-for-tracked-untracked-changes.md">Parsing `git status` for tracked & untracked changes</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/get-current-git-branch-name.md">Get current branch name</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Miscellaneous/chaos-engineering-collected-notes.md">Chaos Engineering 🐒️</a></li></ul></td></tr></table></details>
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I love Python</b></summary>
+<details open><summary><b>Who else can hear me? 😭</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I love Python" src="https://i.redd.it/v42zgpnmndn61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/m674ee/i_love_python/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Who else can hear me? 😭" src="https://i.redd.it/v6998dok4gn61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/m6hxpc/who_else_can_hear_me/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
