@@ -62,6 +62,7 @@ HEADER = """
 """
 
 FOOTER="""
+
 ### What is Bhupesh upto nowadays 👀
 
 - 🌱 I’m currently learning ...
@@ -140,7 +141,7 @@ def main(todays_meme):
         for item in get_tils()[:4]:
             file.write(f"""<li><a href="{item['url']}">{item['title']}</a></li>""")
         file.write("""</ul></td></tr></table></details>""")
-        file.write("\n### Today's Meme ٩(^‿^)۶\n\n")
+        file.write("\n\n### Today's Meme ٩(^‿^)۶\n\n")
         file.write(
             "<details open><summary><b>{0}</b></summary>\n\n".format(todays_meme[1]))
         file.write("""<table>\n<tr>\n<th valign="top" width="50%">\n""")
