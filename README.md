@@ -3,7 +3,7 @@
 <img align="left" src="https://gist.github.com/Bhupesh-V/0246a3f681d2533d21efb1206d1ba9d4/raw/af7d53bfdbf30f725ef7ade206200086820739fd/AboutMe.gif" height="100px"> 
 <div>
   <h3 align="right">wassup nerds 🖖</h3>
-  <p align="right">I'm a Backend Developer and FOSS Enthusiast. I got interested in programming when I learned how a <code>for</code> loop works 😮 in 2015 and since then I got interested in CS and have never looked back. Right now I write (and work) with Python, Go, C++, Bash &amp; Javascript (in that order). I am a side-project guy, and love 💜 to be a part of programming &amp; opensource communities.</p>
+  <p align="right">I'm a Backend Developer, Tech Writer and FOSS Enthusiast. I got interested in programming when I learned how a <code>for</code> loop works 😮 in 2015 and since then I got interested in CS and have never looked back. Right now I write (and work) with Python, Go, Bash &amp; Javascript (in that order).</p>
 </div>
 
 
@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Found Linus home here in Italy</b></summary>
+<details open><summary><b>We all know who holds the real power...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Found Linus home here in Italy" src="https://i.redd.it/5a66esbpweo61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ma0vlx/found_linus_home_here_in_italy/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="We all know who holds the real power..." src="https://i.redd.it/bwxa31a43jo61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/maha5b/we_all_know_who_holds_the_real_power/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
