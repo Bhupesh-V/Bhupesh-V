@@ -51,18 +51,18 @@
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
           <ul> 
-<li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh-v.github.io/surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><li><a title="Its time to increase your horsepower and write code faster than before. In this tutorial I will cover how to setup and use code-snippets in Vim or NeoVim for Go, Python, Bash and Markdown (since I deal with them everyday)" href="https://bhupesh-v.github.io/learn-how-to-use-code-snippets-vim-cowboy">How to use code snippets in Vim like a cowboy 🤠️</a></li><li><a title="Converting videos to GIFs using ffmpeg is a pain in the ass if you don’t know what’s happening. GIF size getting 10x the size of original video ? Don’t worry, I got you!" href="https://bhupesh-v.github.io/convert-videos-high-quality-gif-ffmpeg">Converting video to high-quality gif using ffmpeg</a></li><li><a title="Using make in Vim/NeoVim can be a handy utility if you want to quickly build, run &amp; debug programs. The make command is governed by the program set in makeprg." href="https://bhupesh-v.github.io/debugging-golang-vim-neovim">Debugging Go in Vim</a></li><td valign="top" width="50%"><b>TIL</b>
+<li><a title="grep is a life-saver for many but it is not so good with terminal UX, in this short tutorial I share some tips that can help make your grep experience a bit more pleasant!" href="https://bhupesh-v.github.io/making-grep-searches-sexier">Making grep searches sexier 🌶️</a></li><li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh-v.github.io/surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><li><a title="Its time to increase your horsepower and write code faster than before. In this tutorial I will cover how to setup and use code-snippets in Vim or NeoVim for Go, Python, Bash and Markdown (since I deal with them everyday)" href="https://bhupesh-v.github.io/learn-how-to-use-code-snippets-vim-cowboy">How to use code snippets in Vim like a cowboy 🤠️</a></li><li><a title="Converting videos to GIFs using ffmpeg is a pain in the ass if you don’t know what’s happening. GIF size getting 10x the size of original video ? Don’t worry, I got you!" href="https://bhupesh-v.github.io/convert-videos-high-quality-gif-ffmpeg">Converting video to high-quality gif using ffmpeg</a></li><td valign="top" width="50%"><b>TIL</b>
 <ul><li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/generate-feed-files-in-git-repo.md">Generate a RSS Feed of recent files inside a Git repository</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/parsing-git-status-for-tracked-untracked-changes.md">Parsing `git status` for tracked & untracked changes</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/get-current-git-branch-name.md">Get current branch name</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Miscellaneous/chaos-engineering-collected-notes.md">Chaos Engineering 🐒️</a></li></ul></td></tr></table></details>
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>We all know who holds the real power...</b></summary>
+<details open><summary><b>HELP ME YOU'RE MY ONLY HOPE</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="We all know who holds the real power..." src="https://i.redd.it/bwxa31a43jo61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/maha5b/we_all_know_who_holds_the_real_power/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="HELP ME YOU'RE MY ONLY HOPE" src="https://i.redd.it/b4byymg2xmo61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/mawe9o/help_me_youre_my_only_hope/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
