@@ -52,17 +52,17 @@
       <td valign="top" width="50%"><b>Blogs</b>
           <ul> 
 <li><a title="grep is a life-saver for many but it is not so good with terminal UX, in this short tutorial I share some tips that can help make your grep experience a bit more pleasant!" href="https://bhupesh-v.github.io/making-grep-searches-sexier">Making grep searches sexier 🌶️</a></li><li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh-v.github.io/surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><li><a title="Its time to increase your horsepower and write code faster than before. In this tutorial I will cover how to setup and use code-snippets in Vim or NeoVim for Go, Python, Bash and Markdown (since I deal with them everyday)" href="https://bhupesh-v.github.io/learn-how-to-use-code-snippets-vim-cowboy">How to use code snippets in Vim like a cowboy 🤠️</a></li><li><a title="Converting videos to GIFs using ffmpeg is a pain in the ass if you don’t know what’s happening. GIF size getting 10x the size of original video ? Don’t worry, I got you!" href="https://bhupesh-v.github.io/convert-videos-high-quality-gif-ffmpeg">Converting video to high-quality gif using ffmpeg</a></li><td valign="top" width="50%"><b>TIL</b>
-<ul><li><a href="https://github.com/Bhupesh-V/til/blob/master/Python/dividing-time-deltas-python.md">Dividing Time deltas in python - Difference b/w 2 datetime values</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Python/generating-random-secure-password-python.md">Generate random secure password using python</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/WebDev/turning-emojis-into-site-favicons.md">Turning Emojis to site favicons</a></li><li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/generate-feed-files-in-git-repo.md">Generate a RSS Feed of recent files inside a Git repository</a></li></ul></td></tr></table></details>
+<ul><li><a href="https://bhupesh.gitbook.io/notes/shell/fzf-tips-tricks">FZF: Tips and Tricks</a></li><li><a href="https://bhupesh.gitbook.io/notes/python/dividing-time-deltas-python">Dividing Time deltas in python - Difference b/w 2 datetime values</a></li><li><a href="https://bhupesh.gitbook.io/notes/python/generating-random-secure-password-python">Generate random secure password using python</a></li><li><a href="https://bhupesh.gitbook.io/notes/webdev/turning-emojis-into-site-favicons">Turning Emojis to site favicons</a></li></ul></td></tr></table></details>
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Dat's some spooky crap</b></summary>
+<details open><summary><b>A Lesson In How To Attract Python Programmers</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Dat's some spooky crap" src="https://i.redd.it/yxhwfdru6uo61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/mbnusj/dats_some_spooky_crap/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="A Lesson In How To Attract Python Programmers" src="https://i.redd.it/2cstctee3zo61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/mc4wwo/a_lesson_in_how_to_attract_python_programmers/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
