@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>A Lesson In How To Attract Python Programmers</b></summary>
+<details open><summary><b>This PPT on AI Algorithms uses a CSS stock photo.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="A Lesson In How To Attract Python Programmers" src="https://i.redd.it/2cstctee3zo61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/mc4wwo/a_lesson_in_how_to_attract_python_programmers/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="This PPT on AI Algorithms uses a CSS stock photo." src="https://i.redd.it/p6lwb0x5f8p61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/md7as8/this_ppt_on_ai_algorithms_uses_a_css_stock_photo/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
