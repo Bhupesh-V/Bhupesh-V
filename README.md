@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Not that I don't want to help my friend, but I've already helped three senior devs with these sorts of issues...</b></summary>
+<details open><summary><b>low effort memes be like</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Not that I don't want to help my friend, but I've already helped three senior devs with these sorts of issues..." src="https://i.redd.it/oszqp3odifp61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/mdx5hu/not_that_i_dont_want_to_help_my_friend_but_ive/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="low effort memes be like" src="https://i.redd.it/8i1lpqnz8mp61.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/mejui4/low_effort_memes_be_like/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
