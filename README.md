@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I feel a lot like this during work</b></summary>
+<details open><summary><b>You will not learn without humiliation</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I feel a lot like this during work" src="https://i.redd.it/d9dyuxbcilr61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/mli6dl/i_feel_a_lot_like_this_during_work/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="You will not learn without humiliation" src="https://i.redd.it/uqy58y4n1tr61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/mma7df/you_will_not_learn_without_humiliation/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
