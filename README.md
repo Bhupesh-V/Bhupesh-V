@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I am going to do this.. I am going to do this..</b></summary>
+<details open><summary><b>The only code runs perfectly ⚠️⚠️</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="I am going to do this.. I am going to do this.." src="https://i.redd.it/pbj5y8m570s61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/mmzufi/i_am_going_to_do_this_i_am_going_to_do_this/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The only code runs perfectly ⚠️⚠️" src="https://i.redd.it/9tjjsj91b7s61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/mnoz8g/the_only_code_runs_perfectly/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
