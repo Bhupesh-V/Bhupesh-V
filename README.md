@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When you finally move from a syntax to a logic error</b></summary>
+<details open><summary><b>Anything else? 😜... Atom, Sublime Text, VS Code etc are dying now 😂</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="When you finally move from a syntax to a logic error" src="https://i.redd.it/0vj8oqzgtyv61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/n0mmdo/when_you_finally_move_from_a_syntax_to_a_logic/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Anything else? 😜... Atom, Sublime Text, VS Code etc are dying now 😂" src="https://i.redd.it/17px3nls26w61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/n1ckse/anything_else_atom_sublime_text_vs_code_etc_are/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
