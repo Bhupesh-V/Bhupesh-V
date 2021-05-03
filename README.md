@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Apparently, reddit's ML is no better than the comments in my code</b></summary>
+<details open><summary><b>Cut (reposted from r/angryupvote)</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Apparently, reddit's ML is no better than the comments in my code" src="https://i.redd.it/yj8oanx7pjw61.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/n2n672/apparently_reddits_ml_is_no_better_than_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Cut (reposted from r/angryupvote)" src="https://i.redd.it/1uhh0jcucqw61.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/n39fv8/cut_reposted_from_rangryupvote/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
