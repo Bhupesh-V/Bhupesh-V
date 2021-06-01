@@ -67,7 +67,7 @@ FOOTER="""
 
 - 🌱 I’m currently learning ...
    - Go (Golang)
-- _Also I am looking for some remote internship/contract/fulltime work opportunities._
+<!-- - _Also I am looking for some remote internship/contract/fulltime work opportunities._ -->
 
 
 ### ☺️ Support
