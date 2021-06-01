@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>The elitist...or how I learned to not do anything serious on Friday.</b></summary>
+<details open><summary><b>The Tavern</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The elitist...or how I learned to not do anything serious on Friday." src="https://i.redd.it/qaw3lvewpj271.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/nph0dm/the_elitistor_how_i_learned_to_not_do_anything/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The Tavern" src="https://i.redd.it/4prmoh93bm271.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/nppfmj/the_tavern/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
@@ -73,7 +73,7 @@
 
 - 🌱 I’m currently learning ...
    - Go (Golang)
-- _Also I am looking for some remote internship/contract/fulltime work opportunities._
+<!-- - _Also I am looking for some remote internship/contract/fulltime work opportunities._ -->
 
 
 ### ☺️ Support
