@@ -3,7 +3,7 @@
 <img align="left" src="https://gist.github.com/Bhupesh-V/0246a3f681d2533d21efb1206d1ba9d4/raw/af7d53bfdbf30f725ef7ade206200086820739fd/AboutMe.gif" height="100px"> 
 <div>
   <h3 align="right">wassup nerds 🖖</h3>
-  <p align="right">I'm a Developer, Tech Writer and FOSS Enthusiast. I have been programming for almost 4+ yrs now. Right now I write (and work) with Python, Go, Bash &amp; Javascript (in that order).</p>
+  <p align="right">I'm a Developer, Tech Writer and FOSS Enthusiast. I got interested in programming when I learned how a <code>for</code> loop works 😮 in 2015. Since then I started learning CS & have never looked back. Right now I write (and work) with Python, Go, Bash &amp; Javascript (in that order).</p>
 </div>
 
 
@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Another night awake...</b></summary>
+<details open><summary><b>Great success</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Another night awake..." src="https://i.redd.it/38vf6uer8i271.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/npavey/another_night_awake/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Great success" src="https://i.redd.it/6ubjgfinem271.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/nppphz/great_success/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
