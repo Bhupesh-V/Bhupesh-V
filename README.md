@@ -13,7 +13,7 @@
 - [ ] Launch 🚀 a SaaS.
 - [ ] Get a Laptop 💻.
 - [ ] Contribute to 2-3 Big FOSS Projects 🙈 (I'm lazy).
-- [x] Start A Newsletter 🗞️ for my [blog](https://bhupesh-v.github.io), [Subscribe Here](https://buttondown.email/bhupesh)
+- [ ] Start A Newsletter 🗞️ for my [blog](https://bhupesh-v.github.io), [Subscribe Here](https://buttondown.email/bhupesh)
 - [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
 
 
@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Unexpected Technical Debt sucks..</b></summary>
+<details open><summary><b>More like a Death Room Concept, ain't?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Unexpected Technical Debt sucks.." src="https://i.redd.it/2giybfsu7g471.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/nwozyb/unexpected_technical_debt_sucks/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="More like a Death Room Concept, ain't?" src="https://i.redd.it/usuqt44hdg471.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/nwpqrm/more_like_a_death_room_concept_aint/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
