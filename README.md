@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Now this looks like a job for me.</b></summary>
+<details open><summary><b>Goodbye, java! Goodbye, javascript! Goodbye, python! I won't miss you, PHP!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Now this looks like a job for me." src="https://i.redd.it/3owedipke3571.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/nz56ae/now_this_looks_like_a_job_for_me/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Goodbye, java! Goodbye, javascript! Goodbye, python! I won't miss you, PHP!" src="https://i.redd.it/gran7agos9571.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/nzsqb7/goodbye_java_goodbye_javascript_goodbye_python_i/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
