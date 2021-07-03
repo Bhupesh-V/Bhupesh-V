@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>The hero we need not deserve... ,</b></summary>
+<details open><summary><b>Pushing a commit that fails on the build server but you didn’t check if it passed</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="The hero we need not deserve... ," src="https://i.redd.it/v13o7c0aca231.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/obl2z8/the_hero_we_need_not_deserve/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Pushing a commit that fails on the build server but you didn’t check if it passed" src="https://i.redd.it/mr31tua3tt871.gif" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ocdnsu/pushing_a_commit_that_fails_on_the_build_server/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
