@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Why do I see so many wannabe ML/AI enthusiasts now?</b></summary>
+<details open><summary><b>i’m in</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="Why do I see so many wannabe ML/AI enthusiasts now?" src="https://i.redd.it/frjvi6u6g0971.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/oczfqr/why_do_i_see_so_many_wannabe_mlai_enthusiasts_now/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="i’m in" src="https://i.redd.it/d7d3kefif9971.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/odsxyr/im_in/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
