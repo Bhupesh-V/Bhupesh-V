@@ -143,7 +143,7 @@ def main(todays_meme):
         file.write(
             "<details open><summary><b>{0}</b></summary>\n\n".format(todays_meme[1]))
         file.write("""<table>\n<tr>\n<th valign="top" width="50%">\n""")
-        file.write("""<img title="Memes here update every 69th minute, come back again for new memes ;)" alt="{title}" src="{meme}" height="50%"><br>\n""".format(
+        file.write("""<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="{title}" src="{meme}" height="50%"><br>\n""".format(
             title=todays_meme[1], meme=todays_meme[0]))
         file.write(
             """<p><strong>ℹ️ <a href="{source}">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>""".format(source=todays_meme[2]))
