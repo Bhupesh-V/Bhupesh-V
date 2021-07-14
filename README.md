@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>When you forget to configure CORS</b></summary>
+<details open><summary><b>PM suggests that because have the shoes now, we can code that up, and deal with the socks and jeans later...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="When you forget to configure CORS" src="https://i.redd.it/em59oapwhra71.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/oiotmm/when_you_forget_to_configure_cors/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="PM suggests that because have the shoes now, we can code that up, and deal with the socks and jeans later..." src="https://i.redd.it/xh1oztlqaya71.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ojc7ie/pm_suggests_that_because_have_the_shoes_now_we/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
