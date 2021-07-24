@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Me after writing code for hours and having to use word</b></summary>
+<details open><summary><b>“Just a few suggestions to clean things up”</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Me after writing code for hours and having to use word" src="https://i.redd.it/j1ik61pz1pc71.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/op6vit/me_after_writing_code_for_hours_and_having_to_use/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="“Just a few suggestions to clean things up”" src="https://i.redd.it/nqbp5gsnmzc71.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/oq5si9/just_a_few_suggestions_to_clean_things_up/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
