@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>SELECT * FROM MEME_IDEAS WHERE TOPIC = 'SQL' AND EFFORT = 'LOW'</b></summary>
+<details open><summary><b>Keep Dreaming..</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="SELECT * FROM MEME_IDEAS WHERE TOPIC = 'SQL' AND EFFORT = 'LOW'" src="https://i.redd.it/gnpreykgb9d71.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/or1vma/select_from_meme_ideas_where_topic_sql_and_effort/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Keep Dreaming.." src="https://i.redd.it/0y5q3hh1zld71.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/os625u/keep_dreaming/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
