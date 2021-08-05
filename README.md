@@ -56,13 +56,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Scammer runs his scam ring off of his localhost with ngrok. LOL!</b></summary>
+<details open><summary><b>Something's wrong I can feel it!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Scammer runs his scam ring off of his localhost with ngrok. LOL!" src="https://i.redd.it/tfymx8zh23f71.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/owx815/scammer_runs_his_scam_ring_off_of_his_localhost/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Something's wrong I can feel it!" src="https://i.redd.it/psja3bm5dbf71.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/oxpced/somethings_wrong_i_can_feel_it/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
