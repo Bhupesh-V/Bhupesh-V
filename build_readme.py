@@ -32,27 +32,33 @@ HEADER = """
 - [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
 
 
-### Recent Works
+## Recent Works
 <details open>
-  <summary>🌟 Projects 🌟</summary>
+  <summary>Some of my noticeable work <br><br></summary>
   <table>
     <tr>
-      <td valign="top" width="33%"><samp><h4 align="center">dotman</h4></samp>
+      <td valign="top" width="33%"><samp><h3 align="center">dotman</h3></samp>
         <p align="center">
-        <img align="center" src="https://github.com/Bhupesh-V/dotman/blob/master/assets/dotman-logo.png" width="200"><br><br>
-        <a href="https://github.com/Bhupesh-V/dotman"><b> dotman is a simple, elegant  &amp;  easy to use dotfiles manager</b></a>
+        <a href="https://github.com/Bhupesh-V/dotman">
+           <img align="center" src="https://github.com/Bhupesh-V/dotman/blob/master/assets/dotman-logo.png" width="200"><br><br>
+          <b> dotman is a simple, elegant  &amp;  easy to use dotfiles manager</b>
+        </a>
         </p>
       </td>
-      <td valign="top" width="33%"><samp><h4 align="center">defe</h4></samp>
+      <td valign="top" width="33%"><samp><h3 align="center">ugit</h3></samp>
         <p align="center">
-        <img align="center" src="https://raw.githubusercontent.com/Bhupesh-V/defe/2836e20d0416a4232e7d7f81a7988250e1d6718d/static/images/logodefe.svg" width="100"> <br><br>
-        <a href="https://github.com/Bhupesh-V/defe"><b> A tech feed aggregator for Developers  &amp; technologists</b></a>
+        <a href="https://github.com/Bhupesh-V/ugit">
+          <img align="center" src="https://user-images.githubusercontent.com/34342551/115037937-a608d800-9eec-11eb-88a9-252da7d6f507.png" width="100"><br><br>
+          <b>ugit helps you undo git commands. Your damage control git buddy. Undo from 15+ Git fuckups.</b>
+        </a>
         </p>
       </td>
-      <td valign="top" width="33%"><samp><h4 align="center">Memer Action</h4></samp>
+      <td valign="top" width="33%"><samp><h3 align="center">Memer Action</h3></samp>
         <p align="center">
-           <img align="center" src="https://github.com/Bhupesh-V/memer-action/blob/master/images/header.png?raw=true" width="178"><br><br>
-           <a href="https://github.com/Bhupesh-V/memer-action"><b>A GitHub Action for Programmer Memes xD</b></a>
+          <a href="https://github.com/Bhupesh-V/memer-action">
+             <img align="center" src="https://github.com/Bhupesh-V/memer-action/blob/master/images/header.png?raw=true" width="178"><br><br>
+             <b>A GitHub Action for Programmer Memes xD</b>
+           </a>
         </p>
       </td>
     </tr>
@@ -82,7 +88,7 @@ If you like my work, consider supporting me
 
 WRITEUP_HEADER = """
 <details open>
-  <summary>✒️ Writeups ✒️</summary>
+  <summary>✒️ Writeups <br><br></summary>
   <table>
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
