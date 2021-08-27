@@ -32,6 +32,10 @@ HEADER = """
 - [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
 
 
+"""
+
+PROJECTS = """
+
 ## Recent Works
 <details open>
   <summary>Some of my noticeable work <br><br></summary>
@@ -64,7 +68,6 @@ HEADER = """
     </tr>
   </table>
 </details>
-
 """
 
 FOOTER="""
@@ -92,21 +95,7 @@ WRITEUP_HEADER = """
   <table>
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
-          <ul> 
-"""
-
-WRITEUP_FOOTER = """
-      <td valign="top" width="50%"><b>TIL</b>
-        <ul>
-          <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/extract-file-id-from-drive-shareable-link.md">Extract file id from drive shareable link</a></li>
-          <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/print-lines-between-two-words.md">Print lines between 2 words (using grep & awk)</a></li>
-          <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/monitor-network-data-usage.md">Monitor network (data) usage</a></li>
-          <li><a href="https://github.com/Bhupesh-V/til/blob/master/Shell/random-emoji-one-liner.md">Random emoji 😲 in one line</a></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</details>
+          <ul>
 """
 
 
@@ -140,7 +129,6 @@ def main(todays_meme):
             url = e.find("ns:id", namespaces=NS).text
             summary = e.find("ns:summary", namespaces=NS).text
             file.write(f"""<li><a title="{summary}" href="{url}">{title}</a></li>""")
-        # file.write(WRITEUP_FOOTER)
         file.write("""<td valign="top" width="50%"><b>TIL</b>\n<ul>""")
         for item in get_tils()[:4]:
             file.write(f"""<li><a href="{item['url']}">{item['title']}</a></li>""")
@@ -154,7 +142,7 @@ def main(todays_meme):
         file.write(
             """<p><strong>ℹ️ <a href="{source}">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>""".format(source=todays_meme[2]))
         file.write("\n</th>\n</tr>\n</table>\n</details>\n</ul></td>")
-
+        file.write(PROJECTS)
         file.write(FOOTER)
 
 
