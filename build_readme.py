@@ -133,6 +133,7 @@ def main(todays_meme):
         for item in get_tils()[:4]:
             file.write(f"""<li><a href="{item['url']}">{item['title']}</a></li>""")
         file.write("""</ul></td></tr></table></details>""")
+        file.write(PROJECTS)
         file.write("\n\n### Today's Meme ٩(^‿^)۶\n\n")
         file.write(
             "<details open><summary><b>{0}</b></summary>\n\n".format(todays_meme[1]))
@@ -142,7 +143,6 @@ def main(todays_meme):
         file.write(
             """<p><strong>ℹ️ <a href="{source}">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>""".format(source=todays_meme[2]))
         file.write("\n</th>\n</tr>\n</table>\n</details>\n</ul></td>")
-        file.write(PROJECTS)
         file.write(FOOTER)
 
 
