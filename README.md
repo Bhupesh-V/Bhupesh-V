@@ -17,6 +17,31 @@
 - [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
 
 
+
+<details open>
+  <summary>✒️ Writeups <br><br></summary>
+  <table>
+    <tr>
+      <td valign="top" width="50%"><b>Blogs</b>
+          <ul>
+<li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh-v.github.io/undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><li><a title="grep is a life-saver for many but it is not so good with terminal UX, in this short tutorial I share some tips that can help make your grep experience a bit more pleasant!" href="https://bhupesh-v.github.io/making-grep-searches-sexier">Making grep searches sexier 🌶️</a></li><li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh-v.github.io/surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><li><a title="Its time to increase your horsepower and write code faster than before. In this tutorial I will cover how to setup and use code-snippets in Vim or NeoVim for Go, Python, Bash and Markdown (since I deal with them everyday)" href="https://bhupesh-v.github.io/learn-how-to-use-code-snippets-vim-cowboy">How to use code snippets in Vim like a cowboy 🤠️</a></li><td valign="top" width="50%"><b>TIL</b>
+<ul><li><a href="https://bhupesh.gitbook.io/notes/go/anatomy-go-mod-file">Anatomy of `go.mod` file</a></li><li><a href="https://bhupesh.gitbook.io/notes/python/fuzzy-string-matching-using-difflib-python">Using difflib in Python for fuzzy string matching</a></li><li><a href="https://bhupesh.gitbook.io/notes/shell/changing-string-case-bash">Changing string case in bash</a></li><li><a href="https://bhupesh.gitbook.io/notes/shell/print-value-of-path-readable-format">Print value of `$PATH` in readable format</a></li></ul></td></tr></table></details>
+
+### Today's Meme ٩(^‿^)۶
+
+<details open><summary><b>Agree or disagree?</b></summary>
+
+<table>
+<tr>
+<th valign="top" width="50%">
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Agree or disagree?" src="https://i.redd.it/2ylbluvf6pj71.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/pbynws/agree_or_disagree/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+</th>
+</tr>
+</table>
+</details>
+</ul></td>
+
 ## Recent Works
 <details open>
   <summary>Some of my noticeable work <br><br></summary>
@@ -50,30 +75,6 @@
   </table>
 </details>
 
-
-<details open>
-  <summary>✒️ Writeups <br><br></summary>
-  <table>
-    <tr>
-      <td valign="top" width="50%"><b>Blogs</b>
-          <ul> 
-<li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh-v.github.io/undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><li><a title="grep is a life-saver for many but it is not so good with terminal UX, in this short tutorial I share some tips that can help make your grep experience a bit more pleasant!" href="https://bhupesh-v.github.io/making-grep-searches-sexier">Making grep searches sexier 🌶️</a></li><li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh-v.github.io/surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><li><a title="Its time to increase your horsepower and write code faster than before. In this tutorial I will cover how to setup and use code-snippets in Vim or NeoVim for Go, Python, Bash and Markdown (since I deal with them everyday)" href="https://bhupesh-v.github.io/learn-how-to-use-code-snippets-vim-cowboy">How to use code snippets in Vim like a cowboy 🤠️</a></li><td valign="top" width="50%"><b>TIL</b>
-<ul><li><a href="https://bhupesh.gitbook.io/notes/go/anatomy-go-mod-file">Anatomy of `go.mod` file</a></li><li><a href="https://bhupesh.gitbook.io/notes/python/fuzzy-string-matching-using-difflib-python">Using difflib in Python for fuzzy string matching</a></li><li><a href="https://bhupesh.gitbook.io/notes/shell/changing-string-case-bash">Changing string case in bash</a></li><li><a href="https://bhupesh.gitbook.io/notes/shell/print-value-of-path-readable-format">Print value of `$PATH` in readable format</a></li></ul></td></tr></table></details>
-
-### Today's Meme ٩(^‿^)۶
-
-<details open><summary><b>I am scared of my own code now SSS</b></summary>
-
-<table>
-<tr>
-<th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I am scared of my own code now SSS" src="https://i.redd.it/tkv4rrab2pj71.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/pbyakb/i_am_scared_of_my_own_code_now_sss/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
-</th>
-</tr>
-</table>
-</details>
-</ul></td>
 
 ### What is Bhupesh upto nowadays 👀
 
