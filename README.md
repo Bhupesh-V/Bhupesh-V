@@ -63,13 +63,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Agree or disagree?</b></summary>
+<details open><summary><b>Wait till you see the guy who does this but with warnings</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Agree or disagree?" src="https://i.redd.it/2ylbluvf6pj71.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/pbynws/agree_or_disagree/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Wait till you see the guy who does this but with warnings" src="https://i.redd.it/93lr74izhxj71.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/pcqy3y/wait_till_you_see_the_guy_who_does_this_but_with/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
