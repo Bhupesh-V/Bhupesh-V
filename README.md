@@ -63,13 +63,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>And not a Scratch on him</b></summary>
+<details open><summary><b>I got no such package found :(</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="And not a Scratch on him" src="https://i.redd.it/w8uj21ycxll71.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/pi5wlf/and_not_a_scratch_on_him/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I got no such package found :(" src="https://i.redd.it/fja6glrectl71.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/pisjtd/i_got_no_such_package_found/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
