@@ -63,13 +63,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Ah yes, funny meme</b></summary>
+<details open><summary><b>Just create a new environment, i guess.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Ah yes, funny meme" src="https://i.redd.it/kf9i0h2n5rm71.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/plv71g/ah_yes_funny_meme/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Just create a new environment, i guess." src="https://i.redd.it/0smj7zai8ym71.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/pmgo4o/just_create_a_new_environment_i_guess/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
