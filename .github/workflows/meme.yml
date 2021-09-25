@@ -14,7 +14,7 @@ jobs:
     - name: Run Memer Action
       id: meme
 
-      uses: Bhupesh-V/memer-action@0.3.0
+      uses: Bhupesh-V/memer-action@master
       with:
         filter: "hot"
     - name: Check Memer Action Outputs
