@@ -63,13 +63,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Oops :( looks like we are out of memes.</b></summary>
+<details open><summary><b>I never thought about 'em that way before...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Oops :( looks like we are out of memes." src="https://raw.githubusercontent.com/Bhupesh-V/memer-action/master/images/header.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://github.com/Bhupesh-V/memer-action">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I never thought about 'em that way before..." src="https://i.redd.it/1n3nxo4dmgv71.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/qf0sbt/i_never_thought_about_em_that_way_before/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
