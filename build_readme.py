@@ -27,7 +27,6 @@ HEADER = """
 
 - [ ] Launch 🚀 a SaaS.
 - [x] Get a Laptop 💻.
-- [ ] Contribute to 2-3 Big FOSS Projects 🙈 (I'm lazy).
 - [ ] Start A Newsletter 🗞️ for my [blog](https://bhupesh-v.github.io), [Subscribe Here](https://buttondown.email/bhupesh)
 - [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
 
