@@ -12,7 +12,6 @@
 
 - [ ] Launch 🚀 a SaaS.
 - [x] Get a Laptop 💻.
-- [ ] Contribute to 2-3 Big FOSS Projects 🙈 (I'm lazy).
 - [ ] Start A Newsletter 🗞️ for my [blog](https://bhupesh-v.github.io), [Subscribe Here](https://buttondown.email/bhupesh)
 - [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
 
@@ -63,13 +62,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>when you are a java veteran and your amateur friend does the same work with python</b></summary>
+<details open><summary><b>Entry level btw</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="when you are a java veteran and your amateur friend does the same work with python" src="https://i.redd.it/lhwmcfe84tv71.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/qg84fl/when_you_are_a_java_veteran_and_your_amateur/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Entry level btw" src="https://i.redd.it/fnz6n7v2bvv71.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/qghhc8/entry_level_btw/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
