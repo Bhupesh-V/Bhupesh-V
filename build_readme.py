@@ -75,6 +75,7 @@ FOOTER="""
 
 - 🌱 I’m currently learning ...
    - Go (Golang)
+   - Flutter
 <!-- - _Also I am looking for some remote internship/contract/fulltime work opportunities._ -->
 
 
