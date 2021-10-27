@@ -63,13 +63,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>An interesting title</b></summary>
+<details open><summary><b>when you are a java veteran and your amateur friend does the same work with python</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="An interesting title" src="https://i.redd.it/tvw1bfs6anv71.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/qfnvkr/an_interesting_title/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="when you are a java veteran and your amateur friend does the same work with python" src="https://i.redd.it/lhwmcfe84tv71.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/qg84fl/when_you_are_a_java_veteran_and_your_amateur/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
