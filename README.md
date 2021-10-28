@@ -62,13 +62,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Entry level btw</b></summary>
+<details open><summary><b>The bane of my existence</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Entry level btw" src="https://i.redd.it/fnz6n7v2bvv71.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/qghhc8/entry_level_btw/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="The bane of my existence" src="https://i.redd.it/qqw30psmj2w71.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/qh8a3d/the_bane_of_my_existence/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
