@@ -27,7 +27,7 @@ HEADER = """
 
 - [ ] Launch 🚀 a SaaS.
 - [x] Get a Laptop 💻.
-- [ ] Start A Newsletter 🗞️ for my [blog](https://bhupesh-v.github.io), [Subscribe Here](https://buttondown.email/bhupesh)
+- [x] Start A [Newsletter 🗞️](https://buttondown.email/bhupesh/archive) for my [blog](https://bhupesh-v.github.io).
 - [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
 
 
