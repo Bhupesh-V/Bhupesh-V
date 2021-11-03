@@ -12,7 +12,7 @@
 
 - [ ] Launch 🚀 a SaaS.
 - [x] Get a Laptop 💻.
-- [ ] Start A Newsletter 🗞️ for my [blog](https://bhupesh-v.github.io), [Subscribe Here](https://buttondown.email/bhupesh)
+- [x] Start A [Newsletter 🗞️](https://buttondown.email/bhupesh/archive) for my [blog](https://bhupesh-v.github.io).
 - [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
 
 
@@ -62,13 +62,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Trying to learn a modern easy</b></summary>
+<details open><summary><b>It's trying to tell me something, innit?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Trying to learn a modern easy" src="https://i.redd.it/7230jfve08x71.png" height="50%"><br>
-<p><strong>ℹ️ <a href="to">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="It's trying to tell me something, innit?" src="https://i.redd.it/qlqsnxmjpbx71.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/qlockj/its_trying_to_tell_me_something_innit/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
