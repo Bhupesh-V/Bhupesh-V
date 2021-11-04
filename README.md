@@ -62,13 +62,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>It's trying to tell me something, innit?</b></summary>
+<details open><summary><b>When people talk about damage meters in games...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="It's trying to tell me something, innit?" src="https://i.redd.it/qlqsnxmjpbx71.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/qlockj/its_trying_to_tell_me_something_innit/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="When people talk about damage meters in games..." src="https://i.redd.it/ne8wkxvygdx71.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/qlt59m/when_people_talk_about_damage_meters_in_games/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
