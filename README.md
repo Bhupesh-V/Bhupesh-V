@@ -24,7 +24,7 @@
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
 <li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh-v.github.io/undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><li><a title="grep is a life-saver for many but it is not so good with terminal UX, in this short tutorial I share some tips that can help make your grep experience a bit more pleasant!" href="https://bhupesh-v.github.io/making-grep-searches-sexier">Making grep searches sexier 🌶️</a></li><li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh-v.github.io/surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><li><a title="Its time to increase your horsepower and write code faster than before. In this tutorial I will cover how to setup and use code-snippets in Vim or NeoVim for Go, Python, Bash and Markdown (since I deal with them everyday)" href="https://bhupesh-v.github.io/learn-how-to-use-code-snippets-vim-cowboy">How to use code snippets in Vim like a cowboy 🤠️</a></li><td valign="top" width="50%"><b>TIL</b>
-<ul><li><a href="https://bhupesh.gitbook.io/notes/shell/get-release-notes-github-api">Get Release notes from Github API</a></li><li><a href="https://bhupesh.gitbook.io/notes/shell/get-battery-status">Check battery status</a></li><li><a href="https://bhupesh.gitbook.io/notes/iscellaneous/getting-json-data-in-postgresql">Getting JSON data from PostgreSQL</a></li><li><a href="https://bhupesh.gitbook.io/notes/python/using-defaultdict-to-handle-key-not-in-dict-case">Using defaultdict to handle key not in dict</a></li></ul></td></tr></table></details>
+<ul><li><a href="https://bhupesh.gitbook.io/notes/python/preventing-global-package-install">Preventing global package install with `PIP_REQUIRE_VIRTUALENV`</a></li><li><a href="https://bhupesh.gitbook.io/notes/shell/get-release-notes-github-api">Get Release notes from Github API</a></li><li><a href="https://bhupesh.gitbook.io/notes/shell/get-battery-status">Check battery status</a></li><li><a href="https://bhupesh.gitbook.io/notes/iscellaneous/getting-json-data-in-postgresql">Getting JSON data from PostgreSQL</a></li></ul></td></tr></table></details>
 
 ## Recent Works
 <details open>
@@ -62,13 +62,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Programmer be like</b></summary>
+<details open><summary><b>Our GitHub bot just got a job offer</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Programmer be like" src="https://i.redd.it/hbi2fi5ciwx71.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/qnskkn/programmer_be_like/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Our GitHub bot just got a job offer" src="https://i.redd.it/5xsu62n9t0y71.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/qo6iws/our_github_bot_just_got_a_job_offer/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
