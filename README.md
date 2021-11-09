@@ -62,13 +62,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Our GitHub bot just got a job offer</b></summary>
+<details open><summary><b>my win11 welcome screen telling me to use</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Our GitHub bot just got a job offer" src="https://i.redd.it/5xsu62n9t0y71.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/qo6iws/our_github_bot_just_got_a_job_offer/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="my win11 welcome screen telling me to use" src="https://i.redd.it/fj4tpw4pyfy71.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="win10">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
