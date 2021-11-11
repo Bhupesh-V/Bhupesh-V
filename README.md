@@ -62,13 +62,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>You thought this was going to be easy!</b></summary>
+<details open><summary><b>Isn't it illogical and logical at same time like your 6 Month old code?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="You thought this was going to be easy!" src="https://i.redd.it/7692claatly71.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/qq8jqp/you_thought_this_was_going_to_be_easy/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Isn't it illogical and logical at same time like your 6 Month old code?" src="https://i.redd.it/4yivp0dd0ry71.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/qqrr4x/isnt_it_illogical_and_logical_at_same_time_like/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
