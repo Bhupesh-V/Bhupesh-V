@@ -62,13 +62,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>Found this gem today</b></summary>
+<details open><summary><b>sounds about right</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Found this gem today" src="https://i.redd.it/v0x1m3jyli181.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/r11koz/found_this_gem_today/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="sounds about right" src="https://i.redd.it/7gcd6z64bt181.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/r27b8i/sounds_about_right/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
