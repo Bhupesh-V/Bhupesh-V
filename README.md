@@ -62,13 +62,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>I reversed engineered minesweeper so I can do this</b></summary>
+<details open><summary><b>Introduction</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I reversed engineered minesweeper so I can do this" src="https://i.redd.it/u3v05zna2j281.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/r4uplz/i_reversed_engineered_minesweeper_so_i_can_do_this/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Introduction" src="https://i.redd.it/stznqo4opq281.png" height="50%"><br>
+<p><strong>ℹ️ <a href="to">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
