@@ -18,7 +18,7 @@ HEADER = """
 <img align="left" src="https://gist.github.com/Bhupesh-V/0246a3f681d2533d21efb1206d1ba9d4/raw/af7d53bfdbf30f725ef7ade206200086820739fd/AboutMe.gif" height="100px"> 
 <div>
   <h3 align="right">wassup nerds 🖖</h3>
-  <p align="right">I'm a Developer, Tech Writer and FOSS Enthusiast. I write (and work) with Python, Go, Bash &amp; Javascript (in that order).</p>
+  <p align="right">I'm a Developer, Tech Writer and FOSS Enthusiast. I write (and work) with Python, Go, Flutter, Bash.</p>
 </div>
 
 
@@ -70,14 +70,6 @@ PROJECTS = """
 """
 
 FOOTER="""
-
-### What is Bhupesh upto nowadays 👀
-
-- 🌱 I’m currently learning ...
-   - Go (Golang)
-   - Flutter
-<!-- - _Also I am looking for some remote internship/contract/fulltime work opportunities._ -->
-
 
 ### ☺️ Support
 If you like my work, consider supporting me
