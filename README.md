@@ -3,7 +3,7 @@
 <img align="left" src="https://gist.github.com/Bhupesh-V/0246a3f681d2533d21efb1206d1ba9d4/raw/af7d53bfdbf30f725ef7ade206200086820739fd/AboutMe.gif" height="100px"> 
 <div>
   <h3 align="right">wassup nerds 🖖</h3>
-  <p align="right">I'm a Developer, Tech Writer and FOSS Enthusiast. I write (and work) with Python, Go, Bash &amp; Javascript (in that order).</p>
+  <p align="right">I'm a Developer, Tech Writer and FOSS Enthusiast. I write (and work) with Python, Go, Flutter, Bash.</p>
 </div>
 
 
@@ -62,26 +62,18 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>It happens to the best of us</b></summary>
+<details open><summary><b>The best way to learn language</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="It happens to the best of us" src="https://i.redd.it/zych3dr7ld381.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/r86gku/it_happens_to_the_best_of_us/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="The best way to learn language" src="https://i.redd.it/ihkv287iwc381.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/r83bck/the_best_way_to_learn_language/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
 </details>
 </ul></td>
-
-### What is Bhupesh upto nowadays 👀
-
-- 🌱 I’m currently learning ...
-   - Go (Golang)
-   - Flutter
-<!-- - _Also I am looking for some remote internship/contract/fulltime work opportunities._ -->
-
 
 ### ☺️ Support
 If you like my work, consider supporting me
