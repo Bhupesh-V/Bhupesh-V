@@ -23,7 +23,7 @@
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
-<li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh-v.github.io/undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><li><a title="grep is a life-saver for many but it is not so good with terminal UX, in this short tutorial I share some tips that can help make your grep experience a bit more pleasant!" href="https://bhupesh-v.github.io/making-grep-searches-sexier">Making grep searches sexier 🌶️</a></li><li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh-v.github.io/surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><li><a title="Its time to increase your horsepower and write code faster than before. In this tutorial I will cover how to setup and use code-snippets in Vim or NeoVim for Go, Python, Bash and Markdown (since I deal with them everyday)" href="https://bhupesh-v.github.io/learn-how-to-use-code-snippets-vim-cowboy">How to use code snippets in Vim like a cowboy 🤠️</a></li><td valign="top" width="50%"><b>TIL</b>
+<li><a title="Your CLI application might be good but its not great, you know what would be great. If it had release notes shipped with it. I mean seriously you have" href="https://bhupesh-v.github.io/why-how-add-changelog-in-your-next-cli">Why and How to add changelog in your next CLI</a></li><li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh-v.github.io/undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><li><a title="grep is a life-saver for many but it is not so good with terminal UX, in this short tutorial I share some tips that can help make your grep experience a bit more pleasant!" href="https://bhupesh-v.github.io/making-grep-searches-sexier">Making grep searches sexier 🌶️</a></li><li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh-v.github.io/surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><td valign="top" width="50%"><b>TIL</b>
 <ul><li><a href="https://bhupesh.gitbook.io/notes/flutter/null-aware-operators-dart">Null aware operators in Dart</a></li><li><a href="https://bhupesh.gitbook.io/notes/python/preventing-global-package-install">Preventing global package install with `PIP_REQUIRE_VIRTUALENV`</a></li><li><a href="https://bhupesh.gitbook.io/notes/shell/get-release-notes-github-api">Get Release notes from Github API</a></li><li><a href="https://bhupesh.gitbook.io/notes/shell/get-battery-status">Check battery status</a></li></ul></td></tr></table></details>
 
 ## Recent Works
@@ -62,13 +62,13 @@
 
 ### Today's Meme ٩(^‿^)۶
 
-<details open><summary><b>GitHub Copilot wants to say a few things</b></summary>
+<details open><summary><b>Google autofill has gotten passive aggressive recently</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="GitHub Copilot wants to say a few things" src="https://i.redd.it/0cnqw7hksl381.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/r91286/github_copilot_wants_to_say_a_few_things/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Google autofill has gotten passive aggressive recently" src="https://i.redd.it/9dnqdm1syr381.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/r9n63h/google_autofill_has_gotten_passive_aggressive/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
