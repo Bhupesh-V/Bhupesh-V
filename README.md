@@ -60,15 +60,15 @@
 </details>
 
 
-### Today's Meme ٩(^‿^)۶
+### Getting bored? have a meme 
 
-<details open><summary><b>Why Didn't We Reach Our Development Goals This Past Sprint?</b></summary>
+<details open><summary><b>In a train in Stockholm, Sweden</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Why Didn't We Reach Our Development Goals This Past Sprint?" src="https://i.redd.it/44v8gty1f3481.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ravp1l/why_didnt_we_reach_our_development_goals_this/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="In a train in Stockholm, Sweden" src="https://i.redd.it/3t12mkzds2481.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ratv6p/in_a_train_in_stockholm_sweden/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
