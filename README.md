@@ -2,8 +2,8 @@
 
 <!-- <img align="left" src="https://gist.github.com/Bhupesh-V/0246a3f681d2533d21efb1206d1ba9d4/raw/af7d53bfdbf30f725ef7ade206200086820739fd/AboutMe.gif" height="100px"> -->
 <div>
-  <h3 align="right">wassup nerds 🖖</h3>
-  <p align="right">I'm a Developer, Tech Writer and FOSS Enthusiast. I write (and work) with Python, Go, Flutter, Bash.</p>
+  <h3>wassup nerds 🖖</h3>
+  <p>I'm a Developer, Tech Writer and FOSS Enthusiast. I write (and work) with Python, Go, Flutter, Bash.</p>
 </div>
 
 
@@ -18,7 +18,7 @@
 
 
 <details open>
-  <summary>✒️ Writeups <br><br></summary>
+  <summary>Recent Writeups <br><br></summary>
   <table>
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
@@ -28,7 +28,7 @@
 
 ## Recent Works
 <details open>
-  <summary>Some of my noticeable work <br><br></summary>
+  <summary>Some of my fun, weird & useful projects <br><br></summary>
   <table>
     <tr>
       <td valign="top" width="33%"><samp><h3 align="center">dotman</h3></samp>
@@ -62,13 +62,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>In a train in Stockholm, Sweden</b></summary>
+<details open><summary><b>Agile manifesto understood by some people</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="In a train in Stockholm, Sweden" src="https://i.redd.it/3t12mkzds2481.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ratv6p/in_a_train_in_stockholm_sweden/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Agile manifesto understood by some people" src="https://i.redd.it/f2hbs5cr7a481.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/rbmwxi/agile_manifesto_understood_by_some_people/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
