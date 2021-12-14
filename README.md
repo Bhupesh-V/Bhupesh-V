@@ -24,7 +24,7 @@
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
 <li><a title="Your CLI application might be good but its not great, you know what would be great. If it had release notes shipped with it. I mean seriously you have" href="https://bhupesh-v.github.io/why-how-add-changelog-in-your-next-cli">Why and How to add changelog in your next CLI</a></li><li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh-v.github.io/undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><li><a title="grep is a life-saver for many but it is not so good with terminal UX, in this short tutorial I share some tips that can help make your grep experience a bit more pleasant!" href="https://bhupesh-v.github.io/making-grep-searches-sexier">Making grep searches sexier 🌶️</a></li><li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh-v.github.io/surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><td valign="top" width="50%"><b>TIL</b>
-<ul><li><a href="https://bhupesh.gitbook.io/notes/python/flatten-python-list">Easy & Lazy way to flatten a python list</a></li><li><a href="https://bhupesh.gitbook.io/notes/flutter/null-aware-operators-dart">Null aware operators in Dart</a></li><li><a href="https://bhupesh.gitbook.io/notes/python/preventing-global-package-install">Preventing global package install with `PIP_REQUIRE_VIRTUALENV`</a></li><li><a href="https://bhupesh.gitbook.io/notes/shell/get-release-notes-github-api">Get Release notes from Github API</a></li></ul></td></tr></table></details>
+<ul><li><a href="https://bhupesh.gitbook.io/notes/git/view-python-function-git-history-with-fzf">View a python function's history over-time with Git & FZF</a></li><li><a href="https://bhupesh.gitbook.io/notes/python/flatten-python-list">Easy & Lazy way to flatten a python list</a></li><li><a href="https://bhupesh.gitbook.io/notes/flutter/null-aware-operators-dart">Null aware operators in Dart</a></li><li><a href="https://bhupesh.gitbook.io/notes/python/preventing-global-package-install">Preventing global package install with `PIP_REQUIRE_VIRTUALENV`</a></li></ul></td></tr></table></details>
 
 ## Recent Works
 <details open>
@@ -62,13 +62,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Becoming familiar with programming right off the bat, guys</b></summary>
+<details open><summary><b>Log4j go brrrrr</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Becoming familiar with programming right off the bat, guys" src="https://i.redd.it/lyast2jwn5581.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/rev2c0/becoming_familiar_with_programming_right_off_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Log4j go brrrrr" src="https://i.redd.it/ugbi7p6gob581.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/rfhdtd/log4j_go_brrrrr/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
