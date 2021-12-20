@@ -62,13 +62,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>How many different console applications does one need in his OS? Windows:</b></summary>
+<details open><summary><b>RCE go brrrrrrrrrr</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="How many different console applications does one need in his OS? Windows:" src="https://i.redd.it/9igbs6249d681.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/rjgnj2/how_many_different_console_applications_does_one/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="RCE go brrrrrrrrrr" src="https://i.redd.it/tq554eafkj681.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/rk2f7j/rce_go_brrrrrrrrrr/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
