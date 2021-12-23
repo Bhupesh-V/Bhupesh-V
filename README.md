@@ -62,13 +62,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Git Logo by Jason Long is licensed under the Creative Commons Attribution 3.0 Unported License. https://twitter.com/jasonlong</b></summary>
+<details open><summary><b>Coincidence huh?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Git Logo by Jason Long is licensed under the Creative Commons Attribution 3.0 Unported License. https://twitter.com/jasonlong" src="https://i.redd.it/gplyoinjqw681.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/rlg10p/git_logo_by_jason_long_is_licensed_under_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Coincidence huh?" src="https://i.redd.it/j6dof9pym4781.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/rm9ssp/coincidence_huh/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
