@@ -62,13 +62,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Oh no not my DVD player as well</b></summary>
+<details open><summary><b>oh well...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Oh no not my DVD player as well" src="https://i.redd.it/w8p4gcive5781.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/rmd70o/oh_no_not_my_dvd_player_as_well/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="oh well..." src="https://i.redd.it/an8k0hkwij781.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/rnsv70/oh_well/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
