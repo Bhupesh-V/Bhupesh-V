@@ -62,13 +62,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Please think boss..</b></summary>
+<details open><summary><b>print(Hello</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Please think boss.." src="https://i.redd.it/9t98md8xfla81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/rzjujr/please_think_boss/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="print(Hello" src="https://i.redd.it/f4qe1o5gbva81.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="World) as a 🤑𝐌𝐢𝐥𝐥𝐢𝐨𝐧𝐚𝐢𝐫𝐞🤑">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
