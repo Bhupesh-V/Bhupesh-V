@@ -62,13 +62,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Maybe this article has the solution to my problem, let me read the whole thing before I realize all the info is 6 years depreciated!</b></summary>
+<details open><summary><b>Best advertisement</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Maybe this article has the solution to my problem, let me read the whole thing before I realize all the info is 6 years depreciated!" src="https://i.redd.it/19yxdcagvpb81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/s42cw3/maybe_this_article_has_the_solution_to_my_problem/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Best advertisement" src="https://i.redd.it/dmjkbwhdtxb81.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/s4xn58/best_advertisement/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
