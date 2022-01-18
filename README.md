@@ -62,13 +62,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Hello, I'd like to hear a Bluetooth joke.</b></summary>
+<details open><summary><b>Everytime a new extern 'senior' is around</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Hello, I'd like to hear a Bluetooth joke." src="https://i.redd.it/eztow7oul3c81.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/s5ivd2/hello_id_like_to_hear_a_bluetooth_joke/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Everytime a new extern 'senior' is around" src="https://i.redd.it/z6whbl9tm8c81.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/s62fjd/everytime_a_new_extern_senior_is_around/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
