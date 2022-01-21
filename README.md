@@ -62,13 +62,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>I was asked to look into a possible data breach on a very old website. This was the SQL injection protection...</b></summary>
+<details open><summary><b>Makes me furious</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I was asked to look into a possible data breach on a very old website. This was the SQL injection protection..." src="https://i.redd.it/jdaavahikhc81.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/s73mhz/i_was_asked_to_look_into_a_possible_data_breach/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Makes me furious" src="https://i.redd.it/w3eyo6ucltc81.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/s8g0rc/makes_me_furious/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
