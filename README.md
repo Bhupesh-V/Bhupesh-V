@@ -62,13 +62,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>These captchas are really getting out of hand</b></summary>
+<details open><summary><b>ah to be young and unaware of what the int function does</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="These captchas are really getting out of hand" src="https://i.redd.it/iq5cl9k9a8e81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/sdxsld/these_captchas_are_really_getting_out_of_hand/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="ah to be young and unaware of what the int function does" src="https://i.redd.it/ctz0wtcy1fe81.gif" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/seoyky/ah_to_be_young_and_unaware_of_what_the_int/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
