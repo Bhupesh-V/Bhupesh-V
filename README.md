@@ -62,13 +62,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>And of course everything compiles without errors</b></summary>
+<details open><summary><b>Why list all the provinces when you can ask the only important question like Nintendo</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="And of course everything compiles without errors" src="https://i.redd.it/ivkppfqdc9f81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/si0m7b/and_of_course_everything_compiles_without_errors/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Why list all the provinces when you can ask the only important question like Nintendo" src="https://i.redd.it/3xanh199ohf81.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/sj0nsv/why_list_all_the_provinces_when_you_can_ask_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
