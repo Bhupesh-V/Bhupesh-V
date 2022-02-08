@@ -23,7 +23,7 @@
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
-<li><a title="Your CLI application might be good but its not great, you know what would be great. If it had release notes shipped with it. I mean seriously you have" href="https://bhupesh-v.github.io/why-how-add-changelog-in-your-next-cli">Why and How to add changelog in your next CLI</a></li><li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh-v.github.io/undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><li><a title="grep is a life-saver for many but it is not so good with terminal UX, in this short tutorial I share some tips that can help make your grep experience a bit more pleasant!" href="https://bhupesh-v.github.io/making-grep-searches-sexier">Making grep searches sexier 🌶️</a></li><li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh-v.github.io/surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><td valign="top" width="50%"><b>TIL</b>
+<li><a title="Your CLI application might be good but its not great, you know what would be great. If it had release notes shipped with it. I mean seriously you have" href="https://bhupesh.me//why-how-add-changelog-in-your-next-cli">Why and How to add changelog in your next CLI</a></li><li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh.me//undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><li><a title="grep is a life-saver for many but it is not so good with terminal UX, in this short tutorial I share some tips that can help make your grep experience a bit more pleasant!" href="https://bhupesh.me//making-grep-searches-sexier">Making grep searches sexier 🌶️</a></li><li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh.me//surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><td valign="top" width="50%"><b>TIL</b>
 <ul><li><a href="https://bhupesh.gitbook.io/notes/flutter/get-all-hive-boxes">Get all Hive 🐝 boxes</a></li><li><a href="https://bhupesh.gitbook.io/notes/career/developing-decision-making-skills">Invest in decision-making skills early in career</a></li><li><a href="https://bhupesh.gitbook.io/notes/git/git-diff-since-last-git-pull">View git diff since the last git pull</a></li><li><a href="https://bhupesh.gitbook.io/notes/atabases/explain-postgresql-query">EXPLAIN queries in PostgreSQL</a></li></ul></td></tr></table></details>
 
 ## Recent Works
@@ -62,13 +62,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Our blessed homeland</b></summary>
+<details open><summary><b>I have never felt so useless</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Our blessed homeland" src="https://i.redd.it/k2iaa7ajw6g81.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/sltnra/our_blessed_homeland/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I have never felt so useless" src="https://i.redd.it/fv6uusnzmag81.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/smace3/i_have_never_felt_so_useless/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
