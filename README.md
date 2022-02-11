@@ -24,7 +24,7 @@
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
 <li><a title="Your CLI application might be good but its not great, you know what would be great. If it had release notes shipped with it. I mean seriously you have" href="https://bhupesh.me//why-how-add-changelog-in-your-next-cli">Why and How to add changelog in your next CLI</a></li><li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh.me//undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><li><a title="grep is a life-saver for many but it is not so good with terminal UX, in this short tutorial I share some tips that can help make your grep experience a bit more pleasant!" href="https://bhupesh.me//making-grep-searches-sexier">Making grep searches sexier 🌶️</a></li><li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh.me//surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><td valign="top" width="50%"><b>TIL</b>
-<ul><li><a href="https://bhupesh.gitbook.io/notes/career/question-to-ask-interview">Questions to ask in an interview</a></li><li><a href="https://bhupesh.gitbook.io/notes/flutter/get-all-hive-boxes">Get all Hive 🐝 boxes</a></li><li><a href="https://bhupesh.gitbook.io/notes/career/developing-decision-making-skills">Invest in decision-making skills early in career</a></li><li><a href="https://bhupesh.gitbook.io/notes/git/git-diff-since-last-git-pull">View git diff since the last git pull</a></li></ul></td></tr></table></details>
+<ul><li><a href="https://bhupesh.gitbook.io/notes/iscellaneous/running-headless-android-emulator">Running headless Android Emulator</a></li><li><a href="https://bhupesh.gitbook.io/notes/career/question-to-ask-interview">Questions to ask in an interview</a></li><li><a href="https://bhupesh.gitbook.io/notes/flutter/get-all-hive-boxes">Get all Hive 🐝 boxes</a></li><li><a href="https://bhupesh.gitbook.io/notes/career/developing-decision-making-skills">Invest in decision-making skills early in career</a></li></ul></td></tr></table></details>
 
 ## Recent Works
 <details open>
@@ -62,13 +62,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>“Hey could I talk to you about a feature request?”</b></summary>
+<details open><summary><b>basic code no more</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="“Hey could I talk to you about a feature request?”" src="https://i.redd.it/gwauis3iorg81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/so8iwu/hey_could_i_talk_to_you_about_a_feature_request/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="basic code no more" src="https://i.redd.it/0wk8r3jneyg81.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/sp090b/basic_code_no_more/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
