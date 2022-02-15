@@ -62,13 +62,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Yeah, change his mind</b></summary>
+<details open><summary><b>Programmers be like</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Yeah, change his mind" src="https://i.redd.it/c15c4wcickh81.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/sre8n8/yeah_change_his_mind/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Programmers be like" src="https://i.redd.it/dp2rs7q80sh81.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ss7km3/programmers_be_like/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
