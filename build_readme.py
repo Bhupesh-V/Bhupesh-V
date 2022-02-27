@@ -19,6 +19,22 @@ HEADER = """
 <div>
   <h3>wassup nerds 🖖</h3>
   <p>I'm a Developer, Tech Writer and FOSS Enthusiast. I write (and work) with Python, Go, Flutter, Bash.</p>
+  <p>
+  <ul>
+    <li>I am also a guest writer for freeCodeCamp (more than 20k views) and HackerNoon </li>
+    <li>I am a builder/tinkerer</li>
+    <li>In my free time, I am probably sleeping or reading something online</li>
+  </ul>
+  
+4 topics I can speak on with no prep:
+
+<ol>
+<li>Importance of setting up a second brain & taking short notes</li>
+<li>Writing tools and scripts for yourself, improving your productivity</li>
+<li>Open Source Software and ecosystem</li>
+<li>The Marvel Cinematic Universe</li>
+<ol>
+
 </div>
 
 
