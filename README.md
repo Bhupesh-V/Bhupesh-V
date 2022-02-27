@@ -4,6 +4,23 @@
 <div>
   <h3>wassup nerds 🖖</h3>
   <p>I'm a Developer, Tech Writer and FOSS Enthusiast. I write (and work) with Python, Go, Flutter, Bash.</p>
+  <p>
+  <ul>
+    <li>I am also a guest writer for freeCodeCamp (more than 20k views) and HackerNoon </li>
+    <li>I am a builder/tinkerer</li>
+    <li>In my free time, I am probably sleeping or reading something online</li>
+  </ul>
+  
+4 topics I can speak on with no prep:
+
+<ol>
+<li>Importance of setting up a second brain & taking short notes</li>
+<li>Writing tools and scripts for yourself, improving your productivity</li>
+<li>Open Source Software and ecosystem</li>
+<li>The Marvel Cinematic Universe</li>
+<ol>
+</p>
+
 </div>
 
 
@@ -62,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Who did it?</b></summary>
+<details open><summary><b>Is it???</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Who did it?" src="https://i.redd.it/0mfvnvscl7k81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/t21q1f/who_did_it/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Is it???" src="https://i.redd.it/63i75e2g94k81.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/t1pksv/is_it/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
