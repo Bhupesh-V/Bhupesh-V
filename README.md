@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b><span class=bold>👠 </span><span class=italic>👠 </span></b></summary>
+<details open><summary><b>crossing my fingers in my legs as well!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="<span class=bold>👠 </span><span class=italic>👠 </span>" src="https://i.redd.it/00fak0e9zdk81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/t2pgux/span_classbold_spanspan_classitalic_span/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="crossing my fingers in my legs as well!" src="https://i.redd.it/gv5rb6zvylk81.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/t3krgd/crossing_my_fingers_in_my_legs_as_well/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
