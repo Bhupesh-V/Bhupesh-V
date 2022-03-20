@@ -40,7 +40,7 @@
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
-<li><a title="Your CLI application might be good but its not great, you know what would be great. If it had release notes shipped with it. I mean seriously you have" href="https://bhupesh.me//why-how-add-changelog-in-your-next-cli">Why and How to add changelog in your next CLI</a></li><li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh.me//undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><li><a title="grep is a life-saver for many but it is not so good with terminal UX, in this short tutorial I share some tips that can help make your grep experience a bit more pleasant!" href="https://bhupesh.me//making-grep-searches-sexier">Making grep searches sexier 🌶️</a></li><li><a title="I recently wrote a python script to surf the web (see search results) directly into the terminal." href="https://bhupesh.me//surfing-web-inside-terminal-using-vim-python">Surfing web inside a terminal, because why not?</a></li><td valign="top" width="50%"><b>TIL</b>
+<li><a title="So from my short professional experience, I have realised that if you are working with a small team of individuals a lot of folks end-up authoring multiple pull-requests across X different repositories in an organisation which sometimes leads to managing multiple feature PRs at a time." href="https://bhupesh.me//automatically-remind-contributors-to-update-pull-request">Automatically remind contributors to update their pull requests</a></li><li><a title="Your CLI application might be good but its not great, you know what would be great. If it had release notes shipped with it. I mean seriously you have" href="https://bhupesh.me//why-how-add-changelog-in-your-next-cli">Why and How to add changelog in your next CLI</a></li><li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh.me//undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><li><a title="grep is a life-saver for many but it is not so good with terminal UX, in this short tutorial I share some tips that can help make your grep experience a bit more pleasant!" href="https://bhupesh.me//making-grep-searches-sexier">Making grep searches sexier 🌶️</a></li><td valign="top" width="50%"><b>TIL</b>
 <ul><li><a href="https://bhupesh.gitbook.io/notes/career/pros-and-cons-of-working-professionally">Pros & Cons of working professionally</a></li><li><a href="https://bhupesh.gitbook.io/notes/iscellaneous/running-headless-android-emulator">Running headless Android Emulator</a></li><li><a href="https://bhupesh.gitbook.io/notes/career/question-to-ask-interview">Questions to ask in an interview</a></li><li><a href="https://bhupesh.gitbook.io/notes/flutter/get-all-hive-boxes">Get all Hive 🐝 boxes</a></li></ul></td></tr></table></details>
 
 ## Recent Works
@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>The never ending story</b></summary>
+<details open><summary><b>When your editor adds an unwanted closing tag right after the opening tag</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="The never ending story" src="https://i.redd.it/r7lpvhtnx1o81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/tgqsz2/the_never_ending_story/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="When your editor adds an unwanted closing tag right after the opening tag" src="https://i.redd.it/uhmnqkxqzdo81.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ti1zm5/when_your_editor_adds_an_unwanted_closing_tag/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
