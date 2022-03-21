@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>When your editor adds an unwanted closing tag right after the opening tag</b></summary>
+<details open><summary><b>Does Java have any other uses besides Android app development 🤔</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="When your editor adds an unwanted closing tag right after the opening tag" src="https://i.redd.it/uhmnqkxqzdo81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ti1zm5/when_your_editor_adds_an_unwanted_closing_tag/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Does Java have any other uses besides Android app development 🤔" src="https://i.redd.it/wsvpeg0k1mo81.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/tivybu/does_java_have_any_other_uses_besides_android_app/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
