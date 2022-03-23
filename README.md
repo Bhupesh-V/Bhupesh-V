@@ -41,7 +41,7 @@
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
 <li><a title="So from my short professional experience, I have realised that if you are working with a small team of individuals a lot of folks end-up authoring multiple pull-requests across X different repositories in an organisation which sometimes leads to managing multiple feature PRs at a time." href="https://bhupesh.me//automatically-remind-contributors-to-update-pull-request">Automatically remind contributors to update their pull requests</a></li><li><a title="Your CLI application might be good but its not great, you know what would be great. If it had release notes shipped with it. I mean seriously you have" href="https://bhupesh.me//why-how-add-changelog-in-your-next-cli">Why and How to add changelog in your next CLI</a></li><li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh.me//undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><li><a title="grep is a life-saver for many but it is not so good with terminal UX, in this short tutorial I share some tips that can help make your grep experience a bit more pleasant!" href="https://bhupesh.me//making-grep-searches-sexier">Making grep searches sexier 🌶️</a></li><td valign="top" width="50%"><b>TIL</b>
-<ul><li><a href="https://bhupesh.gitbook.io/notes/career/pros-and-cons-of-working-professionally">Pros & Cons of working professionally</a></li><li><a href="https://bhupesh.gitbook.io/notes/iscellaneous/running-headless-android-emulator">Running headless Android Emulator</a></li><li><a href="https://bhupesh.gitbook.io/notes/career/question-to-ask-interview">Questions to ask in an interview</a></li><li><a href="https://bhupesh.gitbook.io/notes/flutter/get-all-hive-boxes">Get all Hive 🐝 boxes</a></li></ul></td></tr></table></details>
+<ul><li><a href="https://bhupesh.gitbook.io/notes/flutter/decrease-lottie-size-dynamically">Decrease lottie size dynamically in flutter</a></li><li><a href="https://bhupesh.gitbook.io/notes/career/pros-and-cons-of-working-professionally">Pros & Cons of working professionally</a></li><li><a href="https://bhupesh.gitbook.io/notes/iscellaneous/running-headless-android-emulator">Running headless Android Emulator</a></li><li><a href="https://bhupesh.gitbook.io/notes/career/question-to-ask-interview">Questions to ask in an interview</a></li></ul></td></tr></table></details>
 
 ## Recent Works
 <details open>
@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>0 vs NULL in toilet paper</b></summary>
+<details open><summary><b>OPS CALLED</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="0 vs NULL in toilet paper" src="https://i.redd.it/3zhphb2kxlo81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/tivhan/0_vs_null_in_toilet_paper/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="OPS CALLED" src="https://i.redd.it/x2mzzmzqdzo81.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/tka0ov/ops_called/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
