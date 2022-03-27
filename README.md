@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>MemeWho can relate?</b></summary>
+<details open><summary><b>Basically those starup engineers who don't know much about DS, Algo but still wants to test it because Google is doing so</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="MemeWho can relate?" src="https://i.redd.it/jqanlirfwip81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/tnksqn/memewho_can_relate/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Basically those starup engineers who don't know much about DS, Algo but still wants to test it because Google is doing so" src="https://i.redd.it/tlzbe4822rp81.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/totxgm/basically_those_starup_engineers_who_dont_know/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
