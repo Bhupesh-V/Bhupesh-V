@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>....</b></summary>
+<details open><summary><b>VS Code has good bass and bright trebles now, very helpful</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="...." src="https://i.redd.it/f57etosrgyp81.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/tpnyqn/_/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="VS Code has good bass and bright trebles now, very helpful" src="https://i.redd.it/sz6ji1ln25q81.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/tqb86t/vs_code_has_good_bass_and_bright_trebles_now_very/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
