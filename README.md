@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>When you ask a machine learning algorithm to write a news story after training it with Florida news</b></summary>
+<details open><summary><b>I need to find them!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="When you ask a machine learning algorithm to write a news story after training it with Florida news" src="https://i.redd.it/443m25hyljq81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ts9jv6/when_you_ask_a_machine_learning_algorithm_to/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I need to find them!" src="https://i.redd.it/fr8jt9qskrq81.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/tt6jzl/i_need_to_find_them/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
