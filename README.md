@@ -40,7 +40,7 @@
     <tr>
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
-<li><a title="So from my short professional experience, I have realised that if you are working with a small team of individuals a lot of folks end-up authoring multiple pull-requests across X different repositories in an organisation which sometimes leads to managing multiple feature PRs at a time." href="https://bhupesh.me//automatically-remind-contributors-to-update-pull-request">Automatically remind contributors to update their pull requests</a></li><li><a title="Your CLI application might be good but its not great, you know what would be great. If it had release notes shipped with it. I mean seriously you have" href="https://bhupesh.me//why-how-add-changelog-in-your-next-cli">Why and How to add changelog in your next CLI</a></li><li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh.me//undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><li><a title="grep is a life-saver for many but it is not so good with terminal UX, in this short tutorial I share some tips that can help make your grep experience a bit more pleasant!" href="https://bhupesh.me//making-grep-searches-sexier">Making grep searches sexier 🌶️</a></li><td valign="top" width="50%"><b>TIL</b>
+<li><a title="Ever wondered how others are changing the same file you are working on? It can give insights into what a particular piece of code will look like in the future. Certainly, it can also help OSS newcomers to identify how others are building a particular feature" href="https://bhupesh.me//finding-pull-requests-that-change-a-file-terminal">Find pull requests that modify a file path in the terminal</a></li><li><a title="So from my short professional experience, I have realised that if you are working with a small team of individuals a lot of folks end-up authoring multiple pull-requests across X different repositories in an organisation which sometimes leads to managing multiple feature PRs at a time." href="https://bhupesh.me//automatically-remind-contributors-to-update-pull-request">Automatically remind contributors to update their pull requests</a></li><li><a title="Your CLI application might be good but its not great, you know what would be great. If it had release notes shipped with it. I mean seriously you have" href="https://bhupesh.me//why-how-add-changelog-in-your-next-cli">Why and How to add changelog in your next CLI</a></li><li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh.me//undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><td valign="top" width="50%"><b>TIL</b>
 <ul><li><a href="https://bhupesh.gitbook.io/notes/go/resolving-merge-conflicts-go-su">Resolving merge conflicts in go.sum</a></li><li><a href="https://bhupesh.gitbook.io/notes/shell/reusing-arguments-from-last-comman">Reuse arguments from last command</a></li><li><a href="https://bhupesh.gitbook.io/notes/flutter/decrease-lottie-size-dynamically">Decrease lottie size dynamically in flutter</a></li><li><a href="https://bhupesh.gitbook.io/notes/career/pros-and-cons-of-working-professionally">Pros & Cons of working professionally</a></li></ul></td></tr></table></details>
 
 ## Recent Works
@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Not the best programmer, but works for crumbs</b></summary>
+<details open><summary><b>When they tell you not to take “No” for an answer</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Not the best programmer, but works for crumbs" src="https://i.redd.it/ugqk2ky9w3r81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/tuhdcs/not_the_best_programmer_but_works_for_crumbs/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="When they tell you not to take “No” for an answer" src="https://i.redd.it/xu50t6ilzar81.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/tv7mul/when_they_tell_you_not_to_take_no_for_an_answer/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
