@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>it's one of the best games every made</b></summary>
+<details open><summary><b>What are the worst names you gave to variables?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="it's one of the best games every made" src="https://i.redd.it/4t7ci3ot7kr81.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/tw9z28/its_one_of_the_best_games_every_made/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="What are the worst names you gave to variables?" src="https://i.redd.it/9sha1s8rorr81.gif" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/tx3sj8/what_are_the_worst_names_you_gave_to_variables/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
