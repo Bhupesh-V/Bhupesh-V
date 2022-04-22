@@ -41,7 +41,7 @@
       <td valign="top" width="50%"><b>Blogs</b>
           <ul>
 <li><a title="Ever wondered how others are changing the same file you are working on? It can give insights into what a particular piece of code will look like in the future. Certainly, it can also help OSS newcomers to identify how others are building a particular feature" href="https://bhupesh.me//finding-pull-requests-that-change-a-file-terminal">Find pull requests that modify a file path in the terminal</a></li><li><a title="So from my short professional experience, I have realised that if you are working with a small team of individuals a lot of folks end-up authoring multiple pull-requests across X different repositories in an organisation which sometimes leads to managing multiple feature PRs at a time." href="https://bhupesh.me//automatically-remind-contributors-to-update-pull-request">Automatically remind contributors to update their pull requests</a></li><li><a title="Your CLI application might be good but its not great, you know what would be great. If it had release notes shipped with it. I mean seriously you have" href="https://bhupesh.me//why-how-add-changelog-in-your-next-cli">Why and How to add changelog in your next CLI</a></li><li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh.me//undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><td valign="top" width="50%"><b>TIL</b>
-<ul><li><a href="https://bhupesh.gitbook.io/notes/go/resolving-merge-conflicts-go-su">Resolving merge conflicts in go.sum</a></li><li><a href="https://bhupesh.gitbook.io/notes/shell/reusing-arguments-from-last-comman">Reuse arguments from last command</a></li><li><a href="https://bhupesh.gitbook.io/notes/flutter/decrease-lottie-size-dynamically">Decrease lottie size dynamically in flutter</a></li><li><a href="https://bhupesh.gitbook.io/notes/career/pros-and-cons-of-working-professionally">Pros & Cons of working professionally</a></li></ul></td></tr></table></details>
+<ul><li><a href="https://bhupesh.gitbook.io/notes/go/using-local-packages-using-require">Using local Go package path</a></li><li><a href="https://bhupesh.gitbook.io/notes/go/resolving-merge-conflicts-go-su">Resolving merge conflicts in go.sum</a></li><li><a href="https://bhupesh.gitbook.io/notes/shell/reusing-arguments-from-last-comman">Reuse arguments from last command</a></li><li><a href="https://bhupesh.gitbook.io/notes/flutter/decrease-lottie-size-dynamically">Decrease lottie size dynamically in flutter</a></li></ul></td></tr></table></details>
 
 ## Recent Works
 <details open>
@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>It's really a lot of work when you think about it</b></summary>
+<details open><summary><b>Minimalist programming.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="It's really a lot of work when you think about it" src="https://i.redd.it/vrlka2sb4ku81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/u7gji4/its_really_a_lot_of_work_when_you_think_about_it/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Minimalist programming." src="https://i.redd.it/hileinynaxu81.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/u8tsus/minimalist_programming/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
