@@ -13,6 +13,8 @@ HEADERS = {
 
 NS = {"ns": "http://www.w3.org/2005/Atom"}
 
+NO_OF_BLOGS = NO_OF_TILS = 4
+
 HEADER = """
 
 <!-- <img align="left" src="https://gist.github.com/Bhupesh-V/0246a3f681d2533d21efb1206d1ba9d4/raw/af7d53bfdbf30f725ef7ade206200086820739fd/AboutMe.gif" height="100px"> -->
@@ -104,8 +106,6 @@ WRITEUP_HEADER = """
   <summary>Recent Writeups <br><br></summary>
   <table>
     <tr>
-      <td valign="top" width="50%"><b>Blogs</b>
-          <ul>
 """
 
 
@@ -120,11 +120,22 @@ def request(url, data=None, method=None):
     return res
 
 
-data = request("https://bhupesh-v.github.io/feed.xml")
-tree = ET.fromstring(data)
-entries = tree.findall("ns:entry", namespaces=NS)
+def get_newsletters():
+    print("Getting Newsletters")
+    data = request("https://buttondown.email/bhupesh/rss")
+    tree = ET.fromstring(data)
+    entries = tree.findall('.//item')
+    return entries
+
+def get_blogs():
+    print("Getting Blogs")
+    data = request("https://bhupesh-v.github.io/feed.xml")
+    tree = ET.fromstring(data)
+    entries = tree.findall("ns:entry", namespaces=NS)
+    return entries
 
 def get_tils():
+    print("Getting TILs")
     data = request("https://raw.githubusercontent.com/Bhupesh-V/til/master/recent_tils.json")
     tils = json.loads(data)
     return tils
@@ -134,23 +145,39 @@ def main(todays_meme):
     with open('README.md', 'w') as file:
         file.write(HEADER)
         file.write(WRITEUP_HEADER)
-        for e in entries[:4]:
+
+        file.write("""<td valign="top" width="34%"><b>Blogs</b><ul>""")
+        for e in get_blogs()[:NO_OF_BLOGS]:
             title = e.find("ns:title", namespaces=NS).text
             url = e.find("ns:id", namespaces=NS).text
             summary = e.find("ns:summary", namespaces=NS).text
             file.write(f"""<li><a title="{summary}" href="{url}">{title}</a></li>""")
-        file.write("""<td valign="top" width="50%"><b>TIL</b>\n<ul>""")
-        for item in get_tils()[:4]:
+        file.write("""</ul></td>""")
+
+        file.write("""<td valign="top" width="33%"><b>TIL</b>\n<ul>""")
+        for item in get_tils()[:NO_OF_TILS]:
             file.write(f"""<li><a href="{item['url']}">{item['title']}</a></li>""")
-        file.write("""</ul></td></tr></table></details>""")
+        file.write("""</ul></td>""")
+
+        file.write("""<td valign="top" width="33%"><b>Newsletter</b>\n<ul>""")
+        for item in get_newsletters()[:NO_OF_TILS]:
+            title = item.find(".//title").text
+            link = item.find(".//link").text
+            file.write(f"""<li><a href="{link}">{title}</a></li>""")
+        file.write("""</ul></td>""")
+
+        file.write("""</tr></table></details>""")
+
         file.write(PROJECTS)
-        file.write("\n\n### Getting bored? have a meme \n\n")
-        file.write(
-            "<details open><summary><b>{0}</b></summary>\n\n".format(todays_meme[1]))
-        file.write("""<table>\n<tr>\n<th valign="top" width="50%">\n""")
-        file.write("""<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="{title}" src="{meme}" height="50%"><br>\n""".format(
-            title=todays_meme[1], meme=todays_meme[0]))
-        file.write(
+
+        if todays_meme is not None:
+            file.write("\n\n### Getting bored? have a meme \n\n")
+            file.write(
+                "<details open><summary><b>{0}</b></summary>\n\n".format(todays_meme[1]))
+            file.write("""<table>\n<tr>\n<th valign="top" width="50%">\n""")
+            file.write("""<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="{title}" src="{meme}" height="50%"><br>\n""".format(
+                title=todays_meme[1], meme=todays_meme[0]))
+            file.write(
             """<p><strong>ℹ️ <a href="{source}">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>""".format(source=todays_meme[2]))
         file.write("\n</th>\n</tr>\n</table>\n</details>\n</ul></td>")
         file.write(FOOTER)
