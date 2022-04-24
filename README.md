@@ -25,13 +25,14 @@
 
 
 ---
+<!--
 ### ⚽ My Goals 
 
 - [ ] Launch 🚀 a SaaS.
 - [x] Get a Laptop 💻.
 - [x] Start A [Newsletter 🗞️](https://buttondown.email/bhupesh/archive) for my [blog](https://bhupesh-v.github.io).
 - [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
-
+-->
 
 
 <details open>
@@ -79,13 +80,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>I wonder who wrote this garbage code I'm busy fixing</b></summary>
+<details open><summary><b>Hacker</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I wonder who wrote this garbage code I'm busy fixing" src="https://i.redd.it/rn5uytvpx9v81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ua4ln0/i_wonder_who_wrote_this_garbage_code_im_busy/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Hacker" src="https://i.redd.it/1dcr9u3h2dv81.gif" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/uahbmr/hacker/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
