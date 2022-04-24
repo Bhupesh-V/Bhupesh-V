@@ -40,13 +40,14 @@ HEADER = """
 
 
 ---
+<!--
 ### ⚽ My Goals 
 
 - [ ] Launch 🚀 a SaaS.
 - [x] Get a Laptop 💻.
 - [x] Start A [Newsletter 🗞️](https://buttondown.email/bhupesh/archive) for my [blog](https://bhupesh-v.github.io).
 - [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
-
+-->
 
 """
 
