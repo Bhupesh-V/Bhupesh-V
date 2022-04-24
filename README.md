@@ -39,10 +39,9 @@
   <summary>Recent Writeups <br><br></summary>
   <table>
     <tr>
-      <td valign="top" width="50%"><b>Blogs</b>
-          <ul>
-<li><a title="Ever wondered how others are changing the same file you are working on? It can give insights into what a particular piece of code will look like in the future. Certainly, it can also help OSS newcomers to identify how others are building a particular feature" href="https://bhupesh.me//finding-pull-requests-that-change-a-file-terminal">Find pull requests that modify a file path in the terminal</a></li><li><a title="So from my short professional experience, I have realised that if you are working with a small team of individuals a lot of folks end-up authoring multiple pull-requests across X different repositories in an organisation which sometimes leads to managing multiple feature PRs at a time." href="https://bhupesh.me//automatically-remind-contributors-to-update-pull-request">Automatically remind contributors to update their pull requests</a></li><li><a title="Your CLI application might be good but its not great, you know what would be great. If it had release notes shipped with it. I mean seriously you have" href="https://bhupesh.me//why-how-add-changelog-in-your-next-cli">Why and How to add changelog in your next CLI</a></li><li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh.me//undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li><td valign="top" width="50%"><b>TIL</b>
-<ul><li><a href="https://bhupesh.gitbook.io/notes/go/using-local-packages-using-require">Using local Go package path</a></li><li><a href="https://bhupesh.gitbook.io/notes/go/resolving-merge-conflicts-go-su">Resolving merge conflicts in go.sum</a></li><li><a href="https://bhupesh.gitbook.io/notes/shell/reusing-arguments-from-last-comman">Reuse arguments from last command</a></li><li><a href="https://bhupesh.gitbook.io/notes/flutter/decrease-lottie-size-dynamically">Decrease lottie size dynamically in flutter</a></li></ul></td></tr></table></details>
+<td valign="top" width="34%"><b>Blogs</b><ul><li><a title="Ever wondered how others are changing the same file you are working on? It can give insights into what a particular piece of code will look like in the future. Certainly, it can also help OSS newcomers to identify how others are building a particular feature" href="https://bhupesh.me//finding-pull-requests-that-change-a-file-terminal">Find pull requests that modify a file path in the terminal</a></li><li><a title="So from my short professional experience, I have realised that if you are working with a small team of individuals a lot of folks end-up authoring multiple pull-requests across X different repositories in an organisation which sometimes leads to managing multiple feature PRs at a time." href="https://bhupesh.me//automatically-remind-contributors-to-update-pull-request">Automatically remind contributors to update their pull requests</a></li><li><a title="Your CLI application might be good but its not great, you know what would be great. If it had release notes shipped with it. I mean seriously you have" href="https://bhupesh.me//why-how-add-changelog-in-your-next-cli">Why and How to add changelog in your next CLI</a></li><li><a title="So I have been working on this little tool called ugit (and was finally able to release a stable version), the goal is to make it easier for beginner to intermediate git users to undo their last (accidental) git command. Because we are not perfect and commit mistakes." href="https://bhupesh.me//undo-your-last-git-mistake-with-ugit">Undo your last git mistake with ugit</a></li></ul></td><td valign="top" width="33%"><b>TIL</b>
+<ul><li><a href="https://bhupesh.gitbook.io/notes/go/using-local-packages-using-require">Using local Go package path</a></li><li><a href="https://bhupesh.gitbook.io/notes/go/resolving-merge-conflicts-go-su">Resolving merge conflicts in go.sum</a></li><li><a href="https://bhupesh.gitbook.io/notes/shell/reusing-arguments-from-last-comman">Reuse arguments from last command</a></li><li><a href="https://bhupesh.gitbook.io/notes/flutter/decrease-lottie-size-dynamically">Decrease lottie size dynamically in flutter</a></li></ul></td><td valign="top" width="33%"><b>Newsletter</b>
+<ul><li><a href="https://buttondown.email/bhupesh/archive/one-secret-tip-for-first-time-oss-contributors/">One secret tip for first-time OSS contributors. Shh! 🤫 don't tell anyone else</a></li><li><a href="https://buttondown.email/bhupesh/archive/why-its-ok-to-abandon-your-side-projects/">Why it's OK to abandon your side projects 😉</a></li></ul></td></tr></table></details>
 
 ## Recent Works
 <details open>
@@ -80,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Hacker</b></summary>
+<details open><summary><b>Programming is fun</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Hacker" src="https://i.redd.it/1dcr9u3h2dv81.gif" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/uahbmr/hacker/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Programming is fun" src="https://i.redd.it/249m5r22sbv81.gif" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/uac6ah/programming_is_fun/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
