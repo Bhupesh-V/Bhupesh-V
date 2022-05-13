@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>These fucking 'entry level' jobs, I swear. 'We want to pay you entry level salary for 14 years of overall experience'.</b></summary>
+<details open><summary><b>Settling on something in the middle would be nice, but I guess that's not going to happen, is it?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="These fucking 'entry level' jobs, I swear. 'We want to pay you entry level salary for 14 years of overall experience'." src="https://i.redd.it/ja3m6wnenvy81.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/unefoj/these_fucking_entry_level_jobs_i_swear_we_want_to/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Settling on something in the middle would be nice, but I guess that's not going to happen, is it?" src="https://i.redd.it/ogbqta3o24z81.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/uobhg4/settling_on_something_in_the_middle_would_be_nice/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
