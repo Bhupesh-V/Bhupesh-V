@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>me on a 9 to 5 basis</b></summary>
+<details open><summary><b>The UwU is spreading like the virus, even Java caught it</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="me on a 9 to 5 basis" src="https://i.redd.it/zph58tlyss791.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/vkjcyy/me_on_a_9_to_5_basis/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="The UwU is spreading like the virus, even Java caught it" src="https://i.redd.it/s44v31vg11891.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/vldwyd/the_uwu_is_spreading_like_the_virus_even_java/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
