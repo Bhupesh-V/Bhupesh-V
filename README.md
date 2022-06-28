@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>The UwU is spreading like the virus, even Java caught it</b></summary>
+<details open><summary><b>Tv anchor speaks of hackers that stole millions of bitcoins, image behind him:</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="The UwU is spreading like the virus, even Java caught it" src="https://i.redd.it/s44v31vg11891.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/vldwyd/the_uwu_is_spreading_like_the_virus_even_java/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Tv anchor speaks of hackers that stole millions of bitcoins, image behind him:" src="https://i.redd.it/nmoewk9ntz791.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/vl8msx/tv_anchor_speaks_of_hackers_that_stole_millions/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
