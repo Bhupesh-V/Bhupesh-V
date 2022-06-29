@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Tv anchor speaks of hackers that stole millions of bitcoins, image behind him:</b></summary>
+<details open><summary><b>ah yes programming in enchantment table language</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Tv anchor speaks of hackers that stole millions of bitcoins, image behind him:" src="https://i.redd.it/nmoewk9ntz791.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/vl8msx/tv_anchor_speaks_of_hackers_that_stole_millions/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="ah yes programming in enchantment table language" src="https://i.redd.it/jpw9kdmcac891.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/vmk194/ah_yes_programming_in_enchantment_table_language/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
