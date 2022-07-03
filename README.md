@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Just started my first internship, been asked by 3 friends already…</b></summary>
+<details open><summary><b>have you heard the tragedy of darth gantt?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Just started my first internship, been asked by 3 friends already…" src="https://i.redd.it/zelg205bz2991.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/vpdsue/just_started_my_first_internship_been_asked_by_3/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="have you heard the tragedy of darth gantt?" src="https://i.redd.it/4lscvxc8v5991.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/vpse8b/have_you_heard_the_tragedy_of_darth_gantt/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
