@@ -79,13 +79,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Where are all the .com developers and .org developers?</b></summary>
+<details open><summary><b>Modern C++ proponents when I use a raw pointer:</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Where are all the .com developers and .org developers?" src="https://i.redd.it/h8wucjx9a7991.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/vpybtd/where_are_all_the_com_developers_and_org/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Modern C++ proponents when I use a raw pointer:" src="https://i.redd.it/zvsaxytvre991.gif" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/vqq10e/modern_c_proponents_when_i_use_a_raw_pointer/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
