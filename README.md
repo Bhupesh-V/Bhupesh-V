@@ -10,17 +10,6 @@
     <li>I am a builder/tinkerer</li>
     <li>In my free time, I am probably sleeping or reading something online</li>
   </ul>
-  
-4 topics I can speak on with no prep:
-
-<ol>
-<li>Importance of setting up a second brain & taking short notes</li>
-<li>Writing tools and scripts for yourself, improving your productivity</li>
-<li>Open Source Software and ecosystem</li>
-<li>The Marvel Cinematic Universe</li>
-<ol>
-</p>
-
 </div>
 
 
@@ -79,18 +68,20 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Modern C++ proponents when I use a raw pointer:</b></summary>
+<details open><summary><b>When I execute my SQL query and realize I forgot the where clause</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Modern C++ proponents when I use a raw pointer:" src="https://i.redd.it/zvsaxytvre991.gif" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/vqq10e/modern_c_proponents_when_i_use_a_raw_pointer/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="When I execute my SQL query and realize I forgot the where clause" src="https://i.redd.it/iih11u87bf991.gif" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/vqrv2m/when_i_execute_my_sql_query_and_realize_i_forgot/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
 </details>
 </ul></td>
+### Hire Me
+- [Know more about how can we collaborate professionally](https://bhupesh.me/hire)
 
 ### ☺️ Support
 If you like my work, consider supporting me
