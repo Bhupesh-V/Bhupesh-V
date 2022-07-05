@@ -80,8 +80,10 @@
 </table>
 </details>
 </ul></td>
+
 ### Hire Me
-- [Know more about how can we collaborate professionally](https://bhupesh.me/hire)
+
+- [Know more about how we can collaborate professionally](https://bhupesh.me/hire)
 
 ### ☺️ Support
 If you like my work, consider supporting me
