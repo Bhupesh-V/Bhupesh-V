@@ -27,17 +27,6 @@ HEADER = """
     <li>I am a builder/tinkerer</li>
     <li>In my free time, I am probably sleeping or reading something online</li>
   </ul>
-  
-4 topics I can speak on with no prep:
-
-<ol>
-<li>Importance of setting up a second brain & taking short notes</li>
-<li>Writing tools and scripts for yourself, improving your productivity</li>
-<li>Open Source Software and ecosystem</li>
-<li>The Marvel Cinematic Universe</li>
-<ol>
-</p>
-
 </div>
 
 
@@ -90,6 +79,8 @@ PROJECTS = """
 """
 
 FOOTER="""
+### Hire Me
+- [Know more about how can we collaborate professionally](https://bhupesh.me/hire)
 
 ### ☺️ Support
 If you like my work, consider supporting me
