@@ -68,13 +68,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>you choose one without thinking about it and then just stick with it for no real reason</b></summary>
+<details open><summary><b>Is this anyone?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="you choose one without thinking about it and then just stick with it for no real reason" src="https://i.redd.it/25ml18anyba91.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/vu8mud/you_choose_one_without_thinking_about_it_and_then/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Is this anyone?" src="https://i.redd.it/vu0yvq9rhia91.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/vutkzv/is_this_anyone/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
