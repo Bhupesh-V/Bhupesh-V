@@ -68,13 +68,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Answers now</b></summary>
+<details open><summary><b>Ok boss I accepted the fact now please release my brother</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Answers now" src="https://i.redd.it/6f4z2bt0qad91.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/w60y7e/answers_now/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Ok boss I accepted the fact now please release my brother" src="https://i.redd.it/jxxkt0qoofd91.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/w6lqat/ok_boss_i_accepted_the_fact_now_please_release_my/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
