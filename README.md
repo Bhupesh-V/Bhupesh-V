@@ -68,13 +68,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>I was today years old when I learned you can write C if-else blocks without curly braces, my whole life has been a lie</b></summary>
+<details open><summary><b>Auskultu min! (hear me out!)</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I was today years old when I learned you can write C if-else blocks without curly braces, my whole life has been a lie" src="https://i.redd.it/43ds21uz0je91.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wb7wg6/i_was_today_years_old_when_i_learned_you_can/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Auskultu min! (hear me out!)" src="https://i.redd.it/cwiftn4sase91.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wc9l6t/auskultu_min_hear_me_out/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
