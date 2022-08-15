@@ -68,13 +68,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>When customer calls</b></summary>
+<details open><summary><b>A quick rewrite never hurt anyone...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="When customer calls" src="https://i.redd.it/myrkzzitrgh91.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wnc4z2/when_customer_calls/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="A quick rewrite never hurt anyone..." src="https://i.redd.it/c1sf82t93rh91.gif" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wohuzh/a_quick_rewrite_never_hurt_anyone/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
