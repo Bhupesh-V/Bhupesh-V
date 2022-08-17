@@ -68,13 +68,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>every day we stray further from god</b></summary>
+<details open><summary><b>The cat does not approve of Python dissing</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="every day we stray further from god" src="https://i.redd.it/ihyoqllc6xh91.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wp6uw6/every_day_we_stray_further_from_god/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="The cat does not approve of Python dissing" src="https://i.redd.it/8xu0fpf5a5i91.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wq6est/the_cat_does_not_approve_of_python_dissing/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
