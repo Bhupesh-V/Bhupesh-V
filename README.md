@@ -3,12 +3,11 @@
 <!-- <img align="left" src="https://gist.github.com/Bhupesh-V/0246a3f681d2533d21efb1206d1ba9d4/raw/af7d53bfdbf30f725ef7ade206200086820739fd/AboutMe.gif" height="100px"> -->
 <div>
   <h3>wassup nerds 🖖</h3>
-  <p>I'm a Developer, Tech Writer and FOSS Enthusiast. I write (and work) with Python, Go, Flutter, Bash.</p>
-  <p>
+  <p>Developer, FOSS Enthusiast & Creator living in New Delhi, India. I like to build & create stuff using Python, Go & Bash. I make Web, Tools, and Open-Source & frequently write about tech & my journey on my blog/newsletter.
   <ul>
-    <li>I am also a guest writer for freeCodeCamp (more than 20k views) and HackerNoon </li>
-    <li>I am a builder/tinkerer</li>
-    <li>In my free time, I am probably sleeping or reading something online</li>
+    <li>I am a builder/tinkerer.</li>
+    <li>I am also a guest writer for freeCodeCamp and HackerNoon.</li>
+    <li>In my free time, I am probably sleeping or reading something online.</li>
   </ul>
 </div>
 
@@ -68,13 +67,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>I thought Programming was hard until I found this guy on YouTube.</b></summary>
+<details open><summary><b>That will do it for most dudes</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I thought Programming was hard until I found this guy on YouTube." src="https://i.redd.it/f9ahnejy2bi91.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wqugqh/i_thought_programming_was_hard_until_i_found_this/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="That will do it for most dudes" src="https://i.redd.it/9ti8cnup7li91.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ws36q7/that_will_do_it_for_most_dudes/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
