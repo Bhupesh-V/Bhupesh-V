@@ -20,12 +20,11 @@ HEADER = """
 <!-- <img align="left" src="https://gist.github.com/Bhupesh-V/0246a3f681d2533d21efb1206d1ba9d4/raw/af7d53bfdbf30f725ef7ade206200086820739fd/AboutMe.gif" height="100px"> -->
 <div>
   <h3>wassup nerds 🖖</h3>
-  <p>I'm a Developer, Tech Writer and FOSS Enthusiast. I write (and work) with Python, Go, Flutter, Bash.</p>
-  <p>
+  <p>Developer, FOSS Enthusiast & Creator living in New Delhi, India. I like to build & create stuff using Python, Go & Bash. I make Web, Tools, and Open-Source & frequently write about tech & my journey on my blog/newsletter.
   <ul>
-    <li>I am also a guest writer for freeCodeCamp (more than 20k views) and HackerNoon </li>
-    <li>I am a builder/tinkerer</li>
-    <li>In my free time, I am probably sleeping or reading something online</li>
+    <li>I am a builder/tinkerer.</li>
+    <li>I am also a guest writer for freeCodeCamp and HackerNoon.</li>
+    <li>In my free time, I am probably sleeping or reading something online.</li>
   </ul>
 </div>
 
