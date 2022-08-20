@@ -67,13 +67,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>That will do it for most dudes</b></summary>
+<details open><summary><b>Poop Area Network</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="That will do it for most dudes" src="https://i.redd.it/9ti8cnup7li91.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ws36q7/that_will_do_it_for_most_dudes/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Poop Area Network" src="https://i.redd.it/xwd8ndgpvoi91.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wsgy0n/poop_area_network/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
