@@ -67,13 +67,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Apparently, my cat thinks learning about C++ is boring</b></summary>
+<details open><summary><b>Modern Web Architectures</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Apparently, my cat thinks learning about C++ is boring" src="https://i.redd.it/vxg3jg2tyxi91.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wtit4g/apparently_my_cat_thinks_learning_about_c_is/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Modern Web Architectures" src="https://i.redd.it/ocxoapoxlwi91.gif" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wtcp7m/modern_web_architectures/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
