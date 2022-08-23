@@ -67,13 +67,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Modern Web Architectures</b></summary>
+<details open><summary><b>google you aren't helping</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Modern Web Architectures" src="https://i.redd.it/ocxoapoxlwi91.gif" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wtcp7m/modern_web_architectures/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="google you aren't helping" src="https://i.redd.it/e6ugo2ra8cj91.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wv6nfn/google_you_arent_helping/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
