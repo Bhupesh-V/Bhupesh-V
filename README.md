@@ -67,13 +67,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>google you aren't helping</b></summary>
+<details open><summary><b>Me watching the seniors devs trying to solve a bug assigned to me</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="google you aren't helping" src="https://i.redd.it/e6ugo2ra8cj91.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wv6nfn/google_you_arent_helping/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Me watching the seniors devs trying to solve a bug assigned to me" src="https://i.redd.it/nwdo59ccmjj91.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ww2pzm/me_watching_the_seniors_devs_trying_to_solve_a/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
