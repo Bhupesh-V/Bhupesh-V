@@ -67,13 +67,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Me watching the seniors devs trying to solve a bug assigned to me</b></summary>
+<details open><summary><b>Installing a library on python is like playing Russian Roulette.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Me watching the seniors devs trying to solve a bug assigned to me" src="https://i.redd.it/nwdo59ccmjj91.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ww2pzm/me_watching_the_seniors_devs_trying_to_solve_a/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Installing a library on python is like playing Russian Roulette." src="https://i.redd.it/7i83h5036oj91.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wwkmvo/installing_a_library_on_python_is_like_playing/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
