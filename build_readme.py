@@ -16,28 +16,18 @@ NS = {"ns": "http://www.w3.org/2005/Atom"}
 NO_OF_BLOGS = NO_OF_TILS = 4
 
 HEADER = """
-
-<!-- <img align="left" src="https://gist.github.com/Bhupesh-V/0246a3f681d2533d21efb1206d1ba9d4/raw/af7d53bfdbf30f725ef7ade206200086820739fd/AboutMe.gif" height="100px"> -->
 <div>
   <h3>wassup nerds 🖖</h3>
   <p>Developer, FOSS Enthusiast & Creator living in New Delhi, India. I like to build & create stuff using Python, Go & Bash. I make Web, Tools, and Open-Source & frequently write about tech & my journey on my blog/newsletter.
   <ul>
-    <li>I am a builder/tinkerer.</li>
-    <li>I am also a guest writer for freeCodeCamp and HackerNoon.</li>
+    <li>I am a Community Admin at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Join us 🚀)</li>
     <li>In my free time, I am probably sleeping or reading something online.</li>
+    <li>I write a lot of technical content, you can witness some of that below 👇</li>
   </ul>
 </div>
 
 
 ---
-<!--
-### ⚽ My Goals 
-
-- [ ] Launch 🚀 a SaaS.
-- [x] Get a Laptop 💻.
-- [x] Start A [Newsletter 🗞️](https://buttondown.email/bhupesh/archive) for my [blog](https://bhupesh-v.github.io).
-- [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
--->
 
 """
 
