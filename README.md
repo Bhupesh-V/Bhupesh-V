@@ -57,13 +57,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Yeah yeah that's weird huh</b></summary>
+<details open><summary><b>Based on a true story</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Yeah yeah that's weird huh" src="https://i.redd.it/nevp5t2q33k91.gif" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wydlw1/yeah_yeah_thats_weird_huh/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Based on a true story" src="https://i.redd.it/ptsylmfmuzj91.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wy0ljf/based_on_a_true_story/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
@@ -77,6 +77,6 @@
 ### ☺️ Support
 If you like my work, consider supporting me
 
-[**PayPal**](https://paypal.me/BhupeshVarshney)
+[**GitHub Sponsors**](https://github.com/sponsors/Bhupesh-V/) | [**PayPal**](https://paypal.me/BhupeshVarshney)
 
 ---
