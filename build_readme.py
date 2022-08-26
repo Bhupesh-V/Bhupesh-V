@@ -76,7 +76,7 @@ FOOTER="""
 ### ☺️ Support
 If you like my work, consider supporting me
 
-[**PayPal**](https://paypal.me/BhupeshVarshney)
+[**GitHub Sponsors**](https://github.com/sponsors/Bhupesh-V/) | [**PayPal**](https://paypal.me/BhupeshVarshney)
 
 ---
 """
