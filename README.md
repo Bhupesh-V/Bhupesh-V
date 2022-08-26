@@ -1,26 +1,16 @@
 
-
-<!-- <img align="left" src="https://gist.github.com/Bhupesh-V/0246a3f681d2533d21efb1206d1ba9d4/raw/af7d53bfdbf30f725ef7ade206200086820739fd/AboutMe.gif" height="100px"> -->
 <div>
   <h3>wassup nerds 🖖</h3>
   <p>Developer, FOSS Enthusiast & Creator living in New Delhi, India. I like to build & create stuff using Python, Go & Bash. I make Web, Tools, and Open-Source & frequently write about tech & my journey on my blog/newsletter.
   <ul>
-    <li>I am a builder/tinkerer.</li>
-    <li>I am also a guest writer for freeCodeCamp and HackerNoon.</li>
+    <li>I am a Community Admin at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Join us 🚀)</li>
     <li>In my free time, I am probably sleeping or reading something online.</li>
+    <li>I write a lot of technical content, you can witness some of that below 👇</li>
   </ul>
 </div>
 
 
 ---
-<!--
-### ⚽ My Goals 
-
-- [ ] Launch 🚀 a SaaS.
-- [x] Get a Laptop 💻.
-- [x] Start A [Newsletter 🗞️](https://buttondown.email/bhupesh/archive) for my [blog](https://bhupesh-v.github.io).
-- [x] Write more stuff to share my experiences 🤔 & learning (hopefully on [freeCodeCamp](https://www.freecodecamp.org/news/author/bhupesh/) & HackerNoon).
--->
 
 
 <details open>
@@ -67,13 +57,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Everything is virtual</b></summary>
+<details open><summary><b>Yeah yeah that's weird huh</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Everything is virtual" src="https://i.redd.it/wle1c745gwj91.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wxl1i1/everything_is_virtual/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Yeah yeah that's weird huh" src="https://i.redd.it/nevp5t2q33k91.gif" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wydlw1/yeah_yeah_thats_weird_huh/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
