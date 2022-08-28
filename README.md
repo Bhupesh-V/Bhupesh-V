@@ -57,13 +57,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>wanna drop it here!</b></summary>
+<details open><summary><b>I’m never getting off</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="wanna drop it here!" src="https://i.redd.it/f03hevxix2k91.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wycp2d/wanna_drop_it_here/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I’m never getting off" src="https://i.redd.it/6hnnko71bck91.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wzgjbi/im_never_getting_off/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
