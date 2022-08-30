@@ -57,13 +57,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Imagine knowing how things actually work</b></summary>
+<details open><summary><b>Is it wrong?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Imagine knowing how things actually work" src="https://i.redd.it/ids4kqggoak91.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/wz932t/imagine_knowing_how_things_actually_work/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Is it wrong?" src="https://i.redd.it/u7bzok0hoik91.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/x05q3q/is_it_wrong/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
