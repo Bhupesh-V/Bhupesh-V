@@ -34,7 +34,6 @@ HEADER = """
 PROJECTS = """
 
 ## Recent Works
-<!--
 <details open>
   <summary>Some of my fun, weird & useful projects <br><br></summary>
   <table>
@@ -66,7 +65,6 @@ PROJECTS = """
     </tr>
   </table>
 </details>
--->
 """
 
 FOOTER="""
@@ -152,7 +150,7 @@ def main(todays_meme):
 
         file.write("""</tr></table></details>""")
 
-        file.write(PROJECTS)
+        # file.write(PROJECTS)
 
         if todays_meme is not None:
             file.write("\n\n### Getting bored? have a meme \n\n")
