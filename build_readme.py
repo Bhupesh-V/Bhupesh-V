@@ -34,6 +34,7 @@ HEADER = """
 PROJECTS = """
 
 ## Recent Works
+<!--
 <details open>
   <summary>Some of my fun, weird & useful projects <br><br></summary>
   <table>
@@ -65,6 +66,7 @@ PROJECTS = """
     </tr>
   </table>
 </details>
+-->
 """
 
 FOOTER="""
