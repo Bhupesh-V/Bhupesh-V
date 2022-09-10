@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Should we tell him?</b></summary>
+<details open><summary><b>JavaScript.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Should we tell him?" src="https://i.redd.it/5swxqkypwhm91.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/x87wag/should_we_tell_him/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="JavaScript." src="https://i.redd.it/o3s4184zism91.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/x9pjqk/javascript/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
