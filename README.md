@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Unlocking my keyboard's full potential when I finally start using the \ and | key</b></summary>
+<details open><summary><b>As a Cloud beginner, it feels exactly like that!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Unlocking my keyboard's full potential when I finally start using the \ and | key" src="https://i.redd.it/z5zcqltgvto91.gif" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/xie5wb/unlocking_my_keyboards_full_potential_when_i/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="As a Cloud beginner, it feels exactly like that!" src="https://i.redd.it/11j9ai1590p91.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/xj1w4v/as_a_cloud_beginner_it_feels_exactly_like_that/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
