@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Git command not found :(</b></summary>
+<details open><summary><b>Those who don't know: (•‿•) || Those who know: ( ⁰д⁰ )</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Git command not found :(" src="https://i.redd.it/rrfb57jxg1p91.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/xjd3yr/git_command_not_found/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Those who don't know: (•‿•) || Those who know: ( ⁰д⁰ )" src="https://i.redd.it/pqyh5sbsr6p91.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/xk0qer/those_who_dont_know_those_who_know_⁰д⁰/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
