@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>for i in range(0, len(algorithms)): print(algorithms[i])</b></summary>
+<details open><summary><b>Developers with 20+ years of experience already know the drill</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="for i in range(0, len(algorithms)): print(algorithms[i])" src="https://i.redd.it/9wqq0bkb76r91.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/xsru1n/for_i_in_range0_lenalgorithms_printalgorithmsi/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Developers with 20+ years of experience already know the drill" src="https://i.redd.it/a1w3tboih7r91.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/xswyy7/developers_with_20_years_of_experience_already/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
