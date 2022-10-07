@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>A comic I did in 2019 but still relevant I believe :)</b></summary>
+<details open><summary><b>How my prof explained locking threads to us</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="A comic I did in 2019 but still relevant I believe :)" src="https://i.redd.it/1o5vpooesyr91.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/xw6we1/a_comic_i_did_in_2019_but_still_relevant_i_believe/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="How my prof explained locking threads to us" src="https://i.redd.it/ln07dpa9k6s91.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/xx47kk/how_my_prof_explained_locking_threads_to_us/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
