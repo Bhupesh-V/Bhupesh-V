@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>The switch from HTML to JavaScript is rough</b></summary>
+<details open><summary><b>apparently, security is 'trash talk' to marketing/sales</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="The switch from HTML to JavaScript is rough" src="https://i.redd.it/k94b9df06ks91.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/xyp97t/the_switch_from_html_to_javascript_is_rough/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="apparently, security is 'trash talk' to marketing/sales" src="https://i.redd.it/5gydeh9s9ts91.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/xzqhs1/apparently_security_is_trash_talk_to/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
