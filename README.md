@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>we're evolving, just backwards 🤡</b></summary>
+<details open><summary><b>A teacher that knows his students</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="we're evolving, just backwards 🤡" src="https://i.redd.it/96shokt41xs91.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/y06o30/were_evolving_just_backwards/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="A teacher that knows his students" src="https://i.redd.it/wdwlc7ok58t91.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/y1mr74/a_teacher_that_knows_his_students/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
