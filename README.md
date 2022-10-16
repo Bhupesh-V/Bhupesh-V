@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Nothing like a supportive partner</b></summary>
+<details open><summary><b>this was legit me earlier</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Nothing like a supportive partner" src="https://i.redd.it/3anr8xqb6st91.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/y3vbcx/nothing_like_a_supportive_partner/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="this was legit me earlier" src="https://i.redd.it/d9z6r0k3m0u91.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/y4vfck/this_was_legit_me_earlier/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
