@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>When you accidentally declare an int as a Boolean</b></summary>
+<details open><summary><b>When they say a semicolon doesn't matter in JavaScript</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="When you accidentally declare an int as a Boolean" src="https://i.redd.it/nnxefwsin7x91.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/yipq90/when_you_accidentally_declare_an_int_as_a_boolean/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="When they say a semicolon doesn't matter in JavaScript" src="https://i.redd.it/han8dzsj6bx91.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/yj41ve/when_they_say_a_semicolon_doesnt_matter_in/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
