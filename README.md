@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Manager does a little code cleanup...</b></summary>
+<details open><summary><b>It's 2022. The help forum became a comedy while the comedy page became a help forum. The man lies unread and forgotten, and the docs are nowhere to be found.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Manager does a little code cleanup..." src="https://i.redd.it/5cxgt5dhtzz91.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/yveu7r/manager_does_a_little_code_cleanup/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="It's 2022. The help forum became a comedy while the comedy page became a help forum. The man lies unread and forgotten, and the docs are nowhere to be found." src="https://i.redd.it/n3w0n9adp80a1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/ywjo99/its_2022_the_help_forum_became_a_comedy_while_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
