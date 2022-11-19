@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>How to [insert difficult stuff here] in CSS?</b></summary>
+<details open><summary><b>I like to make memes out of real conversations at work.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="How to [insert difficult stuff here] in CSS?" src="https://i.redd.it/0htpm366qj0a1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/yxoyrp/how_to_insert_difficult_stuff_here_in_css/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I like to make memes out of real conversations at work." src="https://i.redd.it/a2ulrs7qsr0a1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/yytxe8/i_like_to_make_memes_out_of_real_conversations_at/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
