@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Insider view of Elon Musk's 10th floor meeting at 2pm on 11/18</b></summary>
+<details open><summary><b>Help! I can't exit</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Insider view of Elon Musk's 10th floor meeting at 2pm on 11/18" src="https://i.redd.it/jp4gm2a8kv0a1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/yz7t8a/insider_view_of_elon_musks_10th_floor_meeting_at/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Help! I can't exit" src="https://i.redd.it/zr076q6ve61a1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/z08q6w/help_i_cant_exit/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
