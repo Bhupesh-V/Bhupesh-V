@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>I can't believe my dumb ass wrote this code.</b></summary>
+<details open><summary><b>A Wise Senior Dev once said, don't touch the legacy code base!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I can't believe my dumb ass wrote this code." src="https://i.redd.it/q445cdwcet1a1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/z38kkl/i_cant_believe_my_dumb_ass_wrote_this_code/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="A Wise Senior Dev once said, don't touch the legacy code base!" src="https://i.redd.it/6tzcybbk052a1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/z4jxue/a_wise_senior_dev_once_said_dont_touch_the_legacy/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
