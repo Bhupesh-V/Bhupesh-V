@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Trying to learn a language other than Python</b></summary>
+<details open><summary><b>What</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Trying to learn a language other than Python" src="https://i.redd.it/dpsf53dyqy3a1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/zcgumq/trying_to_learn_a_language_other_than_python/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="What" src="https://i.redd.it/p9dy6jh4a64a1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="documentation? — some dev on r/Programmerhumor, probably">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
