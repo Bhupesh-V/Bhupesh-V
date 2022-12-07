@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>What</b></summary>
+<details open><summary><b>Generating a rejection letter with OpenAI ChatGPT</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="What" src="https://i.redd.it/p9dy6jh4a64a1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="documentation? — some dev on r/Programmerhumor, probably">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Generating a rejection letter with OpenAI ChatGPT" src="https://i.redd.it/wahtv4pgu54a1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/zdn80t/generating_a_rejection_letter_with_openai_chatgpt/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
