@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>and they're very lucky not to</b></summary>
+<details open><summary><b>Very new to programming. How do I deal with this bug that prevents me from typing?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="and they're very lucky not to" src="https://i.redd.it/xl3y7o5td26a1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/zml5yj/and_theyre_very_lucky_not_to/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Very new to programming. How do I deal with this bug that prevents me from typing?" src="https://i.redd.it/8be0rg1mu46a1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/zmptw5/very_new_to_programming_how_do_i_deal_with_this/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
