@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Seen in the wild: Pizza Hat (the Fedorestaurant)</b></summary>
+<details open><summary><b>It's time to piss off a few people</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Seen in the wild: Pizza Hat (the Fedorestaurant)" src="https://i.redd.it/knulqkswia8a1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/zvu5mu/seen_in_the_wild_pizza_hat_the_fedorestaurant/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="It's time to piss off a few people" src="https://i.redd.it/9e4zxsllci8a1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/zwje39/its_time_to_piss_off_a_few_people/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
