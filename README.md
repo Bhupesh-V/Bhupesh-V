@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Algorithm complexities</b></summary>
+<details open><summary><b>I hate when the solution of a multi-billion-dollar company doesn't work on Firefox while the hobby project from a random programmmer works with no problems on most web browsers complying with HTML5/CSS3/JavaScript standards</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Algorithm complexities" src="https://i.redd.it/j3ho9kshrw9a1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/102ma8o/algorithm_complexities/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I hate when the solution of a multi-billion-dollar company doesn't work on Firefox while the hobby project from a random programmmer works with no problems on most web browsers complying with HTML5/CSS3/JavaScript standards" src="https://i.redd.it/fzwlej3q00aa1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/102zll3/i_hate_when_the_solution_of_a_multibilliondollar/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
