@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>When you want to switch to centigrade, but it's still F</b></summary>
+<details open><summary><b>gents, the fate of the world rests on our hands</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="When you want to switch to centigrade, but it's still F" src="https://i.redd.it/d1zpuaoe80ba1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/107cbh8/when_you_want_to_switch_to_centigrade_but_its/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="gents, the fate of the world rests on our hands" src="https://i.redd.it/p568shoyk2ba1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/107nk28/gents_the_fate_of_the_world_rests_on_our_hands/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
