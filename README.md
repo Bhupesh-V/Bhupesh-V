@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Correct response</b></summary>
+<details open><summary><b>Okay, maybe not programmer related, but for all the IT managers out there... remember to make sure your MS accounts are hydrated!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Correct response" src="https://i.redd.it/7v4zp4myi9fa1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/10p9k0i/correct_response/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Okay, maybe not programmer related, but for all the IT managers out there... remember to make sure your MS accounts are hydrated!" src="https://i.redd.it/fioqwwbkr9fa1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/10picjw/okay_maybe_not_programmer_related_but_for_all_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
