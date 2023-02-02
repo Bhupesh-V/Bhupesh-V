@@ -1,11 +1,12 @@
 
 <div>
   <h3>wassup nerds 🖖</h3>
-  <p>Developer, FOSS Enthusiast & Creator living in New Delhi, India. I like to build & create stuff using Python, Go & Bash. I make Web, Tools, and Open-Source & frequently write about tech & my journey on my blog/newsletter.
+  <p>Software Craftsman & Tech Writer living in New Delhi, India. I like to build stuff using Python, Go & Bash. I make Web, Tools, and Open-Source & frequently write about tech on my blog/newsletter.</p>
   <ul>
     <li>I am a Community Admin at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Join us 🚀)</li>
     <li>In my free time, I am probably sleeping or reading something online.</li>
     <li>I write a lot of technical content, you can witness some of that below 👇</li>
+    <li>Currently Learning <code>Elixir</code></li>
   </ul>
 </div>
 
@@ -23,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>They said they would be treated better.</b></summary>
+<details open><summary><b>Cmon guys, help the guy out</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="They said they would be treated better." src="https://i.redd.it/sd05xgkovdfa1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/10pzjfq/they_said_they_would_be_treated_better/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Cmon guys, help the guy out" src="https://i.redd.it/vx1iefk06rfa1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/10rmrbz/cmon_guys_help_the_guy_out/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
