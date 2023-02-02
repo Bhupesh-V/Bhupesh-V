@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Okay, maybe not programmer related, but for all the IT managers out there... remember to make sure your MS accounts are hydrated!</b></summary>
+<details open><summary><b>They said they would be treated better.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Okay, maybe not programmer related, but for all the IT managers out there... remember to make sure your MS accounts are hydrated!" src="https://i.redd.it/fioqwwbkr9fa1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/10picjw/okay_maybe_not_programmer_related_but_for_all_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="They said they would be treated better." src="https://i.redd.it/sd05xgkovdfa1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/10pzjfq/they_said_they_would_be_treated_better/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
