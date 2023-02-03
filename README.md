@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Cmon guys, help the guy out</b></summary>
+<details open><summary><b>Why is java so weird? (had to read multiple paragraphs of this mail from Thinking About Things before realising it was Java the country, and well, not the weird one)</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Cmon guys, help the guy out" src="https://i.redd.it/vx1iefk06rfa1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/10rmrbz/cmon_guys_help_the_guy_out/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Why is java so weird? (had to read multiple paragraphs of this mail from Thinking About Things before realising it was Java the country, and well, not the weird one)" src="https://i.redd.it/dvtp1hkwxrfa1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/10rpf7k/why_is_java_so_weird_had_to_read_multiple/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
