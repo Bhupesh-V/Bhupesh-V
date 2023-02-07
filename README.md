@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Rubber Duck Debugging + Pomodoro Technique = ?</b></summary>
+<details open><summary><b>Just something that popped into my head and made me chuckle.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Rubber Duck Debugging + Pomodoro Technique = ?" src="https://i.redd.it/7jhg2bcwsdga1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/10udyl5/rubber_duck_debugging_pomodoro_technique/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Just something that popped into my head and made me chuckle." src="https://i.redd.it/rgco73ux2nga1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/10vjbek/just_something_that_popped_into_my_head_and_made/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
