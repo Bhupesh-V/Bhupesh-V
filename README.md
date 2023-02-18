@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Rejection to prod Db access is worse than rejection by your crush</b></summary>
+<details open><summary><b>Optionally: Don't free the memory, in order to make the program spicier.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Rejection to prod Db access is worse than rejection by your crush" src="https://i.redd.it/j9kvmampwkia1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/113om85/rejection_to_prod_db_access_is_worse_than/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Optionally: Don't free the memory, in order to make the program spicier." src="https://i.redd.it/e9al0eszuria1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/114q0ax/optionally_dont_free_the_memory_in_order_to_make/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
