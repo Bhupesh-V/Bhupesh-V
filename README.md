@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Any haters for Svelte?</b></summary>
+<details open><summary><b>Don't get me wrong i love c#, but sometimes I really hate it...</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Any haters for Svelte?" src="https://i.redd.it/f98vaqfp30ja1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/115gvbw/any_haters_for_svelte/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Don't get me wrong i love c#, but sometimes I really hate it..." src="https://i.redd.it/eg725qrvz6ja1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/116kwgp/dont_get_me_wrong_i_love_c_but_sometimes_i_really/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
