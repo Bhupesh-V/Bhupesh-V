@@ -20,7 +20,7 @@ HEADER = """
   <h3>wassup nerds 🖖</h3>
   <p>Software Craftsman & Tech Writer living in New Delhi, India. I like to build stuff using Python, Go & Bash. I make Web, Tools, and Open-Source & frequently write about tech on my blog/newsletter.</p>
   <ul>
-    <li>I am a Community Admin at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Join us 🚀)</li>
+    <li>I am a Community Manager at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Home for more than 150K techies. 🚀)</li>
     <li>In my free time, I am probably sleeping or reading something online.</li>
     <li>I write a lot of technical content, you can witness some of that below 👇</li>
     <li>Currently Learning <code>Elixir</code></li>
