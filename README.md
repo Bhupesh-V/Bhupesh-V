@@ -3,7 +3,7 @@
   <h3>wassup nerds 🖖</h3>
   <p>Software Craftsman & Tech Writer living in New Delhi, India. I like to build stuff using Python, Go & Bash. I make Web, Tools, and Open-Source & frequently write about tech on my blog/newsletter.</p>
   <ul>
-    <li>I am a Community Admin at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Join us 🚀)</li>
+    <li>I am a Community Manager at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Home for more than 150K techies. 🚀)</li>
     <li>In my free time, I am probably sleeping or reading something online.</li>
     <li>I write a lot of technical content, you can witness some of that below 👇</li>
     <li>Currently Learning <code>Elixir</code></li>
@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Finally found my calling</b></summary>
+<details open><summary><b>Refactoring already working code</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Finally found my calling" src="https://i.redd.it/jkme39wlk5la1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/11f7vmc/finally_found_my_calling/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Refactoring already working code" src="https://i.redd.it/hduswv4qu8la1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/11frcrs/refactoring_already_working_code/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
