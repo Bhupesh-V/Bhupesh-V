@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>How to stop people moving out of Chrome, the Google way 😂</b></summary>
+<details open><summary><b>Here's what she thinks about your electron app</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="How to stop people moving out of Chrome, the Google way 😂" src="https://i.redd.it/mwa5sf8ifdla1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/11g33j1/how_to_stop_people_moving_out_of_chrome_the/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Here's what she thinks about your electron app" src="https://i.redd.it/4own8qafphla1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/11gw43g/heres_what_she_thinks_about_your_electron_app/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
