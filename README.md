@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Lied on my resume about having great Js experience cause I once created an empty webpage with a button that added a background color. Now leading a Vue.Js based dev project</b></summary>
+<details open><summary><b>Smells like mint😂</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Lied on my resume about having great Js experience cause I once created an empty webpage with a button that added a background color. Now leading a Vue.Js based dev project" src="https://i.redd.it/fv5ehjfelula1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/11igr6y/lied_on_my_resume_about_having_great_js/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Smells like mint😂" src="https://i.redd.it/2h0x1axhy0ma1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/11jdbyk/smells_like_mint/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
