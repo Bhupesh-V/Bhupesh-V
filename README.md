@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Opinions on this new programming tattoo I got :P</b></summary>
+<details open><summary><b>Friend asked, “Did you design that?” Me, “No, the client designed that one.”</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Opinions on this new programming tattoo I got :P" src="https://i.redd.it/xxz0a5bgx6na1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/11oqidr/opinions_on_this_new_programming_tattoo_i_got_p/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Friend asked, “Did you design that?” Me, “No, the client designed that one.”" src="https://i.redd.it/rjh36vu47jna1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/11q6up7/friend_asked_did_you_design_that_me_no_the_client/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
