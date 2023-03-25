@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Tech Debt</b></summary>
+<details open><summary><b>I'll tear it to rags!</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Tech Debt" src="https://i.redd.it/h0328quljjpa1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/11zm842/tech_debt/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I'll tear it to rags!" src="https://i.redd.it/x5l4jykuoppa1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/120p1e2/ill_tear_it_to_rags/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
