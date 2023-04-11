@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Middle Eastern programmer setup: Halal mousepad edition</b></summary>
+<details open><summary><b>My Motherboard Case Is A Bit Rusty....</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Middle Eastern programmer setup: Halal mousepad edition" src="https://i.redd.it/956j991nszsa1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/12h89b2/middle_eastern_programmer_setup_halal_mousepad/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="My Motherboard Case Is A Bit Rusty...." src="https://i.redd.it/qazu0ocvo3ta1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/12hrj52/my_motherboard_case_is_a_bit_rusty/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
