@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>This Rust fiasco is giving me flashbacks</b></summary>
+<details open><summary><b>I've Solved Most Class Naming Problems</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="This Rust fiasco is giving me flashbacks" src="https://i.redd.it/8zr8e8mqfcta1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/12ito23/this_rust_fiasco_is_giving_me_flashbacks/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="I've Solved Most Class Naming Problems" src="https://i.redd.it/yrjjin6uz9ta1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/12inxdo/ive_solved_most_class_naming_problems/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
