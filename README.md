@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Gentlemen, it is with great pleasure that I inform you, I have centered a div.</b></summary>
+<details open><summary><b>the designers sent me this ... smh my head</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Gentlemen, it is with great pleasure that I inform you, I have centered a div." src="https://i.redd.it/dt3nuo0hjvua1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/12s3cpp/gentlemen_it_is_with_great_pleasure_that_i_inform/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="the designers sent me this ... smh my head" src="https://i.redd.it/hissqwsqt1va1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/12t0b3o/the_designers_sent_me_this_smh_my_head/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
