@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Devastating: personalised results has decided I'm more interested in protocol implementation than basic hygiene</b></summary>
+<details open><summary><b>Et tu, Ducke?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Devastating: personalised results has decided I'm more interested in protocol implementation than basic hygiene" src="https://i.redd.it/8eitymbvbjva1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/12vqo8u/devastating_personalised_results_has_decided_im/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Et tu, Ducke?" src="https://i.redd.it/jurr1bk8jwva1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/12xojn1/et_tu_ducke/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
