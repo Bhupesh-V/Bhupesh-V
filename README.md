@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>As an AI language model, I apologize for using AI</b></summary>
+<details open><summary><b>Ess-que-el gang wya?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="As an AI language model, I apologize for using AI" src="https://i.redd.it/gld4b4t1hgxa1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="language">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Ess-que-el gang wya?" src="https://i.redd.it/yo6wwzsk1oxa1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/136m3xl/essqueel_gang_wya/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
