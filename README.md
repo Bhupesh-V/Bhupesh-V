@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Someone in Hyrule needs to learn the difference between -lt and -le</b></summary>
+<details open><summary><b>My professor is the best at writing these finals questions</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Someone in Hyrule needs to learn the difference between -lt and -le" src="https://i.redd.it/ep2iveu3s90b1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/13jjbz8/someone_in_hyrule_needs_to_learn_the_difference/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="My professor is the best at writing these finals questions" src="https://i.redd.it/1c3ip3jnba0b1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/13jef7z/my_professor_is_the_best_at_writing_these_finals/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
