@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>How I make SIX FIGURES or MORE as a python programmer fresh out out of college</b></summary>
+<details open><summary><b>What’s your “Measure Once, Cut Twice” phrase, for when you make a stupid mistake?</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="How I make SIX FIGURES or MORE as a python programmer fresh out out of college" src="https://i.redd.it/vc7cgj59k02b1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/13rgndn/how_i_make_six_figures_or_more_as_a_python/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="What’s your “Measure Once, Cut Twice” phrase, for when you make a stupid mistake?" src="https://i.redd.it/oid8ugqqoa2b1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/13sqp60/whats_your_measure_once_cut_twice_phrase_for_when/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
