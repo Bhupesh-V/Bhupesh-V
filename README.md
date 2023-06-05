@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Who doesn't like reading kernel documentation</b></summary>
+<details open><summary><b>All i need is B/P out of BODMAS/PEMDAS to make it work</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Who doesn't like reading kernel documentation" src="https://i.redd.it/qpvc2ovo1t3b1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/13zcx0h/who_doesnt_like_reading_kernel_documentation/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="All i need is B/P out of BODMAS/PEMDAS to make it work" src="https://i.redd.it/7gj0o7g88u3b1.gif" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/13zjk6p/all_i_need_is_bp_out_of_bodmaspemdas_to_make_it/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
