@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Introducing logitechs new product, shopper name!</b></summary>
+<details open><summary><b>Oops :( looks like we are out of memes.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Introducing logitechs new product, shopper name!" src="https://i.redd.it/dy4r32v4ue5b1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/146xb42/introducing_logitechs_new_product_shopper_name/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Oops :( looks like we are out of memes." src="https://raw.githubusercontent.com/Bhupesh-V/memer-action/master/images/header.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://github.com/Bhupesh-V/memer-action">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
