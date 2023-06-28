@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>fuckSignsWhatKindOfHexadecimalLiteralAreYou</b></summary>
+<details open><summary><b>divideAndIgnoreAlgorithm</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="fuckSignsWhatKindOfHexadecimalLiteralAreYou" src="https://i.redd.it/mf0ufgi5ud8b1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/14jkowe/fucksignswhatkindofhexadecimalliteralareyou/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="divideAndIgnoreAlgorithm" src="https://i.redd.it/baz9f9nqgd8b1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/14jirqc/divideandignorealgorithm/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
