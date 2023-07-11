@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>learningFromYoutubeHowToDoSomethingThatIHaveBeenStrugglingWithForTheLast3Days</b></summary>
+<details open><summary><b>hackerTerminal</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="learningFromYoutubeHowToDoSomethingThatIHaveBeenStrugglingWithForTheLast3Days" src="https://i.redd.it/3tmk1xazfyab1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/14v0z8t/learningfromyoutubehowtodosomethingthatihavebeenst/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="hackerTerminal" src="https://i.redd.it/oz1v1u081yab1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/14uyxn5/hackerterminal/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
