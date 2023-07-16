@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>myMumSaidHaveAGoodDayAtTheOfficeAndSentThisToMeIsntSheSweet</b></summary>
+<details open><summary><b>iNeedTheWholeSprintToDebugThisBoss</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="myMumSaidHaveAGoodDayAtTheOfficeAndSentThisToMeIsntSheSweet" src="https://i.redd.it/722kmtfvevbb1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/14z7zno/mymumsaidhaveagooddayattheofficeandsentthistomeisn/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="iNeedTheWholeSprintToDebugThisBoss" src="https://i.redd.it/dnecuv84bybb1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/14zju3t/ineedthewholesprinttodebugthisboss/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
