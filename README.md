@@ -1,9 +1,9 @@
 
 <div>
   <h3>wassup nerds 🖖</h3>
-  <p>Software Craftsman & Tech Writer living in New Delhi, India. I like to build stuff using Python, Go & Bash. I make Web, Tools, and Open-Source & frequently write about tech on my blog/newsletter.</p>
+  <p>Software Craftsman and Tech Writer living in New Delhi, India. I like to build stuff using Go, Python & Bash. I make Web, Tools, and Open-Source & frequently write about tech on my blog/newsletter.</p>
   <ul>
-    <li>I am a Community Manager at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Home for more than 150K techies. 🚀)</li>
+    <li>I am a Community Lead at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Home for more than 300K techies. 🚀)</li>
     <li>In my free time, I am probably sleeping or reading something online.</li>
     <li>I write a lot of technical content, you can witness some of that below 👇</li>
     <li>Currently Learning <code>Elixir</code></li>
@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>gitMyBeloved</b></summary>
+<details open><summary><b>ItCompaniesAreHaveSuchBadConditions</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="gitMyBeloved" src="https://i.redd.it/3y310gggtrrb1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/16xtle7/gitmybeloved/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="ItCompaniesAreHaveSuchBadConditions" src="https://i.redd.it/eca6lmm09trb1.gif" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/16y080h/itcompaniesarehavesuchbadconditions/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
