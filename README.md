@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>TheSetupTookWayLongerThanIWouldLikeToAdmitAndIFeelStupid</b></summary>
+<details open><summary><b>myAbilityToWriteCode</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="TheSetupTookWayLongerThanIWouldLikeToAdmitAndIFeelStupid" src="https://i.redd.it/ivgbvlrseetb1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/174ou13/thesetuptookwaylongerthaniwouldliketoadmitandifeel/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="myAbilityToWriteCode" src="https://i.redd.it/31yjpclzbdtb1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/174kfs5/myabilitytowritecode/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
