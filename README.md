@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>unixEpoch</b></summary>
+<details open><summary><b>ifYouDontHaveClaudiaMadobeExtentionWhatAreYouEvenDoing</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="unixEpoch" src="https://i.redd.it/o8cvc5y670ub1.jpg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1773shh/unixepoch/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="ifYouDontHaveClaudiaMadobeExtentionWhatAreYouEvenDoing" src="https://i.redd.it/n5vchv8pv5ub1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/177of96/ifyoudonthaveclaudiamadobeextentionwhatareyouevend/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
