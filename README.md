@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>thereIsAlwaysABiggerErrorInCode</b></summary>
+<details open><summary><b>hereWeGoAgain</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="thereIsAlwaysABiggerErrorInCode" src="https://i.redd.it/8nr76bfe8lwb1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/17h2pa2/thereisalwaysabiggererrorincode/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="hereWeGoAgain" src="https://i.redd.it/idu9esrkh0xb1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/17ino53/herewegoagain/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
