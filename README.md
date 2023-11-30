@@ -24,13 +24,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>finalVersionCanWeMoveOnNow</b></summary>
+<details open><summary><b>ifSeeingThisOnYourFeedMakesYou</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="finalVersionCanWeMoveOnNow" src="https://i.redd.it/mhep276udx2c1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1858dnq/finalversioncanwemoveonnow/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="ifSeeingThisOnYourFeedMakesYou" src="https://i.redd.it/u1gb8jp2jd3c1.jpg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1873tjv/ifseeingthisonyourfeedmakesyou/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
