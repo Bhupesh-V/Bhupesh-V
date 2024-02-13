@@ -1,12 +1,11 @@
 
 <div>
   <h3>wassup nerds 🖖</h3>
-  <p>Software Craftsman and Tech Writer living in New Delhi, India. I like to build stuff using Go, Python & Bash. I make Web, Tools, and Open-Source & frequently write about tech on my blog/newsletter.</p>
+  <p>Software Craftsman and Tech Writer living in New Delhi, India. I like to build stuff using Go, Python & Bash.</p>
   <ul>
-    <li>I am a Community Lead at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Home for more than 300K techies. 🚀)</li>
+    <li>I am a Community Lead at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Home for more than 400K techies. 🚀)</li>
     <li>In my free time, I am probably sleeping or reading something online.</li>
-    <li>I write a lot of technical content, you can witness some of that below 👇</li>
-    <li>Currently Learning <code>Elixir</code></li>
+    <li>I write sometimes, you can read some of my work below 👇</li>
   </ul>
 </div>
 
@@ -24,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>helpIThinkThisIsASlidingWindow</b></summary>
+<details open><summary><b>yesPleaseMoreAiInspiredContent</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="helpIThinkThisIsASlidingWindow" src="https://i.redd.it/i6h5pmcqh2ic1.jpeg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1aopjvh/helpithinkthisisaslidingwindow/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="yesPleaseMoreAiInspiredContent" src="https://i.redd.it/x68xetmbt2ic1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1aoqphk/yespleasemoreaiinspiredcontent/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
