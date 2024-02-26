@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>thisGuyKnowsSomethingWeDont</b></summary>
+<details open><summary><b>iStoleItFromBoomerFacebookKillMe</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="thisGuyKnowsSomethingWeDont" src="https://i.redd.it/qu4ajwyfqckc1.jpeg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1ay2xpc/thisguyknowssomethingwedont/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="iStoleItFromBoomerFacebookKillMe" src="https://i.redd.it/6s88adtbrrkc1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1aztyo7/istoleitfromboomerfacebookkillme/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
