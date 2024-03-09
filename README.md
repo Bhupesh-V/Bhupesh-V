@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>grepCreativeInspiration</b></summary>
+<details open><summary><b>foundThisInTheWildTodayIGuessWeAreTooLazyToCodeForTwelveSpaces</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="grepCreativeInspiration" src="https://i.redd.it/wgfrttcodxmc1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1b8wjcu/grepcreativeinspiration/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="foundThisInTheWildTodayIGuessWeAreTooLazyToCodeForTwelveSpaces" src="https://i.redd.it/7ul5ondyl6nc1.jpeg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1ba0ktt/foundthisinthewildtodayiguesswearetoolazytocodefor/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
