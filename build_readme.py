@@ -73,12 +73,6 @@ FOOTER="""
 
 - [Know more about how we can collaborate professionally](https://bhupesh.me/hire)
 
-### ☺️ Support
-If you like my work, consider supporting me
-
-[**GitHub Sponsors**](https://github.com/sponsors/Bhupesh-V/) | [**PayPal**](https://paypal.me/BhupeshVarshney)
-
----
 """
 
 
