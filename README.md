@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>whoDidThis</b></summary>
+<details open><summary><b>becauseYourBestWasntGoodEnough</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="whoDidThis" src="https://i.redd.it/9debm35ctnoc1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1bg1osn/whodidthis/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="becauseYourBestWasntGoodEnough" src="https://i.redd.it/paffi2hyiqoc1.jpeg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1bgc0be/becauseyourbestwasntgoodenough/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
@@ -40,9 +40,3 @@
 
 - [Know more about how we can collaborate professionally](https://bhupesh.me/hire)
 
-### ☺️ Support
-If you like my work, consider supporting me
-
-[**GitHub Sponsors**](https://github.com/sponsors/Bhupesh-V/) | [**PayPal**](https://paypal.me/BhupeshVarshney)
-
----
