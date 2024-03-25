@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>arraysAndListsAreJustTheSame</b></summary>
+<details open><summary><b>binarySearchBeLike</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="arraysAndListsAreJustTheSame" src="https://i.redd.it/ed8es7xt7zpc1.jpeg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1blejq5/arraysandlistsarejustthesame/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="binarySearchBeLike" src="https://i.redd.it/88r0w0m2w3qc1.gif" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1blvj61/binarysearchbelike/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
