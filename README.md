@@ -18,18 +18,18 @@
   <table>
     <tr>
 <td valign="top" width="34%"><b>Blogs</b><ul><li><a title="My learnings from publishing my first ever Dockerfile for ugit (a shell script based tool to undo git command) and writing the most optimized dockerfile for it." href="https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit">How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts</a></li><li><a title="Just sharing some feelings on how I feel about the rising hate culture on the internet" href="https://bhupesh.me/why-is-internet-lossing-its-innocence-from-collaboratio-to-hate">Why is the Internet losing its innocence - going from collaboration to hate?</a></li><li><a title="If I had some magical powers to change one thing about interview experience for software engineering roles" href="https://bhupesh.me/if-i-could-change-one-thing-about-tech-interviews">If I could change one thing about tech interviews</a></li><li><a title="Learn how to setup and use vale, a syntax-aware prose linter with neovim for technical writing be it personal blogs or technical documentation." href="https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim">Writing like a pro with vale &amp; neovim</a></li></ul></td><td valign="top" width="33%"><b>TIL</b>
-<ul><li><a href="https://til.bhupesh.me/miscellaneous/net-promoter-score">Net Promoter Score (NPS)</a></li><li><a href="https://til.bhupesh.me/community building/what-does-a-community-lead-organiser-do">What does a Community Lead (or Organiser) do?</a></li><li><a href="https://til.bhupesh.me/career/full-employment-theorem">Full employment theorem</a></li><li><a href="https://til.bhupesh.me/meta/the-good-that-comes-with-maintaining-blogs">The good that comes with maintaining blogs</a></li></ul></td><td valign="top" width="33%"><b>Newsletter</b>
+<ul><li><a href="https://til.bhupesh.me/career/mentoring">Mentoring</a></li><li><a href="https://til.bhupesh.me/miscellaneous/net-promoter-score">Net Promoter Score (NPS)</a></li><li><a href="https://til.bhupesh.me/community building/what-does-a-community-lead-organiser-do">What does a Community Lead (or Organiser) do?</a></li><li><a href="https://til.bhupesh.me/career/full-employment-theorem">Full employment theorem</a></li></ul></td><td valign="top" width="33%"><b>Newsletter</b>
 <ul><li><a href="https://buttondown.email/bhupesh/archive/reflections-from-my-visit-to-gophercon-india-2023/">Reflections from my visit to GopherCon India 2023</a></li><li><a href="https://buttondown.email/bhupesh/archive/10-key-lessons-from-my-first-engineering-job/">10 key lessons from my first engineering job</a></li><li><a href="https://buttondown.email/bhupesh/archive/one-secret-tip-for-first-time-oss-contributors/">One secret tip for first-time OSS contributors. Shh! 🤫 don't tell anyone else</a></li><li><a href="https://buttondown.email/bhupesh/archive/why-its-ok-to-abandon-your-side-projects/">Why it's OK to abandon your side projects 😉</a></li></ul></td></tr></table></details>
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>worstNightMareOfDevOps</b></summary>
+<details open><summary><b>openIDE</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="worstNightMareOfDevOps" src="https://i.redd.it/lhjp3mox43tc1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1by8s86/worstnightmareofdevops/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="openIDE" src="https://i.redd.it/478kymb57ctc1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1bzchpb/openide/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
