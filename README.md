@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>firstSemesterStarterPack</b></summary>
+<details open><summary><b>hereIsTheFullComIcBecauseTheOtherGuyOnlyPostedHalfForSomeReason</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="firstSemesterStarterPack" src="https://i.redd.it/pl1zsp8mgauc1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1c38e08/firstsemesterstarterpack/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="hereIsTheFullComIcBecauseTheOtherGuyOnlyPostedHalfForSomeReason" src="https://i.redd.it/zzas5ionxguc1.jpeg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1c3x0ab/hereisthefullcomicbecausetheotherguyonlypostedhalf/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
