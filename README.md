@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>hereIsTheFullComIcBecauseTheOtherGuyOnlyPostedHalfForSomeReason</b></summary>
+<details open><summary><b>devinPreppingForDevUsurpation</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="hereIsTheFullComIcBecauseTheOtherGuyOnlyPostedHalfForSomeReason" src="https://i.redd.it/zzas5ionxguc1.jpeg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1c3x0ab/hereisthefullcomicbecausetheotherguyonlypostedhalf/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="devinPreppingForDevUsurpation" src="https://i.redd.it/d9vlthdt0vuc1.jpeg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1c5j1o8/devinpreppingfordevusurpation/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
