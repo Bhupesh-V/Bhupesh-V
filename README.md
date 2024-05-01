@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>whenRelativesFindOutYoureInTechAndCanSetUpCellPhonesWithCheapPlans</b></summary>
+<details open><summary><b>polyisopreneDesktopAI</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="whenRelativesFindOutYoureInTechAndCanSetUpCellPhonesWithCheapPlans" src="https://i.redd.it/o8ty5r64kcxc1.jpeg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1cfqdio/whenrelativesfindoutyoureintechandcansetupcellphon/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="polyisopreneDesktopAI" src="https://i.redd.it/tte0t85hfpxc1.jpeg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1ch7xgr/polyisoprenedesktopai/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
