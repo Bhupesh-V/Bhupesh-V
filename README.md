@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>spentTheWholeDayChasingThisMotherfu</b></summary>
+<details open><summary><b>whatDoYouMeanIshouldDoItMyself</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="spentTheWholeDayChasingThisMotherfu" src="https://i.redd.it/gjcpgeasgz2d1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1d1tgia/spentthewholedaychasingthismotherfu/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="whatDoYouMeanIshouldDoItMyself" src="https://i.redd.it/zhts0e7op73d1.jpeg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1d2qw8l/whatdoyoumeanishoulddoitmyself/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
