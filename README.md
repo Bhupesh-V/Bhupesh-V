@@ -23,13 +23,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>sorryWeDoNotSupportThirdPartyIntegrationSoftwareLikeCURL</b></summary>
+<details open><summary><b>getTodaysDayNameDespiteLocalLanguageNotHavingDateFunctions</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="sorryWeDoNotSupportThirdPartyIntegrationSoftwareLikeCURL" src="https://i.redd.it/qh5rl3tp3e6d1.jpeg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1df7bdq/sorrywedonotsupportthirdpartyintegrationsoftwareli/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="getTodaysDayNameDespiteLocalLanguageNotHavingDateFunctions" src="https://i.redd.it/d6cq7dv3dm6d1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1dg421j/gettodaysdaynamedespitelocallanguagenothavingdatef/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
