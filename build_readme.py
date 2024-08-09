@@ -17,10 +17,9 @@ NO_OF_BLOGS = NO_OF_TILS = 4
 
 HEADER = """
 <div>
-  <h3>wassup nerds 🖖</h3>
-  <p>Software Craftsman and Tech Writer living in New Delhi, India. I like to build stuff using Go, Python & Bash.</p>
+  <p>Software Craftsman & Tech Writer based out of New Delhi, India. I like to build stuff using Go, Python & Bash.</p>
   <ul>
-    <li>I am a Community Lead at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Home for more than 400K techies. 🚀)</li>
+    <li>I am a Community Lead at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Home for more than 700K Indian techies. 🚀)</li>
     <li>In my free time, I am probably sleeping or reading something online.</li>
     <li>I write sometimes, you can read some of my work below 👇</li>
   </ul>
