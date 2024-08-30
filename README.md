@@ -22,13 +22,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>imApsychopath</b></summary>
+<details open><summary><b>howYouSayNginx</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="imApsychopath" src="https://i.redd.it/6yrtn5kgrdld1.jpeg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1f36kne/imapsychopath/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="howYouSayNginx" src="https://i.redd.it/78x8e0kazgld1.jpeg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1f3kets/howyousaynginx/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
