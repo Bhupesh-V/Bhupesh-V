@@ -22,13 +22,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>isIrreplaceable</b></summary>
+<details open><summary><b>csIsGameTheory</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="isIrreplaceable" src="https://i.redd.it/oppgd5b29knd1.jpeg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1fbui2d/isirreplaceable/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="csIsGameTheory" src="https://i.redd.it/n961w3xautnd1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1fcwlfr/csisgametheory/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
