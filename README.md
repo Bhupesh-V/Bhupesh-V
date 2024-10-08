@@ -22,13 +22,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>isCrapOffTheCharts</b></summary>
+<details open><summary><b>databaseWithAHintOfPsychopath</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="isCrapOffTheCharts" src="https://i.redd.it/2p6ohathg8td1.jpeg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1fxvpbt/iscrapoffthecharts/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="databaseWithAHintOfPsychopath" src="https://i.redd.it/iiw0akvdk9td1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1fxzqfu/databasewithahintofpsychopath/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
