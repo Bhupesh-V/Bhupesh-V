@@ -1,8 +1,8 @@
 
 <div>
-  <p>Software Craftsman & Tech Writer based out of Delhi, India.
+  <p>Software Craftsman & Tech Writer based out of New Delhi, India. I like to build stuff using Go, Python & Bash.</p>
   <ul>
-    <li>I am a Community Lead at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a>, home for more than a million Indian techies.</li>
+    <li>I am a Community Lead at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Home for more than 700K Indian techies. 🚀)</li>
     <li>In my free time, I am probably sleeping or reading something online.</li>
     <li>I write sometimes, you can read some of my work below 👇</li>
   </ul>
@@ -22,13 +22,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>criticalUserIssue</b></summary>
+<details open><summary><b>theTypeOfCSGuyIWanaBe</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="criticalUserIssue" src="https://i.redd.it/l6wmzs6czs5e1.jpeg" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1ha73jx/criticaluserissue/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="theTypeOfCSGuyIWanaBe" src="https://i.redd.it/2bmn0ya4016e1.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1hb25p6/thetypeofcsguyiwanabe/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
