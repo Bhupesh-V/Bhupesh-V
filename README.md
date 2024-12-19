@@ -22,13 +22,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>companyServerLess</b></summary>
+<details open><summary><b>whenYouAreOverMotivetedAndFindANewProgrammingLanguegeAndStartLearningItWithoutKnowingWhatYouAreInvolvingWithBrainFuck</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="companyServerLess" src="https://i.redd.it/7ahu48ojfg7e1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1hghnmt/companyserverless/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="whenYouAreOverMotivetedAndFindANewProgrammingLanguegeAndStartLearningItWithoutKnowingWhatYouAreInvolvingWithBrainFuck" src="https://i.redd.it/ke1asip4im7e1.jpeg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1hh40b8/whenyouareovermotivetedandfindanewprogramminglangu/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
