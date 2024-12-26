@@ -1,8 +1,8 @@
 
 <div>
-  <p>Software Craftsman & Tech Writer based out of New Delhi, India. I like to build stuff using Go, Python & Bash.</p>
+  <p>Software Craftsman & Tech Writer based in New Delhi, India.</p>
   <ul>
-    <li>I am a Community Lead at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Home for more than 700K Indian techies. 🚀)</li>
+    <li>I am a Community Lead at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a></li>
     <li>In my free time, I am probably sleeping or reading something online.</li>
     <li>I write sometimes, you can read some of my work below 👇</li>
   </ul>
@@ -22,13 +22,13 @@
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>reallyReallyDangerous</b></summary>
+<details open><summary><b>Oops :( looks like we are out of memes.</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="reallyReallyDangerous" src="https://i.redd.it/d8hmzbxj139e1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1hmc2mk/reallyreallydangerous/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Oops :( looks like we are out of memes." src="https://raw.githubusercontent.com/Bhupesh-V/memer-action/master/images/header.png" height="50%"><br>
+<p><strong>ℹ️ <a href="https://github.com/Bhupesh-V/memer-action">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
