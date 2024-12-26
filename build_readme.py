@@ -17,9 +17,9 @@ NO_OF_BLOGS = NO_OF_TILS = 4
 
 HEADER = """
 <div>
-  <p>Software Craftsman & Tech Writer based out of New Delhi, India. I like to build stuff using Go, Python & Bash.</p>
+  <p>Software Craftsman & Tech Writer based in New Delhi, India.</p>
   <ul>
-    <li>I am a Community Lead at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a> (Home for more than 700K Indian techies. 🚀)</li>
+    <li>I am a Community Lead at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a></li>
     <li>In my free time, I am probably sleeping or reading something online.</li>
     <li>I write sometimes, you can read some of my work below 👇</li>
   </ul>
@@ -41,7 +41,7 @@ PROJECTS = """
         <p align="center">
         <a href="https://github.com/Bhupesh-V/dotman">
            <img align="center" src="https://github.com/Bhupesh-V/dotman/blob/master/assets/dotman-logo.png" width="200"><br><br>
-          <b> dotman is a simple, elegant  &amp;  easy to use dotfiles manager</b>
+          <b>dotman is a simple, elegant  &amp;  easy to use dotfiles manager</b>
         </a>
         </p>
       </td>
