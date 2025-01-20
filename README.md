@@ -17,18 +17,18 @@
   <table>
     <tr>
 <td valign="top" width="34%"><b>Blogs</b><ul><li><a title="Sharing insights on my work style as a remote software engineer, detailing my expectations, communication style, engineering work, initiatives and more." href="https://bhupesh.me/open-letter-remote-tech-worker">An open letter to everyone that I will ever work with as a remote tech worker</a></li><li><a title="My learnings from publishing my first ever Dockerfile for ugit (a shell script based tool to undo git command) and writing the most optimized dockerfile for it." href="https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit">How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts</a></li><li><a title="Just sharing some feelings on how I feel about the rising hate culture on the internet" href="https://bhupesh.me/why-is-internet-lossing-its-innocence-from-collaboratio-to-hate">Why is the Internet losing its innocence - going from collaboration to hate?</a></li><li><a title="If I had some magical powers to change one thing about interview experience for software engineering roles" href="https://bhupesh.me/if-i-could-change-one-thing-about-tech-interviews">If I could change one thing about tech interviews</a></li></ul></td><td valign="top" width="33%"><b>TIL</b>
-<ul><li><a href="https://til.bhupesh.me/go/writing-performant-go-code-megalist">Mega List of Tips for Writing Performant Go Code</a></li><li><a href="https://til.bhupesh.me/databases/slowly-changing-dimensions">Slowly Changing Dimensions (SCD)</a></li><li><a href="https://til.bhupesh.me/shell/exporting-environment-variables-shell-and-vscode">Seamlessly Exporting Environment Variables for both Shell & VS Code Debugger</a></li><li><a href="https://til.bhupesh.me/management/the-art-and-science-mess-management">The art and science of mess management</a></li></ul></td><td valign="top" width="33%"><b>Newsletter</b>
+<ul><li><a href="https://til.bhupesh.me/databases/oath-for-3-normal-forms">The 3NF Oath ✋🏼</a></li><li><a href="https://til.bhupesh.me/go/writing-performant-go-code-megalist">Mega List of Tips for Writing Performant Go Code</a></li><li><a href="https://til.bhupesh.me/databases/slowly-changing-dimensions">Slowly Changing Dimensions (SCD)</a></li><li><a href="https://til.bhupesh.me/shell/exporting-environment-variables-shell-and-vscode">Seamlessly Exporting Environment Variables for both Shell & VS Code Debugger</a></li></ul></td><td valign="top" width="33%"><b>Newsletter</b>
 <ul><li><a href="https://buttondown.com/bhupesh/archive/reflections-from-my-visit-to-gophercon-india-2023/">Reflections from my visit to GopherCon India 2023</a></li><li><a href="https://buttondown.com/bhupesh/archive/10-key-lessons-from-my-first-engineering-job/">10 key lessons from my first engineering job</a></li><li><a href="https://buttondown.com/bhupesh/archive/one-secret-tip-for-first-time-oss-contributors/">One secret tip for first-time OSS contributors. Shh! 🤫 don't tell anyone else</a></li><li><a href="https://buttondown.com/bhupesh/archive/why-its-ok-to-abandon-your-side-projects/">Why it's OK to abandon your side projects 😉</a></li></ul></td></tr></table></details>
 
 ### Getting bored? have a meme 
 
-<details open><summary><b>Oops :( looks like we are out of memes.</b></summary>
+<details open><summary><b>agileIsNotTheProblem</b></summary>
 
 <table>
 <tr>
 <th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="Oops :( looks like we are out of memes." src="https://raw.githubusercontent.com/Bhupesh-V/memer-action/master/images/header.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://github.com/Bhupesh-V/memer-action">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
+<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="agileIsNotTheProblem" src="https://i.redd.it/nyzn9d6tfsde1.jpeg" height="50%"><br>
+<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1i4cok7/agileisnottheproblem/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
 </th>
 </tr>
 </table>
