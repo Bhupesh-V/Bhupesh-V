@@ -20,21 +20,6 @@
 <ul><li><a href="https://til.bhupesh.me/databases/oath-for-3-normal-forms">The 3NF Oath ✋🏼</a></li><li><a href="https://til.bhupesh.me/go/writing-performant-go-code-megalist">Mega List of Tips for Writing Performant Go Code</a></li><li><a href="https://til.bhupesh.me/databases/slowly-changing-dimensions">Slowly Changing Dimensions (SCD)</a></li><li><a href="https://til.bhupesh.me/shell/exporting-environment-variables-shell-and-vscode">Seamlessly Exporting Environment Variables for both Shell & VS Code Debugger</a></li></ul></td><td valign="top" width="33%"><b>Newsletter</b>
 <ul><li><a href="https://buttondown.com/bhupesh/archive/reflections-from-my-visit-to-gophercon-india-2023/">Reflections from my visit to GopherCon India 2023</a></li><li><a href="https://buttondown.com/bhupesh/archive/10-key-lessons-from-my-first-engineering-job/">10 key lessons from my first engineering job</a></li><li><a href="https://buttondown.com/bhupesh/archive/one-secret-tip-for-first-time-oss-contributors/">One secret tip for first-time OSS contributors. Shh! 🤫 don't tell anyone else</a></li><li><a href="https://buttondown.com/bhupesh/archive/why-its-ok-to-abandon-your-side-projects/">Why it's OK to abandon your side projects 😉</a></li></ul></td></tr></table></details>
 
-### Getting bored? have a meme 
-
-<details open><summary><b>iH8JavaSe11</b></summary>
-
-<table>
-<tr>
-<th valign="top" width="50%">
-<img title="Memes here update every 24hrs, come back tommorrow for new meme ;)" alt="iH8JavaSe11" src="https://i.redd.it/cphmifo032le1.png" height="50%"><br>
-<p><strong>ℹ️ <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1iwy7p1/ih8javase11/">Source</a> [ Powered By 🔥 <a href="https://github.com/Bhupesh-V/memer-action">Memer Action</a> ]</strong></p>
-</th>
-</tr>
-</table>
-</details>
-</ul></td>
-
 ### Hire Me
 
 - [Know more about how we can collaborate professionally](https://bhupesh.me/hire)
