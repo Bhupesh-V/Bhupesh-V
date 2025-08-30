@@ -68,9 +68,9 @@ PROJECTS = """
 
 FOOTER="""
 
-### Hire Me
+### Hire
 
-- [Know more about how we can collaborate professionally](https://bhupesh.me/hire)
+- [Know how we can collaborate professionally](https://bhupesh.me/hire)
 
 """
 
@@ -134,12 +134,12 @@ def main():
             file.write(f"""<li><a href="{item['url']}">{item['title']}</a></li>""")
         file.write("""</ul></td>""")
 
-        file.write("""<td valign="top" width="33%"><b>Newsletter</b>\n<ul>""")
-        for item in get_newsletters()[:NO_OF_TILS]:
-            title = item.find(".//title").text
-            link = item.find(".//link").text
-            file.write(f"""<li><a href="{link}">{title}</a></li>""")
-        file.write("""</ul></td>""")
+        # file.write("""<td valign="top" width="33%"><b>Newsletter</b>\n<ul>""")
+        # for item in get_newsletters()[:NO_OF_TILS]:
+        #     title = item.find(".//title").text
+        #     link = item.find(".//link").text
+        #     file.write(f"""<li><a href="{link}">{title}</a></li>""")
+        # file.write("""</ul></td>""")
 
         file.write("""</tr></table></details>""")
 
