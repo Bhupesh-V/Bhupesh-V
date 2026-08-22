@@ -19,7 +19,6 @@ HEADER = """
 <div>
   <p>Software Craftsman & Tech Writer based in New Delhi, India.</p>
   <ul>
-    <li>I am a Community Lead at <a href="https://reddit.com/r/developersIndia">r/developersIndia</a></li>
     <li>In my free time, I am probably sleeping or reading something online.</li>
     <li>I write sometimes, you can read some of my work below 👇</li>
   </ul>
@@ -118,7 +117,7 @@ def get_tils():
 def main():
 
     with open('README.md', 'w') as file:
-        file.write(HEADER)
+        ## file.write(HEADER)
         file.write(WRITEUP_HEADER)
 
         file.write("""<td valign="top" width="34%"><b>Blogs</b><ul>""")
