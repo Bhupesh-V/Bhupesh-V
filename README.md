@@ -1,12 +1,20 @@
-
 <details open>
-  <summary>Recent Writeups <br><br></summary>
-  <table>
-    <tr>
-<td valign="top" width="34%"><b>Blogs</b><ul><li><a title="Stop enabling systems that no longer serve humanity." href="https://bhupesh.me/no-empathy-human-derivative-system">No empathy for a human derivative system</a></li><li><a title="A short trip back in time describing how I got into programming." href="https://bhupesh.me/my-first-loop">How I met my first loop</a></li><li><a title="A look at 10 different ways to clone a git repository by optimizing for size." href="https://bhupesh.me/minimalist-guide-git-clone">A minimalist’s guide to cloning git repositories</a></li><li><a title="Challenging the perspective that growing as a software engineering is only possible in large-scale organizations." href="https://bhupesh.me/growth-without-scale">A software engineer’s checklist for growing without working at scale</a></li></ul></td><td valign="top" width="33%"><b>TIL</b>
-<ul><li><a href="https://til.bhupesh.me/citizen/electricity">Electricity</a></li><li><a href="https://til.bhupesh.me/shell/pandoc-ops">Pandoc Ops</a></li><li><a href="https://til.bhupesh.me/ffmpeg/av-ops">Audio/Video Ops</a></li><li><a href="https://til.bhupesh.me/arts/sketching">Sketching</a></li></ul></td></tr></table></details>
+  <summary>Recent Artifacts</summary>
+  <ul>
+    <li>[project] <a href="https://github.com/Bhupesh-V/ugit">ugit</a></li>
+    <li>[project] <a href="https://github.com/Bhupesh-V/godeping">godeping</a></li>
+    <li>[project] <a href="https://github.com/Bhupesh-V/dvs">dvs</a></li>
+    <li>[project] <a href="https://github.com/shedock/shedock">shedock</a></li>
+    <li>[project] <a href="https://bhupesh.me/finding-pull-requests-that-change-a-file-terminal/">git-prs</a></li>
+    <li>[article] <a href="https://www.freecodecamp.org/news/design-a-key-value-store-in-go/">How to Design a Transactional Key-value Store in Go</a></li>
+    <li>[article] <a href="https://nurdsoft.co/blog/a-closer-look-at-server-sent-events">A Closer Look at Server Sent Events using Go</a></li>
+    <li>[article] <a href="https://blog.invidelabs.com/git-worktree-to-make-daily-git-workflow-better/">Get your git game up with worktrees</a></li>
+    <li>[article] <a href="https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/">How I reduced the size of my very first published docker image by 40%</a></li>
+    <li>[article] <a href="https://www.freecodecamp.org/news/build-your-own-dotfiles-manager-from-scratch/">How to Build Your Own Linux Dotfiles Manager from Scratch</a></li>
+  </ul>
+</details>
+
 
 ### Hire
 
 - [Know how we can collaborate professionally](https://bhupesh.me/hire)
-
