@@ -49,7 +49,7 @@ def main
     end
     
     file.puts "  </ul>\n</details>"
-    file.puts FOOTER
+    # file.puts FOOTER
   end
 
   puts "README.md updated successfully with 10 most recent artifacts."
