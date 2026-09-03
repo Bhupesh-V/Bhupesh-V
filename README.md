@@ -14,8 +14,3 @@
     <li><a href="https://www.linkedin.com/posts/bhupesh-v_in-systems-thinking-theres-some-agreement-activity-7449737959299530752-iVOx"><b>Systems Thinking x Daredevil</b></a> <code>take</code></li>
   </ul>
 </details>
-
-
-### Hire
-
-- [Know how we can collaborate professionally](https://bhupesh.me/hire)
