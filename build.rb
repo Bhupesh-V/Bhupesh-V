@@ -1,5 +1,6 @@
 require 'yaml'
 require 'open-uri'
+require 'date'
 
 ARTIFACTS_URL = 'https://raw.githubusercontent.com/Bhupesh-V/Bhupesh-V.github.io/refs/heads/master/_data/artifacts.yml'
 BASE_DOMAIN   = 'https://bhupesh'
@@ -14,7 +15,9 @@ FOOTER
 
 def fetch_artifacts
   yaml_content = URI.open(ARTIFACTS_URL, 'User-Agent' => 'Mozilla/5.0').read
-  data = YAML.safe_load(yaml_content) || []
+  
+  # Allow Date objects to be parsed safely
+  data = YAML.safe_load(yaml_content, permitted_classes: [Date]) || []
 
   data.first(10).map do |item|
     title    = item['title'] || ''
