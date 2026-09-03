@@ -25,7 +25,7 @@ jobs:
     - name: Update README
       run: |-
         # python3 build_readme.py "${{ steps.meme.outputs.meme }}" "${{ steps.meme.outputs.title }}" "${{ steps.meme.outputs.source }}"
-          python3 build_readme.py
+          ruby build.py
     - name: Push new README.md
       uses: mikeal/publish-to-github-action@master
       env:
